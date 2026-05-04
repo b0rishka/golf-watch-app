@@ -23,7 +23,7 @@ OVERPASS_QUERY = """
   way["leisure"="golf_course"];
   relation["leisure"="golf_course"];
 );
-out center bb tags;
+out bb tags;
 """.strip()
 
 
@@ -51,8 +51,8 @@ def approximate_bbox(lat: float, lon: float) -> dict:
 
 
 def element_to_course(el: dict) -> dict | None:
-    center = el.get("center")
-    if not center:
+    bounds = el.get("bounds")
+    if not bounds:
         return None
 
     tags = el.get("tags", {})
@@ -60,24 +60,21 @@ def element_to_course(el: dict) -> dict | None:
     if not name:
         return None
 
-    bounds = el.get("bounds")
-    bbox = (
-        {
-            "minLat": bounds["minlat"],
-            "minLon": bounds["minlon"],
-            "maxLat": bounds["maxlat"],
-            "maxLon": bounds["maxlon"],
-        }
-        if bounds
-        else approximate_bbox(center["lat"], center["lon"])
-    )
+    lat = (bounds["minlat"] + bounds["maxlat"]) / 2
+    lon = (bounds["minlon"] + bounds["maxlon"]) / 2
+    bbox = {
+        "minLat": bounds["minlat"],
+        "minLon": bounds["minlon"],
+        "maxLat": bounds["maxlat"],
+        "maxLon": bounds["maxlon"],
+    }
 
     return {
         "id": el["id"],
         "osmType": el["type"],
         "name": name,
-        "lat": center["lat"],
-        "lon": center["lon"],
+        "lat": lat,
+        "lon": lon,
         "bbox": bbox,
     }
 
@@ -92,8 +89,6 @@ def main() -> None:
 
     elements = raw.get("elements", [])
     print(f"Overpass returned {len(elements)} elements", flush=True)
-    if elements:
-        print(f"First element: {json.dumps(elements[0])}", flush=True)
 
     courses = [
         course
@@ -101,7 +96,7 @@ def main() -> None:
         if (course := element_to_course(el)) is not None
     ]
 
-    print(f"After filtering: {len(courses)} named courses with center", flush=True)
+    print(f"After filtering: {len(courses)} named courses", flush=True)
     if not courses:
         print("ERROR: 0 courses after filtering — not overwriting existing file", file=sys.stderr)
         sys.exit(1)
