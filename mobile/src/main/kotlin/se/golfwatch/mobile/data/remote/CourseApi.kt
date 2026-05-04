@@ -8,6 +8,8 @@ import javax.inject.Inject
 
 private const val COURSES_URL = "https://raw.githubusercontent.com/b0rishka/golf-watch-app/main/backend/data/courses.json"
 
-class CourseApi @Inject constructor(private val client: HttpClient) {
-    suspend fun fetchCourseList(): CourseListResponse = client.get(COURSES_URL).body()
-}
+class CourseApi
+    @Inject
+    constructor(private val client: HttpClient) {
+        suspend fun fetchCourseList(): CourseListResponse = client.get(COURSES_URL).body()
+    }

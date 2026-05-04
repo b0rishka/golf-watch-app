@@ -20,57 +20,63 @@ data class CourseListUiState(
     val error: String? = null,
 ) {
     val filteredCourses: List<CourseOverview>
-        get() = if (searchQuery.isBlank()) courses
-                else courses.filter { it.name.contains(searchQuery, ignoreCase = true) }
+        get() =
+            if (searchQuery.isBlank()) {
+                courses
+            } else {
+                courses.filter { it.name.contains(searchQuery, ignoreCase = true) }
+            }
 }
 
 @HiltViewModel
-class CourseListViewModel @Inject constructor(
-    private val repository: CourseRepository,
-) : ViewModel() {
+class CourseListViewModel
+    @Inject
+    constructor(
+        private val repository: CourseRepository,
+    ) : ViewModel() {
+        private val searchQuery = MutableStateFlow("")
+        private val isLoading = MutableStateFlow(true)
+        private val error = MutableStateFlow<String?>(null)
 
-    private val searchQuery = MutableStateFlow("")
-    private val isLoading = MutableStateFlow(true)
-    private val error = MutableStateFlow<String?>(null)
+        val uiState: StateFlow<CourseListUiState> =
+            combine(
+                repository.observeCourses(),
+                searchQuery,
+                isLoading,
+                error,
+            ) { courses, query, loading, err ->
+                CourseListUiState(
+                    courses = courses,
+                    searchQuery = query,
+                    isLoading = loading,
+                    error = err,
+                )
+            }.stateIn(
+                scope = viewModelScope,
+                started = SharingStarted.WhileSubscribed(5_000),
+                initialValue = CourseListUiState(),
+            )
 
-    val uiState: StateFlow<CourseListUiState> = combine(
-        repository.observeCourses(),
-        searchQuery,
-        isLoading,
-        error,
-    ) { courses, query, loading, err ->
-        CourseListUiState(
-            courses = courses,
-            searchQuery = query,
-            isLoading = loading,
-            error = err,
-        )
-    }.stateIn(
-        scope = viewModelScope,
-        started = SharingStarted.WhileSubscribed(5_000),
-        initialValue = CourseListUiState(),
-    )
+        init {
+            refresh()
+        }
 
-    init {
-        refresh()
-    }
+        fun onSearchQueryChange(query: String) {
+            searchQuery.value = query
+        }
 
-    fun onSearchQueryChange(query: String) {
-        searchQuery.value = query
-    }
-
-    fun refresh() {
-        viewModelScope.launch {
-            isLoading.value = true
-            error.value = null
-            try {
-                repository.refreshCourses()
-            } catch (e: Exception) {
-                // Surface the error only if there's nothing cached to show.
-                error.value = "Couldn't load courses. Check your connection."
-            } finally {
-                isLoading.value = false
+        fun refresh() {
+            viewModelScope.launch {
+                isLoading.value = true
+                error.value = null
+                try {
+                    repository.refreshCourses()
+                } catch (e: Exception) {
+                    // Surface the error only if there's nothing cached to show.
+                    error.value = "Couldn't load courses. Check your connection."
+                } finally {
+                    isLoading.value = false
+                }
             }
         }
     }
-}

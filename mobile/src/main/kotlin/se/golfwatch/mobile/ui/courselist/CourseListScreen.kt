@@ -58,9 +58,10 @@ private fun CourseListContent(
     onCourseClick: (CourseOverview) -> Unit,
 ) {
     Column(
-        modifier = Modifier
-            .fillMaxSize()
-            .background(GolfColors.surfaceBase),
+        modifier =
+            Modifier
+                .fillMaxSize()
+                .background(GolfColors.surfaceBase),
     ) {
         // Header
         Column(
@@ -84,9 +85,10 @@ private fun CourseListContent(
         CourseSearchBar(
             query = uiState.searchQuery,
             onQueryChange = onSearchQueryChange,
-            modifier = Modifier
-                .fillMaxWidth()
-                .padding(horizontal = 24.dp),
+            modifier =
+                Modifier
+                    .fillMaxWidth()
+                    .padding(horizontal = 24.dp),
         )
 
         Spacer(Modifier.height(20.dp))
@@ -138,9 +140,10 @@ private fun CourseSearchBar(
     modifier: Modifier = Modifier,
 ) {
     Box(
-        modifier = modifier
-            .background(GolfColors.surfaceRaised, RoundedCornerShape(12.dp))
-            .padding(horizontal = 12.dp, vertical = 11.dp),
+        modifier =
+            modifier
+                .background(GolfColors.surfaceRaised, RoundedCornerShape(12.dp))
+                .padding(horizontal = 12.dp, vertical = 11.dp),
         contentAlignment = Alignment.CenterStart,
     ) {
         Row(verticalAlignment = Alignment.CenterVertically) {
@@ -178,11 +181,12 @@ private fun CourseCard(
     onClick: () -> Unit,
 ) {
     Box(
-        modifier = Modifier
-            .fillMaxWidth()
-            .background(GolfColors.surfaceRaised, RoundedCornerShape(14.dp))
-            .clickable(onClick = onClick)
-            .padding(horizontal = 16.dp, vertical = 14.dp),
+        modifier =
+            Modifier
+                .fillMaxWidth()
+                .background(GolfColors.surfaceRaised, RoundedCornerShape(14.dp))
+                .clickable(onClick = onClick)
+                .padding(horizontal = 16.dp, vertical = 14.dp),
     ) {
         Row(verticalAlignment = Alignment.CenterVertically) {
             Column(modifier = Modifier.weight(1f)) {
@@ -195,9 +199,10 @@ private fun CourseCard(
                 Row(verticalAlignment = Alignment.CenterVertically) {
                     // Status dot — neutral until geometry is fetched in step 4
                     Box(
-                        modifier = Modifier
-                            .size(5.dp)
-                            .background(GolfColors.statusPartial, CircleShape),
+                        modifier =
+                            Modifier
+                                .size(5.dp)
+                                .background(GolfColors.statusPartial, CircleShape),
                     )
                     Spacer(Modifier.width(5.dp))
                     Text(
@@ -220,14 +225,16 @@ private fun CourseCard(
 @Composable
 private fun CourseListPreview() {
     CourseListContent(
-        uiState = CourseListUiState(
-            isLoading = false,
-            courses = listOf(
-                CourseOverview(1L, "way", "Stockholms Golfklubb", 59.3, 18.0, 0.0, 0.0, 0.0, 0.0),
-                CourseOverview(2L, "relation", "Åtvidabergs GK", 58.2, 16.0, 0.0, 0.0, 0.0, 0.0),
-                CourseOverview(3L, "way", "Bro Hof Slott GC", 59.5, 17.6, 0.0, 0.0, 0.0, 0.0),
+        uiState =
+            CourseListUiState(
+                isLoading = false,
+                courses =
+                    listOf(
+                        CourseOverview(1L, "way", "Stockholms Golfklubb", 59.3, 18.0, 0.0, 0.0, 0.0, 0.0),
+                        CourseOverview(2L, "relation", "Åtvidabergs GK", 58.2, 16.0, 0.0, 0.0, 0.0, 0.0),
+                        CourseOverview(3L, "way", "Bro Hof Slott GC", 59.5, 17.6, 0.0, 0.0, 0.0, 0.0),
+                    ),
             ),
-        ),
         onSearchQueryChange = {},
         onCourseClick = {},
     )

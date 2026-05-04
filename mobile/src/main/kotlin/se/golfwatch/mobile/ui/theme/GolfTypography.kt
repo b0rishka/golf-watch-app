@@ -10,18 +10,20 @@ import androidx.compose.ui.unit.sp
 object GolfTypography {
     val headlineLarge = TextStyle(fontSize = 26.sp, fontWeight = FontWeight.W400)
     val headlineMedium = TextStyle(fontSize = 22.sp, fontWeight = FontWeight.W400)
-    val displayStat = TextStyle(
-        fontSize = 22.sp,
-        fontWeight = FontWeight.W400,
-        fontFeatureSettings = "tnum",
-    )
+    val displayStat =
+        TextStyle(
+            fontSize = 22.sp,
+            fontWeight = FontWeight.W400,
+            fontFeatureSettings = "tnum",
+        )
     val bodyLarge = TextStyle(fontSize = 15.sp, fontWeight = FontWeight.W500)
     val bodyMedium = TextStyle(fontSize = 13.sp, fontWeight = FontWeight.W400)
     val bodySmall = TextStyle(fontSize = 12.sp, fontWeight = FontWeight.W500)
     val labelSmall = TextStyle(fontSize = 11.sp, fontWeight = FontWeight.W400)
-    val caption = TextStyle(
-        fontSize = 10.sp,
-        fontWeight = FontWeight.W500,
-        letterSpacing = 1.5.sp,
-    )
+    val caption =
+        TextStyle(
+            fontSize = 10.sp,
+            fontWeight = FontWeight.W500,
+            letterSpacing = 1.5.sp,
+        )
 }
