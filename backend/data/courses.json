@@ -1,5 +1,8274 @@
 {
-  "generated": "2026-05-04T16:39:35.198641+00:00",
-  "count": 0,
-  "courses": []
+  "generated": "2026-05-04T17:06:56.271804+00:00",
+  "count": 636,
+  "courses": [
+    {
+      "id": 95008055,
+      "osmType": "way",
+      "name": "A6 Golfklubb",
+      "lat": 57.7604196,
+      "lon": 14.2121991,
+      "bbox": {
+        "minLat": 57.7530059,
+        "minLon": 14.1980231,
+        "maxLat": 57.7678333,
+        "maxLon": 14.2263751
+      }
+    },
+    {
+      "id": 34148679,
+      "osmType": "way",
+      "name": "Abbekås golfklubb",
+      "lat": 55.4101572,
+      "lon": 13.60611995,
+      "bbox": {
+        "minLat": 55.4032687,
+        "minLon": 13.5944317,
+        "maxLat": 55.4170457,
+        "maxLon": 13.6178082
+      }
+    },
+    {
+      "id": 20576525,
+      "osmType": "relation",
+      "name": "Academy Course",
+      "lat": 56.9601814,
+      "lon": 23.882613749999997,
+      "bbox": {
+        "minLat": 56.958575,
+        "minLon": 23.8784647,
+        "maxLat": 56.9617878,
+        "maxLon": 23.8867628
+      }
+    },
+    {
+      "id": 350221060,
+      "osmType": "way",
+      "name": "Alastaro Golf",
+      "lat": 60.9814339,
+      "lon": 22.6437572,
+      "bbox": {
+        "minLat": 60.9765592,
+        "minLon": 22.6330249,
+        "maxLat": 60.9863086,
+        "maxLon": 22.6544895
+      }
+    },
+    {
+      "id": 10420887,
+      "osmType": "relation",
+      "name": "Albatross Golfklubb",
+      "lat": 57.781956,
+      "lon": 11.9534848,
+      "bbox": {
+        "minLat": 57.7761195,
+        "minLon": 11.9431453,
+        "maxLat": 57.7877925,
+        "maxLon": 11.9638243
+      }
+    },
+    {
+      "id": 25500419,
+      "osmType": "way",
+      "name": "Albertslund Golfklub",
+      "lat": 55.675286549999996,
+      "lon": 12.32169285,
+      "bbox": {
+        "minLat": 55.6708907,
+        "minLon": 12.3167198,
+        "maxLat": 55.6796824,
+        "maxLon": 12.3266659
+      }
+    },
+    {
+      "id": 11344654,
+      "osmType": "relation",
+      "name": "Ale Golfklubb",
+      "lat": 58.003995849999995,
+      "lon": 12.18571005,
+      "bbox": {
+        "minLat": 57.9974868,
+        "minLon": 12.1758449,
+        "maxLat": 58.0105049,
+        "maxLon": 12.1955752
+      }
+    },
+    {
+      "id": 4427281,
+      "osmType": "relation",
+      "name": "Alingsås Golfklubb",
+      "lat": 57.88106675,
+      "lon": 12.55181355,
+      "bbox": {
+        "minLat": 57.8728871,
+        "minLon": 12.5445498,
+        "maxLat": 57.8892464,
+        "maxLon": 12.5590773
+      }
+    },
+    {
+      "id": 5340013,
+      "osmType": "relation",
+      "name": "Allerum golfklubb",
+      "lat": 56.1263705,
+      "lon": 12.7123276,
+      "bbox": {
+        "minLat": 56.11896,
+        "minLon": 12.6995276,
+        "maxLat": 56.133781,
+        "maxLon": 12.7251276
+      }
+    },
+    {
+      "id": 11509894,
+      "osmType": "relation",
+      "name": "Allmags Golfklubb",
+      "lat": 58.2060059,
+      "lon": 11.7985466,
+      "bbox": {
+        "minLat": 58.2023098,
+        "minLon": 11.7867905,
+        "maxLat": 58.209702,
+        "maxLon": 11.8103027
+      }
+    },
+    {
+      "id": 74601596,
+      "osmType": "way",
+      "name": "Araslövs Golfklubb",
+      "lat": 56.0602577,
+      "lon": 14.09349355,
+      "bbox": {
+        "minLat": 56.0511677,
+        "minLon": 14.0841776,
+        "maxLat": 56.0693477,
+        "maxLon": 14.1028095
+      }
+    },
+    {
+      "id": 363811577,
+      "osmType": "way",
+      "name": "Arboga Golfklubb",
+      "lat": 59.369129,
+      "lon": 15.76132335,
+      "bbox": {
+        "minLat": 59.362514,
+        "minLon": 15.7522395,
+        "maxLat": 59.375744,
+        "maxLon": 15.7704072
+      }
+    },
+    {
+      "id": 33528671,
+      "osmType": "way",
+      "name": "Archipelagia golf club",
+      "lat": 60.316029799999995,
+      "lon": 22.27170435,
+      "bbox": {
+        "minLat": 60.3114851,
+        "minLon": 22.2588123,
+        "maxLat": 60.3205745,
+        "maxLon": 22.2845964
+      }
+    },
+    {
+      "id": 482788880,
+      "osmType": "way",
+      "name": "Are Golfclub",
+      "lat": 63.403817149999995,
+      "lon": 12.81401545,
+      "bbox": {
+        "minLat": 63.398652,
+        "minLon": 12.7984017,
+        "maxLat": 63.4089823,
+        "maxLon": 12.8296292
+      }
+    },
+    {
+      "id": 20276372,
+      "osmType": "way",
+      "name": "Arlandastad Golf",
+      "lat": 59.604548199999996,
+      "lon": 17.88261455,
+      "bbox": {
+        "minLat": 59.5959322,
+        "minLon": 17.8684396,
+        "maxLat": 59.6131642,
+        "maxLon": 17.8967895
+      }
+    },
+    {
+      "id": 85694415,
+      "osmType": "way",
+      "name": "Arninge Golfklubb",
+      "lat": 59.48112065,
+      "lon": 18.126521,
+      "bbox": {
+        "minLat": 59.4739517,
+        "minLon": 18.1184957,
+        "maxLat": 59.4882896,
+        "maxLon": 18.1345463
+      }
+    },
+    {
+      "id": 207869504,
+      "osmType": "way",
+      "name": "Arvidsjaurs Golfklubb",
+      "lat": 65.585628,
+      "lon": 19.21243645,
+      "bbox": {
+        "minLat": 65.5810741,
+        "minLon": 19.2062819,
+        "maxLat": 65.5901819,
+        "maxLon": 19.218591
+      }
+    },
+    {
+      "id": 366206376,
+      "osmType": "way",
+      "name": "Arvika Golfklubb",
+      "lat": 59.652078849999995,
+      "lon": 12.778667599999999,
+      "bbox": {
+        "minLat": 59.643606,
+        "minLon": 12.7724467,
+        "maxLat": 59.6605517,
+        "maxLon": 12.7848885
+      }
+    },
+    {
+      "id": 3726568,
+      "osmType": "relation",
+      "name": "Askim golfklubb",
+      "lat": 59.596801,
+      "lon": 11.1718124,
+      "bbox": {
+        "minLat": 59.5932539,
+        "minLon": 11.1647166,
+        "maxLat": 59.6003481,
+        "maxLon": 11.1789082
+      }
+    },
+    {
+      "id": 5717027,
+      "osmType": "relation",
+      "name": "Aspeboda golf",
+      "lat": 60.54662005,
+      "lon": 15.51944305,
+      "bbox": {
+        "minLat": 60.5413652,
+        "minLon": 15.5108586,
+        "maxLat": 60.5518749,
+        "maxLon": 15.5280275
+      }
+    },
+    {
+      "id": 26585386,
+      "osmType": "way",
+      "name": "Asserbo Golf Club",
+      "lat": 55.9971212,
+      "lon": 12.02519045,
+      "bbox": {
+        "minLat": 55.9915298,
+        "minLon": 12.0161804,
+        "maxLat": 56.0027126,
+        "maxLon": 12.0342005
+      }
+    },
+    {
+      "id": 17272802,
+      "osmType": "relation",
+      "name": "Atlungstad golf",
+      "lat": 60.75500625,
+      "lon": 11.0881619,
+      "bbox": {
+        "minLat": 60.7507193,
+        "minLon": 11.0778333,
+        "maxLat": 60.7592932,
+        "maxLon": 11.0984905
+      }
+    },
+    {
+      "id": 8256069,
+      "osmType": "relation",
+      "name": "Aulangon Golf Eversti",
+      "lat": 61.03624485,
+      "lon": 24.4624943,
+      "bbox": {
+        "minLat": 61.0302402,
+        "minLon": 24.4502465,
+        "maxLat": 61.0422495,
+        "maxLon": 24.4747421
+      }
+    },
+    {
+      "id": 8254495,
+      "osmType": "relation",
+      "name": "Aulangon Golf Hugo",
+      "lat": 61.02596255,
+      "lon": 24.438915350000002,
+      "bbox": {
+        "minLat": 61.0234485,
+        "minLon": 24.4322667,
+        "maxLat": 61.0284766,
+        "maxLon": 24.445564
+      }
+    },
+    {
+      "id": 338101705,
+      "osmType": "way",
+      "name": "Aura Golf",
+      "lat": 60.4228636,
+      "lon": 22.123408750000003,
+      "bbox": {
+        "minLat": 60.4182366,
+        "minLon": 22.1132306,
+        "maxLat": 60.4274906,
+        "maxLon": 22.1335869
+      }
+    },
+    {
+      "id": 486576403,
+      "osmType": "way",
+      "name": "Aurinko Golf Oy",
+      "lat": 60.4953965,
+      "lon": 22.0720644,
+      "bbox": {
+        "minLat": 60.4913546,
+        "minLon": 22.062927,
+        "maxLat": 60.4994384,
+        "maxLon": 22.0812018
+      }
+    },
+    {
+      "id": 16325738,
+      "osmType": "relation",
+      "name": "Aurskog Golfpark",
+      "lat": 59.93896185,
+      "lon": 11.42811035,
+      "bbox": {
+        "minLat": 59.9338678,
+        "minLon": 11.41874,
+        "maxLat": 59.9440559,
+        "maxLon": 11.4374807
+      }
+    },
+    {
+      "id": 66062178,
+      "osmType": "way",
+      "name": "Avesta golfklubb",
+      "lat": 60.14496065,
+      "lon": 16.2140217,
+      "bbox": {
+        "minLat": 60.140591,
+        "minLon": 16.2025864,
+        "maxLat": 60.1493303,
+        "maxLon": 16.225457
+      }
+    },
+    {
+      "id": 461628693,
+      "osmType": "way",
+      "name": "Backa Säteri Golf",
+      "lat": 57.8819136,
+      "lon": 12.05531385,
+      "bbox": {
+        "minLat": 57.8779663,
+        "minLon": 12.0491877,
+        "maxLat": 57.8858609,
+        "maxLon": 12.06144
+      }
+    },
+    {
+      "id": 117203982,
+      "osmType": "way",
+      "name": "Ballerud golfbane",
+      "lat": 59.9073636,
+      "lon": 10.5819733,
+      "bbox": {
+        "minLat": 59.9044774,
+        "minLon": 10.5780938,
+        "maxLat": 59.9102498,
+        "maxLon": 10.5858528
+      }
+    },
+    {
+      "id": 3145703,
+      "osmType": "relation",
+      "name": "Barsebäcks G&CC",
+      "lat": 55.79475185,
+      "lon": 12.9487129,
+      "bbox": {
+        "minLat": 55.7878947,
+        "minLon": 12.9344448,
+        "maxLat": 55.801609,
+        "maxLon": 12.962981
+      }
+    },
+    {
+      "id": 55287417,
+      "osmType": "way",
+      "name": "Beddinge golfklubb",
+      "lat": 55.3690977,
+      "lon": 13.43302785,
+      "bbox": {
+        "minLat": 55.3656237,
+        "minLon": 13.4247074,
+        "maxLat": 55.3725717,
+        "maxLon": 13.4413483
+      }
+    },
+    {
+      "id": 42216554,
+      "osmType": "way",
+      "name": "Billeruds GK",
+      "lat": 59.2506856,
+      "lon": 13.0082828,
+      "bbox": {
+        "minLat": 59.2446619,
+        "minLon": 13.0015234,
+        "maxLat": 59.2567093,
+        "maxLon": 13.0150422
+      }
+    },
+    {
+      "id": 502708262,
+      "osmType": "way",
+      "name": "Billingens Golfklubb",
+      "lat": 58.467028549999995,
+      "lon": 13.690002150000002,
+      "bbox": {
+        "minLat": 58.4631955,
+        "minLon": 13.678349,
+        "maxLat": 58.4708616,
+        "maxLon": 13.7016553
+      }
+    },
+    {
+      "id": 69043826,
+      "osmType": "way",
+      "name": "Binga golfklubb",
+      "lat": 56.6331006,
+      "lon": 16.224418399999998,
+      "bbox": {
+        "minLat": 56.6303257,
+        "minLon": 16.2189995,
+        "maxLat": 56.6358755,
+        "maxLon": 16.2298373
+      }
+    },
+    {
+      "id": 164831547,
+      "osmType": "way",
+      "name": "Bjurholms Golfklubb",
+      "lat": 63.965665900000005,
+      "lon": 19.20153345,
+      "bbox": {
+        "minLat": 63.9563587,
+        "minLon": 19.1930205,
+        "maxLat": 63.9749731,
+        "maxLon": 19.2100464
+      }
+    },
+    {
+      "id": 42484493,
+      "osmType": "way",
+      "name": "Bjäre Golfklubb",
+      "lat": 56.4053191,
+      "lon": 12.7838602,
+      "bbox": {
+        "minLat": 56.4012069,
+        "minLon": 12.7731684,
+        "maxLat": 56.4094313,
+        "maxLon": 12.794552
+      }
+    },
+    {
+      "id": 799057449,
+      "osmType": "way",
+      "name": "Bjärkas Golf",
+      "lat": 60.0717027,
+      "lon": 22.63634005,
+      "bbox": {
+        "minLat": 60.0697844,
+        "minLon": 22.6330014,
+        "maxLat": 60.073621,
+        "maxLon": 22.6396787
+      }
+    },
+    {
+      "id": 799057450,
+      "osmType": "way",
+      "name": "Bjärkas Golf",
+      "lat": 60.07071115,
+      "lon": 22.63418155,
+      "bbox": {
+        "minLat": 60.0701016,
+        "minLon": 22.6337457,
+        "maxLat": 60.0713207,
+        "maxLon": 22.6346174
+      }
+    },
+    {
+      "id": 799057451,
+      "osmType": "way",
+      "name": "Bjärkas Golf",
+      "lat": 60.0725669,
+      "lon": 22.63371415,
+      "bbox": {
+        "minLat": 60.0715676,
+        "minLon": 22.6311412,
+        "maxLat": 60.0735662,
+        "maxLon": 22.6362871
+      }
+    },
+    {
+      "id": 40772446,
+      "osmType": "way",
+      "name": "Björkenäs Golfklubb",
+      "lat": 55.7693615,
+      "lon": 13.01527385,
+      "bbox": {
+        "minLat": 55.7664145,
+        "minLon": 13.0068649,
+        "maxLat": 55.7723085,
+        "maxLon": 13.0236828
+      }
+    },
+    {
+      "id": 4451804,
+      "osmType": "relation",
+      "name": "Björkhagens Golfklubb",
+      "lat": 59.2863179,
+      "lon": 18.14283905,
+      "bbox": {
+        "minLat": 59.2836019,
+        "minLon": 18.1363501,
+        "maxLat": 59.2890339,
+        "maxLon": 18.149328
+      }
+    },
+    {
+      "id": 7924977,
+      "osmType": "relation",
+      "name": "Bleik Golfstrømbane",
+      "lat": 69.28201885,
+      "lon": 15.98040735,
+      "bbox": {
+        "minLat": 69.2773292,
+        "minLon": 15.9700806,
+        "maxLat": 69.2867085,
+        "maxLon": 15.9907341
+      }
+    },
+    {
+      "id": 20267399,
+      "osmType": "relation",
+      "name": "Blixtorps golfbana",
+      "lat": 57.08357595,
+      "lon": 12.3154123,
+      "bbox": {
+        "minLat": 57.0813211,
+        "minLon": 12.3120555,
+        "maxLat": 57.0858308,
+        "maxLon": 12.3187691
+      }
+    },
+    {
+      "id": 975363500,
+      "osmType": "way",
+      "name": "Boa Golfklubb Olofström",
+      "lat": 56.20966105,
+      "lon": 14.60393555,
+      "bbox": {
+        "minLat": 56.2065001,
+        "minLon": 14.5931799,
+        "maxLat": 56.212822,
+        "maxLon": 14.6146912
+      }
+    },
+    {
+      "id": 4440570,
+      "osmType": "relation",
+      "name": "Boaryd;Boaryd Golf",
+      "lat": 57.6360119,
+      "lon": 15.09281135,
+      "bbox": {
+        "minLat": 57.6343062,
+        "minLon": 15.0874574,
+        "maxLat": 57.6377176,
+        "maxLon": 15.0981653
+      }
+    },
+    {
+      "id": 1003284540,
+      "osmType": "way",
+      "name": "Bodens Golfklubb",
+      "lat": 65.75093240000001,
+      "lon": 21.75600765,
+      "bbox": {
+        "minLat": 65.744422,
+        "minLon": 21.7427436,
+        "maxLat": 65.7574428,
+        "maxLon": 21.7692717
+      }
+    },
+    {
+      "id": 12457735,
+      "osmType": "relation",
+      "name": "Bodø golfpark",
+      "lat": 67.34520235,
+      "lon": 14.53410075,
+      "bbox": {
+        "minLat": 67.3371677,
+        "minLon": 14.5220697,
+        "maxLat": 67.353237,
+        "maxLon": 14.5461318
+      }
+    },
+    {
+      "id": 23727737,
+      "osmType": "way",
+      "name": "Bokskogens Golfklubb",
+      "lat": 55.551778150000004,
+      "lon": 13.2385099,
+      "bbox": {
+        "minLat": 55.5451622,
+        "minLon": 13.225508,
+        "maxLat": 55.5583941,
+        "maxLon": 13.2515118
+      }
+    },
+    {
+      "id": 37103495,
+      "osmType": "way",
+      "name": "Bolidens GK",
+      "lat": 64.8756869,
+      "lon": 20.22898985,
+      "bbox": {
+        "minLat": 64.8727052,
+        "minLon": 20.2160642,
+        "maxLat": 64.8786686,
+        "maxLon": 20.2419155
+      }
+    },
+    {
+      "id": 10889624,
+      "osmType": "relation",
+      "name": "Bollestad Golfklubb",
+      "lat": 57.88859155,
+      "lon": 11.894282700000002,
+      "bbox": {
+        "minLat": 57.8850414,
+        "minLon": 11.8862897,
+        "maxLat": 57.8921417,
+        "maxLon": 11.9022757
+      }
+    },
+    {
+      "id": 149605042,
+      "osmType": "way",
+      "name": "Bornholms Golf Klub",
+      "lat": 55.0862402,
+      "lon": 14.75294825,
+      "bbox": {
+        "minLat": 55.0805017,
+        "minLon": 14.7461277,
+        "maxLat": 55.0919787,
+        "maxLon": 14.7597688
+      }
+    },
+    {
+      "id": 76856473,
+      "osmType": "way",
+      "name": "Borregaard Golfbane",
+      "lat": 59.29659605,
+      "lon": 11.13399705,
+      "bbox": {
+        "minLat": 59.2942353,
+        "minLon": 11.1288892,
+        "maxLat": 59.2989568,
+        "maxLon": 11.1391049
+      }
+    },
+    {
+      "id": 10180532,
+      "osmType": "relation",
+      "name": "Borås Golfklubb",
+      "lat": 57.6709461,
+      "lon": 12.9352574,
+      "bbox": {
+        "minLat": 57.6637606,
+        "minLon": 12.9207963,
+        "maxLat": 57.6781316,
+        "maxLon": 12.9497185
+      }
+    },
+    {
+      "id": 10619924,
+      "osmType": "relation",
+      "name": "Bosjökloster Golfklubb",
+      "lat": 55.88259565,
+      "lon": 13.520864849999999,
+      "bbox": {
+        "minLat": 55.8777394,
+        "minLon": 13.5076475,
+        "maxLat": 55.8874519,
+        "maxLon": 13.5340822
+      }
+    },
+    {
+      "id": 3928677,
+      "osmType": "relation",
+      "name": "Botkyrka GK",
+      "lat": 59.16124545,
+      "lon": 17.83231855,
+      "bbox": {
+        "minLat": 59.1556762,
+        "minLon": 17.8195306,
+        "maxLat": 59.1668147,
+        "maxLon": 17.8451065
+      }
+    },
+    {
+      "id": 186750680,
+      "osmType": "way",
+      "name": "Botnia Golf",
+      "lat": 62.35909065,
+      "lon": 22.1165333,
+      "bbox": {
+        "minLat": 62.353923,
+        "minLon": 22.1032541,
+        "maxLat": 62.3642583,
+        "maxLon": 22.1298125
+      }
+    },
+    {
+      "id": 289444275,
+      "osmType": "way",
+      "name": "Bredareds Golfklubb",
+      "lat": 57.8194011,
+      "lon": 12.90563485,
+      "bbox": {
+        "minLat": 57.8126579,
+        "minLon": 12.8992469,
+        "maxLat": 57.8261443,
+        "maxLon": 12.9120228
+      }
+    },
+    {
+      "id": 35935442,
+      "osmType": "way",
+      "name": "Bro Bålsta GK",
+      "lat": 59.520316550000004,
+      "lon": 17.585728,
+      "bbox": {
+        "minLat": 59.5120932,
+        "minLon": 17.5744678,
+        "maxLat": 59.5285399,
+        "maxLon": 17.5969882
+      }
+    },
+    {
+      "id": 5509342,
+      "osmType": "relation",
+      "name": "Bro Hof Slott Golf Club",
+      "lat": 59.4982825,
+      "lon": 17.633781300000003,
+      "bbox": {
+        "minLat": 59.4902027,
+        "minLon": 17.6166926,
+        "maxLat": 59.5063623,
+        "maxLon": 17.65087
+      }
+    },
+    {
+      "id": 3049183,
+      "osmType": "relation",
+      "name": "Brollsta Golfklubb",
+      "lat": 59.577958100000004,
+      "lon": 18.30031435,
+      "bbox": {
+        "minLat": 59.5721351,
+        "minLon": 18.2850033,
+        "maxLat": 59.5837811,
+        "maxLon": 18.3156254
+      }
+    },
+    {
+      "id": 14801946,
+      "osmType": "relation",
+      "name": "Bromma Golf",
+      "lat": 59.34855355,
+      "lon": 17.939493,
+      "bbox": {
+        "minLat": 59.3454062,
+        "minLon": 17.9351107,
+        "maxLat": 59.3517009,
+        "maxLon": 17.9438753
+      }
+    },
+    {
+      "id": 54034862,
+      "osmType": "way",
+      "name": "Bryngfjordens Golfklubb",
+      "lat": 59.4144886,
+      "lon": 13.45501315,
+      "bbox": {
+        "minLat": 59.4050267,
+        "minLon": 13.4386992,
+        "maxLat": 59.4239505,
+        "maxLon": 13.4713271
+      }
+    },
+    {
+      "id": 2624162,
+      "osmType": "relation",
+      "name": "Bråvikens Golfklubb",
+      "lat": 58.6047224,
+      "lon": 16.321871,
+      "bbox": {
+        "minLat": 58.5969928,
+        "minLon": 16.3105805,
+        "maxLat": 58.612452,
+        "maxLon": 16.3331615
+      }
+    },
+    {
+      "id": 529251032,
+      "osmType": "way",
+      "name": "Brændeskovgård Golf",
+      "lat": 55.1280993,
+      "lon": 10.60374395,
+      "bbox": {
+        "minLat": 55.1264278,
+        "minLon": 10.5993633,
+        "maxLat": 55.1297708,
+        "maxLon": 10.6081246
+      }
+    },
+    {
+      "id": 19933858,
+      "osmType": "relation",
+      "name": "Brøndby Golfklub",
+      "lat": 55.6325597,
+      "lon": 12.4076826,
+      "bbox": {
+        "minLat": 55.6295005,
+        "minLon": 12.3937169,
+        "maxLat": 55.6356189,
+        "maxLon": 12.4216483
+      }
+    },
+    {
+      "id": 33197541,
+      "osmType": "way",
+      "name": "Burviks GK",
+      "lat": 59.903536,
+      "lon": 18.3819901,
+      "bbox": {
+        "minLat": 59.8989838,
+        "minLon": 18.3679144,
+        "maxLat": 59.9080882,
+        "maxLon": 18.3960658
+      }
+    },
+    {
+      "id": 181275873,
+      "osmType": "way",
+      "name": "Byvallen golfbana",
+      "lat": 62.0245157,
+      "lon": 14.464738050000001,
+      "bbox": {
+        "minLat": 62.0207071,
+        "minLon": 14.4570751,
+        "maxLat": 62.0283243,
+        "maxLon": 14.472401
+      }
+    },
+    {
+      "id": 987927003,
+      "osmType": "way",
+      "name": "Byxelkroks Gk",
+      "lat": 57.3101393,
+      "lon": 17.00226445,
+      "bbox": {
+        "minLat": 57.3092263,
+        "minLon": 16.9995663,
+        "maxLat": 57.3110523,
+        "maxLon": 17.0049626
+      }
+    },
+    {
+      "id": 327128868,
+      "osmType": "way",
+      "name": "Byxelkroks Golfklubb",
+      "lat": 57.31082225,
+      "lon": 16.9938957,
+      "bbox": {
+        "minLat": 57.3084157,
+        "minLon": 16.988657,
+        "maxLat": 57.3132288,
+        "maxLon": 16.9991344
+      }
+    },
+    {
+      "id": 250487451,
+      "osmType": "way",
+      "name": "Båsenberga golf",
+      "lat": 59.0690604,
+      "lon": 15.9168084,
+      "bbox": {
+        "minLat": 59.0586775,
+        "minLon": 15.905339,
+        "maxLat": 59.0794433,
+        "maxLon": 15.9282778
+      }
+    },
+    {
+      "id": 277451634,
+      "osmType": "way",
+      "name": "Båstad Golfklubb",
+      "lat": 56.428893099999996,
+      "lon": 12.7805315,
+      "bbox": {
+        "minLat": 56.4230489,
+        "minLon": 12.7619688,
+        "maxLat": 56.4347373,
+        "maxLon": 12.7990942
+      }
+    },
+    {
+      "id": 1335875,
+      "osmType": "relation",
+      "name": "Bærum Golfklubb",
+      "lat": 59.96131905,
+      "lon": 10.4949738,
+      "bbox": {
+        "minLat": 59.9556897,
+        "minLon": 10.482382,
+        "maxLat": 59.9669484,
+        "maxLon": 10.5075656
+      }
+    },
+    {
+      "id": 38445285,
+      "osmType": "way",
+      "name": "Böda Sands golfbana",
+      "lat": 57.272683549999996,
+      "lon": 17.0448995,
+      "bbox": {
+        "minLat": 57.2698229,
+        "minLon": 17.0405873,
+        "maxLat": 57.2755442,
+        "maxLon": 17.0492117
+      }
+    },
+    {
+      "id": 276611657,
+      "osmType": "way",
+      "name": "Carlskrona Golfklubb",
+      "lat": 56.15909475,
+      "lon": 15.4503537,
+      "bbox": {
+        "minLat": 56.154587,
+        "minLon": 15.4399125,
+        "maxLat": 56.1636025,
+        "maxLon": 15.4607949
+      }
+    },
+    {
+      "id": 10567214,
+      "osmType": "relation",
+      "name": "Chalmers Golf Club",
+      "lat": 57.6951014,
+      "lon": 12.2642056,
+      "bbox": {
+        "minLat": 57.6888043,
+        "minLon": 12.2554636,
+        "maxLat": 57.7013985,
+        "maxLon": 12.2729476
+      }
+    },
+    {
+      "id": 25316576,
+      "osmType": "way",
+      "name": "Copenhagen Golf Center",
+      "lat": 55.6343965,
+      "lon": 12.3845681,
+      "bbox": {
+        "minLat": 55.6285711,
+        "minLon": 12.3736679,
+        "maxLat": 55.6402219,
+        "maxLon": 12.3954683
+      }
+    },
+    {
+      "id": 1306528183,
+      "osmType": "way",
+      "name": "Crownwood Club - under byggnation",
+      "lat": 56.2250387,
+      "lon": 12.8149209,
+      "bbox": {
+        "minLat": 56.217578,
+        "minLon": 12.8021107,
+        "maxLat": 56.2324994,
+        "maxLon": 12.8277311
+      }
+    },
+    {
+      "id": 4442090,
+      "osmType": "relation",
+      "name": "Dagsholm Golfklubb",
+      "lat": 58.520371749999995,
+      "lon": 11.9712908,
+      "bbox": {
+        "minLat": 58.515311,
+        "minLon": 11.9637432,
+        "maxLat": 58.5254325,
+        "maxLon": 11.9788384
+      }
+    },
+    {
+      "id": 61425447,
+      "osmType": "way",
+      "name": "Dalsjö Golf",
+      "lat": 60.48020755,
+      "lon": 15.5234284,
+      "bbox": {
+        "minLat": 60.4746714,
+        "minLon": 15.5151327,
+        "maxLat": 60.4857437,
+        "maxLon": 15.5317241
+      }
+    },
+    {
+      "id": 35821578,
+      "osmType": "way",
+      "name": "Danderyds Golfklubb",
+      "lat": 59.414628300000004,
+      "lon": 18.02328515,
+      "bbox": {
+        "minLat": 59.4130151,
+        "minLon": 18.0194419,
+        "maxLat": 59.4162415,
+        "maxLon": 18.0271284
+      }
+    },
+    {
+      "id": 715007326,
+      "osmType": "way",
+      "name": "Dansk Golfakademi Charlottenlund",
+      "lat": 55.75444915,
+      "lon": 12.588024950000001,
+      "bbox": {
+        "minLat": 55.7537729,
+        "minLon": 12.5854029,
+        "maxLat": 55.7551254,
+        "maxLon": 12.590647
+      }
+    },
+    {
+      "id": 74599517,
+      "osmType": "way",
+      "name": "Degeberga-Widtsköfle GK",
+      "lat": 55.82286125,
+      "lon": 14.12544785,
+      "bbox": {
+        "minLat": 55.8170546,
+        "minLon": 14.1181924,
+        "maxLat": 55.8286679,
+        "maxLon": 14.1327033
+      }
+    },
+    {
+      "id": 4382373,
+      "osmType": "relation",
+      "name": "Degerfors Golf",
+      "lat": 59.25431695,
+      "lon": 14.450512450000002,
+      "bbox": {
+        "minLat": 59.2485841,
+        "minLon": 14.4413999,
+        "maxLat": 59.2600498,
+        "maxLon": 14.459625
+      }
+    },
+    {
+      "id": 4425188,
+      "osmType": "relation",
+      "name": "Delsjö Golfklubb",
+      "lat": 57.68682225,
+      "lon": 12.022704300000001,
+      "bbox": {
+        "minLat": 57.6784767,
+        "minLon": 12.0162091,
+        "maxLat": 57.6951678,
+        "maxLon": 12.0291995
+      }
+    },
+    {
+      "id": 4427208,
+      "osmType": "relation",
+      "name": "Dillingby Golf",
+      "lat": 59.72414655,
+      "lon": 18.5489513,
+      "bbox": {
+        "minLat": 59.7200951,
+        "minLon": 18.5412205,
+        "maxLat": 59.728198,
+        "maxLon": 18.5566821
+      }
+    },
+    {
+      "id": 98729601,
+      "osmType": "way",
+      "name": "Djurs Golfklub",
+      "lat": 56.4290736,
+      "lon": 10.5724321,
+      "bbox": {
+        "minLat": 56.42752,
+        "minLon": 10.5670314,
+        "maxLat": 56.4306272,
+        "maxLon": 10.5778328
+      }
+    },
+    {
+      "id": 3049184,
+      "osmType": "relation",
+      "name": "Djursholms Golfklubb",
+      "lat": 59.41762575,
+      "lon": 18.06894095,
+      "bbox": {
+        "minLat": 59.411947,
+        "minLon": 18.05495,
+        "maxLat": 59.4233045,
+        "maxLon": 18.0829319
+      }
+    },
+    {
+      "id": 103553962,
+      "osmType": "way",
+      "name": "Dragsholm Golf Club",
+      "lat": 55.8019272,
+      "lon": 11.423869450000002,
+      "bbox": {
+        "minLat": 55.7950724,
+        "minLon": 11.4132183,
+        "maxLat": 55.808782,
+        "maxLon": 11.4345206
+      }
+    },
+    {
+      "id": 257462494,
+      "osmType": "way",
+      "name": "Dragør Golfklub",
+      "lat": 55.573358600000006,
+      "lon": 12.59558065,
+      "bbox": {
+        "minLat": 55.5694779,
+        "minLon": 12.5868742,
+        "maxLat": 55.5772393,
+        "maxLon": 12.6042871
+      }
+    },
+    {
+      "id": 91435405,
+      "osmType": "way",
+      "name": "Drive In Golf",
+      "lat": 55.78643905,
+      "lon": 12.1638192,
+      "bbox": {
+        "minLat": 55.7845765,
+        "minLon": 12.1593949,
+        "maxLat": 55.7883016,
+        "maxLon": 12.1682435
+      }
+    },
+    {
+      "id": 615235048,
+      "osmType": "way",
+      "name": "Driving range",
+      "lat": 56.13259325,
+      "lon": 12.717756399999999,
+      "bbox": {
+        "minLat": 56.1314752,
+        "minLon": 12.7154309,
+        "maxLat": 56.1337113,
+        "maxLon": 12.7200819
+      }
+    },
+    {
+      "id": 54832499,
+      "osmType": "way",
+      "name": "Drøbak Golfklubb",
+      "lat": 59.6746192,
+      "lon": 10.650374750000001,
+      "bbox": {
+        "minLat": 59.6674128,
+        "minLon": 10.6422752,
+        "maxLat": 59.6818256,
+        "maxLon": 10.6584743
+      }
+    },
+    {
+      "id": 874897793,
+      "osmType": "way",
+      "name": "Dynekilens Golfklubb",
+      "lat": 59.0034426,
+      "lon": 11.25080475,
+      "bbox": {
+        "minLat": 58.9967281,
+        "minLon": 11.2354518,
+        "maxLat": 59.0101571,
+        "maxLon": 11.2661577
+      }
+    },
+    {
+      "id": 193127775,
+      "osmType": "way",
+      "name": "Eaglekorten",
+      "lat": 57.781982600000006,
+      "lon": 11.955098549999999,
+      "bbox": {
+        "minLat": 57.7798214,
+        "minLon": 11.9509777,
+        "maxLat": 57.7841438,
+        "maxLon": 11.9592194
+      }
+    },
+    {
+      "id": 93935156,
+      "osmType": "way",
+      "name": "Ebeltoft Golf Club",
+      "lat": 56.20614635,
+      "lon": 10.69322105,
+      "bbox": {
+        "minLat": 56.200679,
+        "minLon": 10.6837302,
+        "maxLat": 56.2116137,
+        "maxLon": 10.7027119
+      }
+    },
+    {
+      "id": 11772817,
+      "osmType": "relation",
+      "name": "Eda Golfbana",
+      "lat": 59.7850788,
+      "lon": 12.2940527,
+      "bbox": {
+        "minLat": 59.7801549,
+        "minLon": 12.2839273,
+        "maxLat": 59.7900027,
+        "maxLon": 12.3041781
+      }
+    },
+    {
+      "id": 41486836,
+      "osmType": "way",
+      "name": "Ede Golfbana",
+      "lat": 62.0571549,
+      "lon": 16.84638175,
+      "bbox": {
+        "minLat": 62.0534583,
+        "minLon": 16.8360936,
+        "maxLat": 62.0608515,
+        "maxLon": 16.8566699
+      }
+    },
+    {
+      "id": 25016361,
+      "osmType": "way",
+      "name": "Edenhof GK",
+      "lat": 59.974667350000004,
+      "lon": 17.466100750000003,
+      "bbox": {
+        "minLat": 59.9648762,
+        "minLon": 17.4556429,
+        "maxLat": 59.9844585,
+        "maxLon": 17.4765586
+      }
+    },
+    {
+      "id": 1719100,
+      "osmType": "relation",
+      "name": "Ekarnas Golfklubb",
+      "lat": 58.3328931,
+      "lon": 12.6579301,
+      "bbox": {
+        "minLat": 58.3284174,
+        "minLon": 12.6494941,
+        "maxLat": 58.3373688,
+        "maxLon": 12.6663661
+      }
+    },
+    {
+      "id": 38483955,
+      "osmType": "way",
+      "name": "Ekerums golfbana",
+      "lat": 56.783722850000004,
+      "lon": 16.56583035,
+      "bbox": {
+        "minLat": 56.7754513,
+        "minLon": 16.5524688,
+        "maxLat": 56.7919944,
+        "maxLon": 16.5791919
+      }
+    },
+    {
+      "id": 4442084,
+      "osmType": "relation",
+      "name": "Ekholmnäs Golf",
+      "lat": 59.36152465,
+      "lon": 18.18371255,
+      "bbox": {
+        "minLat": 59.3598378,
+        "minLon": 18.1771958,
+        "maxLat": 59.3632115,
+        "maxLon": 18.1902293
+      }
+    },
+    {
+      "id": 158668988,
+      "osmType": "way",
+      "name": "Ekholt Golfpark",
+      "lat": 59.40727995,
+      "lon": 10.6833033,
+      "bbox": {
+        "minLat": 59.4055637,
+        "minLon": 10.6806324,
+        "maxLat": 59.4089962,
+        "maxLon": 10.6859742
+      }
+    },
+    {
+      "id": 179935770,
+      "osmType": "way",
+      "name": "Eksjö Golfklubb",
+      "lat": 57.6410098,
+      "lon": 14.90434315,
+      "bbox": {
+        "minLat": 57.6367863,
+        "minLon": 14.8939952,
+        "maxLat": 57.6452333,
+        "maxLon": 14.9146911
+      }
+    },
+    {
+      "id": 10110574,
+      "osmType": "relation",
+      "name": "Elisefarm Golf Club",
+      "lat": 55.82710835,
+      "lon": 13.5585224,
+      "bbox": {
+        "minLat": 55.8209162,
+        "minLon": 13.5451661,
+        "maxLat": 55.8333005,
+        "maxLon": 13.5718787
+      }
+    },
+    {
+      "id": 362868852,
+      "osmType": "way",
+      "name": "Elverum Golf",
+      "lat": 60.8730667,
+      "lon": 11.67364975,
+      "bbox": {
+        "minLat": 60.8687948,
+        "minLon": 11.6631999,
+        "maxLat": 60.8773386,
+        "maxLon": 11.6840996
+      }
+    },
+    {
+      "id": 8127409,
+      "osmType": "relation",
+      "name": "Emmaboda Golfklubb",
+      "lat": 56.52763455,
+      "lon": 15.5894198,
+      "bbox": {
+        "minLat": 56.5215008,
+        "minLon": 15.580872,
+        "maxLat": 56.5337683,
+        "maxLon": 15.5979676
+      }
+    },
+    {
+      "id": 13593618,
+      "osmType": "relation",
+      "name": "Enköpings Golfklubb",
+      "lat": 59.63439365,
+      "lon": 17.13148735,
+      "bbox": {
+        "minLat": 59.6302717,
+        "minLon": 17.1205106,
+        "maxLat": 59.6385156,
+        "maxLon": 17.1424641
+      }
+    },
+    {
+      "id": 323724771,
+      "osmType": "way",
+      "name": "Eskilstuna GK",
+      "lat": 59.364264199999994,
+      "lon": 16.556359049999998,
+      "bbox": {
+        "minLat": 59.3577288,
+        "minLon": 16.5474781,
+        "maxLat": 59.3707996,
+        "maxLon": 16.56524
+      }
+    },
+    {
+      "id": 56228539,
+      "osmType": "way",
+      "name": "Eslövs GK",
+      "lat": 55.8136221,
+      "lon": 13.3080796,
+      "bbox": {
+        "minLat": 55.809816,
+        "minLon": 13.2925953,
+        "maxLat": 55.8174282,
+        "maxLon": 13.3235639
+      }
+    },
+    {
+      "id": 11053160,
+      "osmType": "relation",
+      "name": "Evje Golfpark",
+      "lat": 59.3683693,
+      "lon": 10.67636575,
+      "bbox": {
+        "minLat": 59.3591726,
+        "minLon": 10.6685049,
+        "maxLat": 59.377566,
+        "maxLon": 10.6842266
+      }
+    },
+    {
+      "id": 4829169,
+      "osmType": "relation",
+      "name": "Fagersta Golfklubb",
+      "lat": 59.97078035,
+      "lon": 15.751610150000001,
+      "bbox": {
+        "minLat": 59.9658434,
+        "minLon": 15.7407365,
+        "maxLat": 59.9757173,
+        "maxLon": 15.7624838
+      }
+    },
+    {
+      "id": 4580431,
+      "osmType": "relation",
+      "name": "Falköpings Golfklubb",
+      "lat": 58.2160633,
+      "lon": 13.62946465,
+      "bbox": {
+        "minLat": 58.2106842,
+        "minLon": 13.6196885,
+        "maxLat": 58.2214424,
+        "maxLon": 13.6392408
+      }
+    },
+    {
+      "id": 6118977,
+      "osmType": "relation",
+      "name": "Falsterbo golfklubb",
+      "lat": 55.385520850000006,
+      "lon": 12.818927200000001,
+      "bbox": {
+        "minLat": 55.3778811,
+        "minLon": 12.8108939,
+        "maxLat": 55.3931606,
+        "maxLon": 12.8269605
+      }
+    },
+    {
+      "id": 16709134,
+      "osmType": "relation",
+      "name": "Fet Golfklubb",
+      "lat": 59.91668885,
+      "lon": 11.1746093,
+      "bbox": {
+        "minLat": 59.9141701,
+        "minLon": 11.1703417,
+        "maxLat": 59.9192076,
+        "maxLon": 11.1788769
+      }
+    },
+    {
+      "id": 4427660,
+      "osmType": "relation",
+      "name": "Figeholm Golf & Country Club",
+      "lat": 57.377941050000004,
+      "lon": 16.5877293,
+      "bbox": {
+        "minLat": 57.3766021,
+        "minLon": 16.5810014,
+        "maxLat": 57.37928,
+        "maxLon": 16.5944572
+      }
+    },
+    {
+      "id": 9563126,
+      "osmType": "relation",
+      "name": "Filsbäcks Golf & Sport",
+      "lat": 58.4871724,
+      "lon": 13.23944515,
+      "bbox": {
+        "minLat": 58.4841105,
+        "minLon": 13.235811,
+        "maxLat": 58.4902343,
+        "maxLon": 13.2430793
+      }
+    },
+    {
+      "id": 313256523,
+      "osmType": "way",
+      "name": "Finspångs Golfklubb",
+      "lat": 58.69400505,
+      "lon": 15.825225150000001,
+      "bbox": {
+        "minLat": 58.686892,
+        "minLon": 15.8116096,
+        "maxLat": 58.7011181,
+        "maxLon": 15.8388407
+      }
+    },
+    {
+      "id": 11382063,
+      "osmType": "relation",
+      "name": "Fjällbacka Golfklubb",
+      "lat": 58.62098585,
+      "lon": 11.2984085,
+      "bbox": {
+        "minLat": 58.6141927,
+        "minLon": 11.2884951,
+        "maxLat": 58.627779,
+        "maxLon": 11.3083219
+      }
+    },
+    {
+      "id": 202014678,
+      "osmType": "way",
+      "name": "Flemminge GK",
+      "lat": 58.196113249999996,
+      "lon": 15.03157605,
+      "bbox": {
+        "minLat": 58.1911332,
+        "minLon": 15.0280951,
+        "maxLat": 58.2010933,
+        "maxLon": 15.035057
+      }
+    },
+    {
+      "id": 28524683,
+      "osmType": "way",
+      "name": "Flommens GK",
+      "lat": 55.4015553,
+      "lon": 12.8299889,
+      "bbox": {
+        "minLat": 55.3932754,
+        "minLon": 12.8224749,
+        "maxLat": 55.4098352,
+        "maxLon": 12.8375029
+      }
+    },
+    {
+      "id": 1280571520,
+      "osmType": "way",
+      "name": "Flygstadens Golfklubb",
+      "lat": 56.6758576,
+      "lon": 12.8168273,
+      "bbox": {
+        "minLat": 56.6745572,
+        "minLon": 12.812368,
+        "maxLat": 56.677158,
+        "maxLon": 12.8212866
+      }
+    },
+    {
+      "id": 419891003,
+      "osmType": "way",
+      "name": "Flädje GK",
+      "lat": 56.99419425,
+      "lon": 12.62666795,
+      "bbox": {
+        "minLat": 56.9897652,
+        "minLon": 12.6159681,
+        "maxLat": 56.9986233,
+        "maxLon": 12.6373678
+      }
+    },
+    {
+      "id": 4440571,
+      "osmType": "relation",
+      "name": "Fogdö golfbana",
+      "lat": 59.41354455,
+      "lon": 16.8778266,
+      "bbox": {
+        "minLat": 59.404681,
+        "minLon": 16.8668685,
+        "maxLat": 59.4224081,
+        "maxLon": 16.8887847
+      }
+    },
+    {
+      "id": 919987957,
+      "osmType": "way",
+      "name": "Football golf",
+      "lat": 55.651659249999994,
+      "lon": 12.64464135,
+      "bbox": {
+        "minLat": 55.6510834,
+        "minLon": 12.6440606,
+        "maxLat": 55.6522351,
+        "maxLon": 12.6452221
+      }
+    },
+    {
+      "id": 69351,
+      "osmType": "relation",
+      "name": "Fors golfklubb",
+      "lat": 59.09961745,
+      "lon": 18.123870349999997,
+      "bbox": {
+        "minLat": 59.0938873,
+        "minLon": 18.116888,
+        "maxLat": 59.1053476,
+        "maxLon": 18.1308527
+      }
+    },
+    {
+      "id": 15777059,
+      "osmType": "relation",
+      "name": "Forsbacka Golfklubb",
+      "lat": 59.09035135,
+      "lon": 12.617128650000001,
+      "bbox": {
+        "minLat": 59.0848125,
+        "minLon": 12.60344,
+        "maxLat": 59.0958902,
+        "maxLon": 12.6308173
+      }
+    },
+    {
+      "id": 4425313,
+      "osmType": "relation",
+      "name": "Forsgårdens Golfklubb",
+      "lat": 57.498213,
+      "lon": 12.10656535,
+      "bbox": {
+        "minLat": 57.4917466,
+        "minLon": 12.0910844,
+        "maxLat": 57.5046794,
+        "maxLon": 12.1220463
+      }
+    },
+    {
+      "id": 5598137,
+      "osmType": "relation",
+      "name": "Forshaga GK",
+      "lat": 59.597760050000005,
+      "lon": 13.4179959,
+      "bbox": {
+        "minLat": 59.5898314,
+        "minLon": 13.4083563,
+        "maxLat": 59.6056887,
+        "maxLon": 13.4276355
+      }
+    },
+    {
+      "id": 26634399,
+      "osmType": "way",
+      "name": "Fredensborg Golf Club",
+      "lat": 55.97068035,
+      "lon": 12.3830722,
+      "bbox": {
+        "minLat": 55.9638652,
+        "minLon": 12.371749,
+        "maxLat": 55.9774955,
+        "maxLon": 12.3943954
+      }
+    },
+    {
+      "id": 96326469,
+      "osmType": "way",
+      "name": "Frederikshavn Golf Klub",
+      "lat": 57.468121,
+      "lon": 10.494618249999998,
+      "bbox": {
+        "minLat": 57.4624179,
+        "minLon": 10.4836292,
+        "maxLat": 57.4738241,
+        "maxLon": 10.5056073
+      }
+    },
+    {
+      "id": 26280027,
+      "osmType": "way",
+      "name": "Frederikssund Golfklub",
+      "lat": 55.834017849999995,
+      "lon": 12.02259615,
+      "bbox": {
+        "minLat": 55.8292704,
+        "minLon": 12.0131721,
+        "maxLat": 55.8387653,
+        "maxLon": 12.0320202
+      }
+    },
+    {
+      "id": 3589348,
+      "osmType": "relation",
+      "name": "Fredriksten golfpark",
+      "lat": 59.11313135,
+      "lon": 11.40861555,
+      "bbox": {
+        "minLat": 59.1061523,
+        "minLon": 11.4000509,
+        "maxLat": 59.1201104,
+        "maxLon": 11.4171802
+      }
+    },
+    {
+      "id": 152378161,
+      "osmType": "way",
+      "name": "Frösåker golfklubb",
+      "lat": 59.53883345,
+      "lon": 16.75026915,
+      "bbox": {
+        "minLat": 59.5331393,
+        "minLon": 16.7383936,
+        "maxLat": 59.5445276,
+        "maxLon": 16.7621447
+      }
+    },
+    {
+      "id": 96384014,
+      "osmType": "way",
+      "name": "Fullerö golfklubb",
+      "lat": 59.56601925,
+      "lon": 16.50221525,
+      "bbox": {
+        "minLat": 59.5596329,
+        "minLon": 16.486927,
+        "maxLat": 59.5724056,
+        "maxLon": 16.5175035
+      }
+    },
+    {
+      "id": 4425354,
+      "osmType": "relation",
+      "name": "Funäsdalsfjällens Golfklubb",
+      "lat": 62.53243215,
+      "lon": 12.6245434,
+      "bbox": {
+        "minLat": 62.5280991,
+        "minLon": 12.6113641,
+        "maxLat": 62.5367652,
+        "maxLon": 12.6377227
+      }
+    },
+    {
+      "id": 25477785,
+      "osmType": "way",
+      "name": "Furesø Golfklub",
+      "lat": 55.828694150000004,
+      "lon": 12.4116182,
+      "bbox": {
+        "minLat": 55.8229645,
+        "minLon": 12.4016076,
+        "maxLat": 55.8344238,
+        "maxLon": 12.4216288
+      }
+    },
+    {
+      "id": 15474974,
+      "osmType": "relation",
+      "name": "Furudals Bruks Golfklubb",
+      "lat": 61.1919788,
+      "lon": 15.1807275,
+      "bbox": {
+        "minLat": 61.1872989,
+        "minLon": 15.1732783,
+        "maxLat": 61.1966587,
+        "maxLon": 15.1881767
+      }
+    },
+    {
+      "id": 4427144,
+      "osmType": "relation",
+      "name": "Fågelbro Golf & Country Club",
+      "lat": 59.2733973,
+      "lon": 18.5596567,
+      "bbox": {
+        "minLat": 59.2685882,
+        "minLon": 18.5425244,
+        "maxLat": 59.2782064,
+        "maxLon": 18.576789
+      }
+    },
+    {
+      "id": 443961370,
+      "osmType": "way",
+      "name": "Gagnefs golfklubb",
+      "lat": 60.53103325,
+      "lon": 15.04139455,
+      "bbox": {
+        "minLat": 60.5257631,
+        "minLon": 15.030383,
+        "maxLat": 60.5363034,
+        "maxLon": 15.0524061
+      }
+    },
+    {
+      "id": 3590840,
+      "osmType": "relation",
+      "name": "Gamle Fredrikstad Golfklubb",
+      "lat": 59.20349245,
+      "lon": 10.97798585,
+      "bbox": {
+        "minLat": 59.1989431,
+        "minLon": 10.9643995,
+        "maxLat": 59.2080418,
+        "maxLon": 10.9915722
+      }
+    },
+    {
+      "id": 93261543,
+      "osmType": "way",
+      "name": "Gilleleje Golfbane",
+      "lat": 56.08092995,
+      "lon": 12.3715261,
+      "bbox": {
+        "minLat": 56.0771492,
+        "minLon": 12.3620721,
+        "maxLat": 56.0847107,
+        "maxLon": 12.3809801
+      }
+    },
+    {
+      "id": 16704877,
+      "osmType": "relation",
+      "name": "Gjerdrum golfklubb",
+      "lat": 60.064571,
+      "lon": 11.02894205,
+      "bbox": {
+        "minLat": 60.0593857,
+        "minLon": 11.022993,
+        "maxLat": 60.0697563,
+        "maxLon": 11.0348911
+      }
+    },
+    {
+      "id": 6147844,
+      "osmType": "relation",
+      "name": "Gjersjøen golfbane",
+      "lat": 59.771530549999994,
+      "lon": 10.7776937,
+      "bbox": {
+        "minLat": 59.7676982,
+        "minLon": 10.7731459,
+        "maxLat": 59.7753629,
+        "maxLon": 10.7822415
+      }
+    },
+    {
+      "id": 2715292,
+      "osmType": "relation",
+      "name": "Glasrikets Golfklubb",
+      "lat": 56.898274650000005,
+      "lon": 14.86696235,
+      "bbox": {
+        "minLat": 56.8921587,
+        "minLon": 14.859917,
+        "maxLat": 56.9043906,
+        "maxLon": 14.8740077
+      }
+    },
+    {
+      "id": 6003622,
+      "osmType": "relation",
+      "name": "Glumslövs Golf",
+      "lat": 55.945657600000004,
+      "lon": 12.823759599999999,
+      "bbox": {
+        "minLat": 55.9428937,
+        "minLon": 12.8152267,
+        "maxLat": 55.9484215,
+        "maxLon": 12.8322925
+      }
+    },
+    {
+      "id": 17876357,
+      "osmType": "relation",
+      "name": "Golf Pirkkala",
+      "lat": 61.43811665,
+      "lon": 23.65687505,
+      "bbox": {
+        "minLat": 61.4328487,
+        "minLon": 23.6488044,
+        "maxLat": 61.4433846,
+        "maxLon": 23.6649457
+      }
+    },
+    {
+      "id": 207090233,
+      "osmType": "way",
+      "name": "Golf, harjoittelualue",
+      "lat": 61.774155,
+      "lon": 23.021702050000002,
+      "bbox": {
+        "minLat": 61.7730452,
+        "minLon": 23.018764,
+        "maxLat": 61.7752648,
+        "maxLon": 23.0246401
+      }
+    },
+    {
+      "id": 219273305,
+      "osmType": "way",
+      "name": "Golfa klubs Viesturi",
+      "lat": 56.894855250000006,
+      "lon": 23.8766351,
+      "bbox": {
+        "minLat": 56.890984,
+        "minLon": 23.8730846,
+        "maxLat": 56.8987265,
+        "maxLon": 23.8801856
+      }
+    },
+    {
+      "id": 78431758,
+      "osmType": "way",
+      "name": "Golfkeskus Oy Messukylä",
+      "lat": 61.481,
+      "lon": 23.8412033,
+      "bbox": {
+        "minLat": 61.478901,
+        "minLon": 23.832973,
+        "maxLat": 61.483099,
+        "maxLon": 23.8494336
+      }
+    },
+    {
+      "id": 30807416,
+      "osmType": "way",
+      "name": "Golfklubben Hedeland",
+      "lat": 55.61281255,
+      "lon": 12.17249885,
+      "bbox": {
+        "minLat": 55.6089466,
+        "minLon": 12.1610606,
+        "maxLat": 55.6166785,
+        "maxLon": 12.1839371
+      }
+    },
+    {
+      "id": 15394937,
+      "osmType": "way",
+      "name": "GolfStar Kungsängen",
+      "lat": 59.52319165,
+      "lon": 17.71555285,
+      "bbox": {
+        "minLat": 59.5125108,
+        "minLon": 17.7030126,
+        "maxLat": 59.5338725,
+        "maxLon": 17.7280931
+      }
+    },
+    {
+      "id": 6846528,
+      "osmType": "relation",
+      "name": "Gotska GK",
+      "lat": 57.654104950000004,
+      "lon": 18.32825615,
+      "bbox": {
+        "minLat": 57.6491005,
+        "minLon": 18.3195871,
+        "maxLat": 57.6591094,
+        "maxLon": 18.3369252
+      }
+    },
+    {
+      "id": 366342088,
+      "osmType": "way",
+      "name": "Great Northern",
+      "lat": 55.46279165,
+      "lon": 10.63877265,
+      "bbox": {
+        "minLat": 55.4575646,
+        "minLon": 10.6232425,
+        "maxLat": 55.4680187,
+        "maxLon": 10.6543028
+      }
+    },
+    {
+      "id": 4427163,
+      "osmType": "relation",
+      "name": "Green Zone Golf / Tornio Golf (Meri-Lapin Golfklubi )",
+      "lat": 65.86154909999999,
+      "lon": 24.1325124,
+      "bbox": {
+        "minLat": 65.8560535,
+        "minLon": 24.1207292,
+        "maxLat": 65.8670447,
+        "maxLon": 24.1442956
+      }
+    },
+    {
+      "id": 102268388,
+      "osmType": "way",
+      "name": "Grenaa Golfbane",
+      "lat": 56.41526305,
+      "lon": 10.84758605,
+      "bbox": {
+        "minLat": 56.4090628,
+        "minLon": 10.83779,
+        "maxLat": 56.4214633,
+        "maxLon": 10.8573821
+      }
+    },
+    {
+      "id": 1373083568,
+      "osmType": "way",
+      "name": "Grenaa Golfbane",
+      "lat": 56.406537,
+      "lon": 10.84134195,
+      "bbox": {
+        "minLat": 56.4041637,
+        "minLon": 10.8391257,
+        "maxLat": 56.4089103,
+        "maxLon": 10.8435582
+      }
+    },
+    {
+      "id": 178292151,
+      "osmType": "way",
+      "name": "Greve Golfklub",
+      "lat": 55.58660905,
+      "lon": 12.193321099999999,
+      "bbox": {
+        "minLat": 55.5818935,
+        "minLon": 12.1870543,
+        "maxLat": 55.5913246,
+        "maxLon": 12.1995879
+      }
+    },
+    {
+      "id": 40096576,
+      "osmType": "way",
+      "name": "Grini Golfklubb",
+      "lat": 59.952752200000006,
+      "lon": 10.621486,
+      "bbox": {
+        "minLat": 59.9500341,
+        "minLon": 10.6148644,
+        "maxLat": 59.9554703,
+        "maxLon": 10.6281076
+      }
+    },
+    {
+      "id": 14067114,
+      "osmType": "relation",
+      "name": "Gripsholms Golfklubb",
+      "lat": 59.26226775000001,
+      "lon": 17.199759200000003,
+      "bbox": {
+        "minLat": 59.2563608,
+        "minLon": 17.1868219,
+        "maxLat": 59.2681747,
+        "maxLon": 17.2126965
+      }
+    },
+    {
+      "id": 28306937,
+      "osmType": "way",
+      "name": "Groruddalen Golfklubb",
+      "lat": 59.9703643,
+      "lon": 10.91696565,
+      "bbox": {
+        "minLat": 59.9681672,
+        "minLon": 10.9125711,
+        "maxLat": 59.9725614,
+        "maxLon": 10.9213602
+      }
+    },
+    {
+      "id": 569028378,
+      "osmType": "way",
+      "name": "Grytsberg",
+      "lat": 59.1067562,
+      "lon": 16.9868749,
+      "bbox": {
+        "minLat": 59.1034936,
+        "minLon": 16.9679061,
+        "maxLat": 59.1100188,
+        "maxLon": 17.0058437
+      }
+    },
+    {
+      "id": 104820359,
+      "osmType": "way",
+      "name": "Gränna Golfklubb",
+      "lat": 57.9847369,
+      "lon": 14.418399149999999,
+      "bbox": {
+        "minLat": 57.9783575,
+        "minLon": 14.4088961,
+        "maxLat": 57.9911163,
+        "maxLon": 14.4279022
+      }
+    },
+    {
+      "id": 8885543,
+      "osmType": "relation",
+      "name": "Gräppås Golfklubb",
+      "lat": 57.4382093,
+      "lon": 11.974095850000001,
+      "bbox": {
+        "minLat": 57.4312584,
+        "minLon": 11.9610617,
+        "maxLat": 57.4451602,
+        "maxLon": 11.98713
+      }
+    },
+    {
+      "id": 61231313,
+      "osmType": "way",
+      "name": "Grönhögen GK",
+      "lat": 56.27614765,
+      "lon": 16.39902565,
+      "bbox": {
+        "minLat": 56.2709336,
+        "minLon": 16.3919269,
+        "maxLat": 56.2813617,
+        "maxLon": 16.4061244
+      }
+    },
+    {
+      "id": 71042911,
+      "osmType": "way",
+      "name": "Grönlunds Golfklubb",
+      "lat": 59.8573261,
+      "lon": 18.0694539,
+      "bbox": {
+        "minLat": 59.8499477,
+        "minLon": 18.0603334,
+        "maxLat": 59.8647045,
+        "maxLon": 18.0785744
+      }
+    },
+    {
+      "id": 2193717,
+      "osmType": "relation",
+      "name": "Grønmo Golfklubb",
+      "lat": 59.844947399999995,
+      "lon": 10.85391415,
+      "bbox": {
+        "minLat": 59.8409482,
+        "minLon": 10.847458,
+        "maxLat": 59.8489466,
+        "maxLon": 10.8603703
+      }
+    },
+    {
+      "id": 1415388541,
+      "osmType": "way",
+      "name": "Gudme Golf Club",
+      "lat": 55.13651335,
+      "lon": 10.7132646,
+      "bbox": {
+        "minLat": 55.1353108,
+        "minLon": 10.7092369,
+        "maxLat": 55.1377159,
+        "maxLon": 10.7172923
+      }
+    },
+    {
+      "id": 10541945,
+      "osmType": "relation",
+      "name": "Gullbringa Golf & Country Club",
+      "lat": 57.88307005,
+      "lon": 11.771567600000001,
+      "bbox": {
+        "minLat": 57.8763493,
+        "minLon": 11.7553094,
+        "maxLat": 57.8897908,
+        "maxLon": 11.7878258
+      }
+    },
+    {
+      "id": 10541943,
+      "osmType": "relation",
+      "name": "Gullbringa Pay & Play",
+      "lat": 57.8891385,
+      "lon": 11.78355575,
+      "bbox": {
+        "minLat": 57.8875752,
+        "minLon": 11.7758685,
+        "maxLat": 57.8907018,
+        "maxLon": 11.791243
+      }
+    },
+    {
+      "id": 234021472,
+      "osmType": "way",
+      "name": "Gullringens Golfklubb",
+      "lat": 57.7955309,
+      "lon": 15.708766,
+      "bbox": {
+        "minLat": 57.7934176,
+        "minLon": 15.7054214,
+        "maxLat": 57.7976442,
+        "maxLon": 15.7121106
+      }
+    },
+    {
+      "id": 198948330,
+      "osmType": "way",
+      "name": "Gumbalde",
+      "lat": 57.286748349999996,
+      "lon": 18.471996500000003,
+      "bbox": {
+        "minLat": 57.2823266,
+        "minLon": 18.4652683,
+        "maxLat": 57.2911701,
+        "maxLon": 18.4787247
+      }
+    },
+    {
+      "id": 307734190,
+      "osmType": "way",
+      "name": "Gustavsvik äventyrsgolf",
+      "lat": 59.2550801,
+      "lon": 15.189477400000001,
+      "bbox": {
+        "minLat": 59.2548968,
+        "minLon": 15.1890894,
+        "maxLat": 59.2552634,
+        "maxLon": 15.1898654
+      }
+    },
+    {
+      "id": 3120662,
+      "osmType": "relation",
+      "name": "Gävle GolfKlubb",
+      "lat": 60.699736400000006,
+      "lon": 17.17640995,
+      "bbox": {
+        "minLat": 60.690873,
+        "minLon": 17.1614679,
+        "maxLat": 60.7085998,
+        "maxLon": 17.191352
+      }
+    },
+    {
+      "id": 108715331,
+      "osmType": "way",
+      "name": "Götaströms Golfklubb",
+      "lat": 57.459190050000004,
+      "lon": 14.102654600000001,
+      "bbox": {
+        "minLat": 57.4513515,
+        "minLon": 14.0988386,
+        "maxLat": 57.4670286,
+        "maxLon": 14.1064706
+      }
+    },
+    {
+      "id": 3049596,
+      "osmType": "relation",
+      "name": "Göteborgs Golf Klubb",
+      "lat": 57.61215355,
+      "lon": 11.9312832,
+      "bbox": {
+        "minLat": 57.6083756,
+        "minLon": 11.9220786,
+        "maxLat": 57.6159315,
+        "maxLon": 11.9404878
+      }
+    },
+    {
+      "id": 2929799,
+      "osmType": "relation",
+      "name": "Haga golfklubb",
+      "lat": 59.9440265,
+      "lon": 10.5760295,
+      "bbox": {
+        "minLat": 59.9358589,
+        "minLon": 10.5609039,
+        "maxLat": 59.9521941,
+        "maxLon": 10.5911551
+      }
+    },
+    {
+      "id": 4457914,
+      "osmType": "relation",
+      "name": "Hagge Golfklubb",
+      "lat": 60.1130111,
+      "lon": 15.25056025,
+      "bbox": {
+        "minLat": 60.1074252,
+        "minLon": 15.2402714,
+        "maxLat": 60.118597,
+        "maxLon": 15.2608491
+      }
+    },
+    {
+      "id": 83803298,
+      "osmType": "way",
+      "name": "Hakadal golfklubb",
+      "lat": 60.13162355,
+      "lon": 10.833156599999999,
+      "bbox": {
+        "minLat": 60.123438,
+        "minLon": 10.8199381,
+        "maxLat": 60.1398091,
+        "maxLon": 10.8463751
+      }
+    },
+    {
+      "id": 1257847216,
+      "osmType": "way",
+      "name": "Hallskaviks GK",
+      "lat": 60.03665685,
+      "lon": 18.5930734,
+      "bbox": {
+        "minLat": 60.0307456,
+        "minLon": 18.5869567,
+        "maxLat": 60.0425681,
+        "maxLon": 18.5991901
+      }
+    },
+    {
+      "id": 2384348,
+      "osmType": "relation",
+      "name": "Halmstad Golfklubb Tylösands",
+      "lat": 56.6569832,
+      "lon": 12.747049,
+      "bbox": {
+        "minLat": 56.6471788,
+        "minLon": 12.7364216,
+        "maxLat": 56.6667876,
+        "maxLon": 12.7576764
+      }
+    },
+    {
+      "id": 42682760,
+      "osmType": "way",
+      "name": "Halmstad Tönnersjö Golfbana",
+      "lat": 56.6179871,
+      "lon": 13.066242299999999,
+      "bbox": {
+        "minLat": 56.6134865,
+        "minLon": 13.0522449,
+        "maxLat": 56.6224877,
+        "maxLon": 13.0802397
+      }
+    },
+    {
+      "id": 54033463,
+      "osmType": "way",
+      "name": "Hammarö GK",
+      "lat": 59.2992321,
+      "lon": 13.54962455,
+      "bbox": {
+        "minLat": 59.2935695,
+        "minLon": 13.5391139,
+        "maxLat": 59.3048947,
+        "maxLon": 13.5601352
+      }
+    },
+    {
+      "id": 556839981,
+      "osmType": "way",
+      "name": "Han-golf",
+      "lat": 59.8489758,
+      "lon": 23.074274199999998,
+      "bbox": {
+        "minLat": 59.8443415,
+        "minLon": 23.0653296,
+        "maxLat": 59.8536101,
+        "maxLon": 23.0832188
+      }
+    },
+    {
+      "id": 69362,
+      "osmType": "relation",
+      "name": "Haninge Golfklubb",
+      "lat": 59.111004300000005,
+      "lon": 18.19564845,
+      "bbox": {
+        "minLat": 59.1040824,
+        "minLon": 18.1777828,
+        "maxLat": 59.1179262,
+        "maxLon": 18.2135141
+      }
+    },
+    {
+      "id": 69358,
+      "osmType": "relation",
+      "name": "HaningeStrand Golfklubb",
+      "lat": 59.09884565,
+      "lon": 18.18921925,
+      "bbox": {
+        "minLat": 59.0931264,
+        "minLon": 18.1748309,
+        "maxLat": 59.1045649,
+        "maxLon": 18.2036076
+      }
+    },
+    {
+      "id": 1312628473,
+      "osmType": "way",
+      "name": "Happy Golfer Stockholm",
+      "lat": 59.1681408,
+      "lon": 17.7458594,
+      "bbox": {
+        "minLat": 59.1646944,
+        "minLon": 17.7272442,
+        "maxLat": 59.1715872,
+        "maxLon": 17.7644746
+      }
+    },
+    {
+      "id": 435173655,
+      "osmType": "way",
+      "name": "Harabäckens golfbana",
+      "lat": 57.13331085,
+      "lon": 12.39880625,
+      "bbox": {
+        "minLat": 57.1281336,
+        "minLon": 12.3880143,
+        "maxLat": 57.1384881,
+        "maxLon": 12.4095982
+      }
+    },
+    {
+      "id": 12801278,
+      "osmType": "relation",
+      "name": "Harekær Golf Klub",
+      "lat": 55.4877076,
+      "lon": 12.0977165,
+      "bbox": {
+        "minLat": 55.4828719,
+        "minLon": 12.0887328,
+        "maxLat": 55.4925433,
+        "maxLon": 12.1067002
+      }
+    },
+    {
+      "id": 24025763,
+      "osmType": "way",
+      "name": "Harjattula Golf & Country Club",
+      "lat": 60.36686965,
+      "lon": 22.289033500000002,
+      "bbox": {
+        "minLat": 60.3591562,
+        "minLon": 22.2766461,
+        "maxLat": 60.3745831,
+        "maxLon": 22.3014209
+      }
+    },
+    {
+      "id": 17085181,
+      "osmType": "relation",
+      "name": "Harstad Golfklubb",
+      "lat": 68.8352787,
+      "lon": 16.48605095,
+      "bbox": {
+        "minLat": 68.831449,
+        "minLon": 16.4791407,
+        "maxLat": 68.8391084,
+        "maxLon": 16.4929612
+      }
+    },
+    {
+      "id": 8194100,
+      "osmType": "relation",
+      "name": "Hattula Golf",
+      "lat": 61.0264157,
+      "lon": 24.32587585,
+      "bbox": {
+        "minLat": 61.0226777,
+        "minLon": 24.3123604,
+        "maxLat": 61.0301537,
+        "maxLon": 24.3393913
+      }
+    },
+    {
+      "id": 91214325,
+      "osmType": "way",
+      "name": "Hauger Golfklubb",
+      "lat": 60.000619799999996,
+      "lon": 10.979301549999999,
+      "bbox": {
+        "minLat": 59.9952263,
+        "minLon": 10.9698681,
+        "maxLat": 60.0060133,
+        "maxLon": 10.988735
+      }
+    },
+    {
+      "id": 10483180,
+      "osmType": "relation",
+      "name": "Haverdals Golfklubb",
+      "lat": 56.71431895,
+      "lon": 12.70383395,
+      "bbox": {
+        "minLat": 56.7080128,
+        "minLon": 12.6957091,
+        "maxLat": 56.7206251,
+        "maxLon": 12.7119588
+      }
+    },
+    {
+      "id": 14660778,
+      "osmType": "relation",
+      "name": "Hede-Vemdalens Golfklubb",
+      "lat": 62.423374949999996,
+      "lon": 13.5080615,
+      "bbox": {
+        "minLat": 62.4188683,
+        "minLon": 13.4970243,
+        "maxLat": 62.4278816,
+        "maxLon": 13.5190987
+      }
+    },
+    {
+      "id": 6829944,
+      "osmType": "relation",
+      "name": "Hedemora Golfklubb",
+      "lat": 60.2438419,
+      "lon": 15.9183901,
+      "bbox": {
+        "minLat": 60.237745,
+        "minLon": 15.9101981,
+        "maxLat": 60.2499388,
+        "maxLon": 15.9265821
+      }
+    },
+    {
+      "id": 827500741,
+      "osmType": "way",
+      "name": "Hellasgårdens fotbollsgolf",
+      "lat": 59.293505550000006,
+      "lon": 18.15582995,
+      "bbox": {
+        "minLat": 59.2922195,
+        "minLon": 18.1533182,
+        "maxLat": 59.2947916,
+        "maxLon": 18.1583417
+      }
+    },
+    {
+      "id": 278499407,
+      "osmType": "way",
+      "name": "Helsingborgs Golfklubb",
+      "lat": 56.1608023,
+      "lon": 12.5657461,
+      "bbox": {
+        "minLat": 56.1551952,
+        "minLon": 12.5639321,
+        "maxLat": 56.1664094,
+        "maxLon": 12.5675601
+      }
+    },
+    {
+      "id": 91818685,
+      "osmType": "way",
+      "name": "Helsingør Golf Club",
+      "lat": 56.04878315,
+      "lon": 12.575962650000001,
+      "bbox": {
+        "minLat": 56.0424509,
+        "minLon": 12.5690138,
+        "maxLat": 56.0551154,
+        "maxLon": 12.5829115
+      }
+    },
+    {
+      "id": 5374206,
+      "osmType": "relation",
+      "name": "Herrljunga Golfklubb",
+      "lat": 58.0450702,
+      "lon": 13.0922769,
+      "bbox": {
+        "minLat": 58.0390918,
+        "minLon": 13.0857672,
+        "maxLat": 58.0510486,
+        "maxLon": 13.0987866
+      }
+    },
+    {
+      "id": 74604710,
+      "osmType": "way",
+      "name": "Hesslegårdens GK",
+      "lat": 56.14457025,
+      "lon": 13.7531858,
+      "bbox": {
+        "minLat": 56.1384811,
+        "minLon": 13.7473134,
+        "maxLat": 56.1506594,
+        "maxLon": 13.7590582
+      }
+    },
+    {
+      "id": 1386539572,
+      "osmType": "way",
+      "name": "Hevingen golfbane",
+      "lat": 59.2728458,
+      "lon": 11.2004503,
+      "bbox": {
+        "minLat": 59.2677598,
+        "minLon": 11.1925644,
+        "maxLat": 59.2779318,
+        "maxLon": 11.2083362
+      }
+    },
+    {
+      "id": 239915302,
+      "osmType": "way",
+      "name": "Hiisi-Golf",
+      "lat": 61.303337299999995,
+      "lon": 23.7740648,
+      "bbox": {
+        "minLat": 61.2975218,
+        "minLon": 23.7702023,
+        "maxLat": 61.3091528,
+        "maxLon": 23.7779273
+      }
+    },
+    {
+      "id": 8386793,
+      "osmType": "relation",
+      "name": "Hillerød Golfklub",
+      "lat": 55.9068156,
+      "lon": 12.3202728,
+      "bbox": {
+        "minLat": 55.9001516,
+        "minLon": 12.3122794,
+        "maxLat": 55.9134796,
+        "maxLon": 12.3282662
+      }
+    },
+    {
+      "id": 373032869,
+      "osmType": "way",
+      "name": "Hills",
+      "lat": 60.42365545,
+      "lon": 24.2040435,
+      "bbox": {
+        "minLat": 60.4129015,
+        "minLon": 24.1908004,
+        "maxLat": 60.4344094,
+        "maxLon": 24.2172866
+      }
+    },
+    {
+      "id": 10480238,
+      "osmType": "relation",
+      "name": "Hills Golf & Country Club",
+      "lat": 57.6236199,
+      "lon": 12.0000704,
+      "bbox": {
+        "minLat": 57.616891,
+        "minLon": 11.983088,
+        "maxLat": 57.6303488,
+        "maxLon": 12.0170528
+      }
+    },
+    {
+      "id": 451760668,
+      "osmType": "way",
+      "name": "Hirvensalon Golf",
+      "lat": 60.417840299999995,
+      "lon": 22.2201788,
+      "bbox": {
+        "minLat": 60.4161229,
+        "minLon": 22.2156727,
+        "maxLat": 60.4195577,
+        "maxLon": 22.2246849
+      }
+    },
+    {
+      "id": 43025671,
+      "osmType": "way",
+      "name": "Hisingens Golf Center",
+      "lat": 57.7491667,
+      "lon": 11.882840850000001,
+      "bbox": {
+        "minLat": 57.7476638,
+        "minLon": 11.8807748,
+        "maxLat": 57.7506696,
+        "maxLon": 11.8849069
+      }
+    },
+    {
+      "id": 26186613,
+      "osmType": "way",
+      "name": "Hjortespring Golfklub",
+      "lat": 55.74477175,
+      "lon": 12.398907000000001,
+      "bbox": {
+        "minLat": 55.7409595,
+        "minLon": 12.389621,
+        "maxLat": 55.748584,
+        "maxLon": 12.408193
+      }
+    },
+    {
+      "id": 242148554,
+      "osmType": "way",
+      "name": "Hofors Golfklubb",
+      "lat": 60.52193185,
+      "lon": 16.3705596,
+      "bbox": {
+        "minLat": 60.5187021,
+        "minLon": 16.3520548,
+        "maxLat": 60.5251616,
+        "maxLon": 16.3890644
+      }
+    },
+    {
+      "id": 286530911,
+      "osmType": "way",
+      "name": "Holbæk Golfklub",
+      "lat": 55.726234950000006,
+      "lon": 11.7726883,
+      "bbox": {
+        "minLat": 55.7191722,
+        "minLon": 11.7633858,
+        "maxLat": 55.7332977,
+        "maxLon": 11.7819908
+      }
+    },
+    {
+      "id": 42147697,
+      "osmType": "way",
+      "name": "Holms Golfklubb",
+      "lat": 56.75608405,
+      "lon": 12.87262875,
+      "bbox": {
+        "minLat": 56.7493689,
+        "minLon": 12.8620147,
+        "maxLat": 56.7627992,
+        "maxLon": 12.8832428
+      }
+    },
+    {
+      "id": 104815012,
+      "osmType": "way",
+      "name": "Hooks Golfklubb",
+      "lat": 57.54046255,
+      "lon": 14.27943805,
+      "bbox": {
+        "minLat": 57.5270344,
+        "minLon": 14.268559,
+        "maxLat": 57.5538907,
+        "maxLon": 14.2903171
+      }
+    },
+    {
+      "id": 110917704,
+      "osmType": "way",
+      "name": "Hornbæk Golfklub",
+      "lat": 56.048253900000006,
+      "lon": 12.44055405,
+      "bbox": {
+        "minLat": 56.0405603,
+        "minLon": 12.4344558,
+        "maxLat": 56.0559475,
+        "maxLon": 12.4466523
+      }
+    },
+    {
+      "id": 1632299,
+      "osmType": "relation",
+      "name": "Hudiksvalls Golfbana",
+      "lat": 61.7038412,
+      "lon": 17.1250688,
+      "bbox": {
+        "minLat": 61.6998659,
+        "minLon": 17.1136791,
+        "maxLat": 61.7078165,
+        "maxLon": 17.1364585
+      }
+    },
+    {
+      "id": 10747741,
+      "osmType": "relation",
+      "name": "Hulta Golfklubb",
+      "lat": 57.6964037,
+      "lon": 12.5771798,
+      "bbox": {
+        "minLat": 57.6904401,
+        "minLon": 12.570253,
+        "maxLat": 57.7023673,
+        "maxLon": 12.5841066
+      }
+    },
+    {
+      "id": 79183081,
+      "osmType": "way",
+      "name": "Huseby & Hankø Golfklubb",
+      "lat": 59.269002900000004,
+      "lon": 10.80209165,
+      "bbox": {
+        "minLat": 59.2654612,
+        "minLon": 10.7947864,
+        "maxLat": 59.2725446,
+        "maxLon": 10.8093969
+      }
+    },
+    {
+      "id": 3049186,
+      "osmType": "relation",
+      "name": "Huvudstadens GK Lövsättra",
+      "lat": 59.61314845,
+      "lon": 18.33652415,
+      "bbox": {
+        "minLat": 59.6058487,
+        "minLon": 18.326361,
+        "maxLat": 59.6204482,
+        "maxLon": 18.3466873
+      }
+    },
+    {
+      "id": 4457791,
+      "osmType": "relation",
+      "name": "Huvudstadens Golfklubb - Lindö",
+      "lat": 59.55754725,
+      "lon": 18.029931599999998,
+      "bbox": {
+        "minLat": 59.5456924,
+        "minLon": 18.0164026,
+        "maxLat": 59.5694021,
+        "maxLon": 18.0434606
+      }
+    },
+    {
+      "id": 29869313,
+      "osmType": "way",
+      "name": "Hylliekrokens Golfcenter",
+      "lat": 55.592958100000004,
+      "lon": 12.9441422,
+      "bbox": {
+        "minLat": 55.5909597,
+        "minLon": 12.9403192,
+        "maxLat": 55.5949565,
+        "maxLon": 12.9479652
+      }
+    },
+    {
+      "id": 95139057,
+      "osmType": "way",
+      "name": "Hälla Golf",
+      "lat": 59.6128658,
+      "lon": 16.62970955,
+      "bbox": {
+        "minLat": 59.6103755,
+        "minLon": 16.6240215,
+        "maxLat": 59.6153561,
+        "maxLon": 16.6353976
+      }
+    },
+    {
+      "id": 702862973,
+      "osmType": "way",
+      "name": "Härmä Golf",
+      "lat": 63.13791435,
+      "lon": 22.826980550000002,
+      "bbox": {
+        "minLat": 63.1339557,
+        "minLon": 22.8190409,
+        "maxLat": 63.141873,
+        "maxLon": 22.8349202
+      }
+    },
+    {
+      "id": 8710962,
+      "osmType": "relation",
+      "name": "Härnösand GK",
+      "lat": 62.670420199999995,
+      "lon": 17.9586769,
+      "bbox": {
+        "minLat": 62.6655795,
+        "minLon": 17.9442811,
+        "maxLat": 62.6752609,
+        "maxLon": 17.9730727
+      }
+    },
+    {
+      "id": 24253925,
+      "osmType": "way",
+      "name": "Hässelby Golf",
+      "lat": 59.39124915,
+      "lon": 17.78725605,
+      "bbox": {
+        "minLat": 59.388522,
+        "minLon": 17.7818823,
+        "maxLat": 59.3939763,
+        "maxLon": 17.7926298
+      }
+    },
+    {
+      "id": 164073356,
+      "osmType": "way",
+      "name": "Hässlö Golf",
+      "lat": 59.58873505,
+      "lon": 16.6215586,
+      "bbox": {
+        "minLat": 59.5872528,
+        "minLon": 16.6198897,
+        "maxLat": 59.5902173,
+        "maxLon": 16.6232275
+      }
+    },
+    {
+      "id": 278495155,
+      "osmType": "way",
+      "name": "Höganäs Golfklubb",
+      "lat": 56.183338750000004,
+      "lon": 12.5730147,
+      "bbox": {
+        "minLat": 56.1791314,
+        "minLon": 12.5666609,
+        "maxLat": 56.1875461,
+        "maxLon": 12.5793685
+      }
+    },
+    {
+      "id": 131688218,
+      "osmType": "way",
+      "name": "Högbo GK",
+      "lat": 60.65882325,
+      "lon": 16.81657595,
+      "bbox": {
+        "minLat": 60.6500332,
+        "minLon": 16.8008965,
+        "maxLat": 60.6676133,
+        "maxLon": 16.8322554
+      }
+    },
+    {
+      "id": 527983032,
+      "osmType": "way",
+      "name": "Hökensås Golfklubb",
+      "lat": 58.2502817,
+      "lon": 14.21634075,
+      "bbox": {
+        "minLat": 58.2461152,
+        "minLon": 14.2055368,
+        "maxLat": 58.2544482,
+        "maxLon": 14.2271447
+      }
+    },
+    {
+      "id": 10389434,
+      "osmType": "relation",
+      "name": "Hörlycke golfbana",
+      "lat": 58.24740525,
+      "lon": 12.2599992,
+      "bbox": {
+        "minLat": 58.2443535,
+        "minLon": 12.251966,
+        "maxLat": 58.250457,
+        "maxLon": 12.2680324
+      }
+    },
+    {
+      "id": 11560017,
+      "osmType": "relation",
+      "name": "Hörlycke golfbana",
+      "lat": 58.25137215,
+      "lon": 12.257995600000001,
+      "bbox": {
+        "minLat": 58.2503582,
+        "minLon": 12.2560161,
+        "maxLat": 58.2523861,
+        "maxLon": 12.2599751
+      }
+    },
+    {
+      "id": 26397001,
+      "osmType": "way",
+      "name": "Hørsholm Golf",
+      "lat": 55.888893550000006,
+      "lon": 12.45115805,
+      "bbox": {
+        "minLat": 55.8820175,
+        "minLon": 12.4383092,
+        "maxLat": 55.8957696,
+        "maxLon": 12.4640069
+      }
+    },
+    {
+      "id": 38053822,
+      "osmType": "way",
+      "name": "Idrefjällens Golfklubb",
+      "lat": 61.8792793,
+      "lon": 12.694801550000001,
+      "bbox": {
+        "minLat": 61.8727226,
+        "minLon": 12.6878399,
+        "maxLat": 61.885836,
+        "maxLon": 12.7017632
+      }
+    },
+    {
+      "id": 309622472,
+      "osmType": "way",
+      "name": "Ikaalisten Golf",
+      "lat": 61.9008834,
+      "lon": 23.04582585,
+      "bbox": {
+        "minLat": 61.8957769,
+        "minLon": 23.0352221,
+        "maxLat": 61.9059899,
+        "maxLon": 23.0564296
+      }
+    },
+    {
+      "id": 4106392,
+      "osmType": "relation",
+      "name": "Ingarö GK",
+      "lat": 59.283898449999995,
+      "lon": 18.4534652,
+      "bbox": {
+        "minLat": 59.2780084,
+        "minLon": 18.4338905,
+        "maxLat": 59.2897885,
+        "maxLon": 18.4730399
+      }
+    },
+    {
+      "id": 1723097,
+      "osmType": "relation",
+      "name": "Ingelsta Stadium Golf",
+      "lat": 58.62877415,
+      "lon": 16.16704105,
+      "bbox": {
+        "minLat": 58.6226905,
+        "minLon": 16.1589991,
+        "maxLat": 58.6348578,
+        "maxLon": 16.175083
+      }
+    },
+    {
+      "id": 57869146,
+      "osmType": "way",
+      "name": "Ingetorps Golfklubb",
+      "lat": 57.9319957,
+      "lon": 11.87765885,
+      "bbox": {
+        "minLat": 57.9272408,
+        "minLon": 11.8698639,
+        "maxLat": 57.9367506,
+        "maxLon": 11.8854538
+      }
+    },
+    {
+      "id": 233737899,
+      "osmType": "way",
+      "name": "International GC",
+      "lat": 59.69379135,
+      "lon": 18.021190750000002,
+      "bbox": {
+        "minLat": 59.6873271,
+        "minLon": 18.0123427,
+        "maxLat": 59.7002556,
+        "maxLon": 18.0300388
+      }
+    },
+    {
+      "id": 185140587,
+      "osmType": "way",
+      "name": "Isabergs golfklubb",
+      "lat": 57.444142400000004,
+      "lon": 13.6551768,
+      "bbox": {
+        "minLat": 57.4374397,
+        "minLon": 13.6397387,
+        "maxLat": 57.4508451,
+        "maxLon": 13.6706149
+      }
+    },
+    {
+      "id": 8170207,
+      "osmType": "way",
+      "name": "Ishøj Golf Center",
+      "lat": 55.6215686,
+      "lon": 12.28898255,
+      "bbox": {
+        "minLat": 55.6161816,
+        "minLon": 12.2777482,
+        "maxLat": 55.6269556,
+        "maxLon": 12.3002169
+      }
+    },
+    {
+      "id": 23563499,
+      "osmType": "way",
+      "name": "Jarlabanke Golfklubb (Prästgården)",
+      "lat": 59.488816549999996,
+      "lon": 18.07591465,
+      "bbox": {
+        "minLat": 59.4871176,
+        "minLon": 18.0719124,
+        "maxLat": 59.4905155,
+        "maxLon": 18.0799169
+      }
+    },
+    {
+      "id": 3928686,
+      "osmType": "relation",
+      "name": "Jarlabanke Golfklubb (Skogberga)",
+      "lat": 59.4909408,
+      "lon": 18.092005,
+      "bbox": {
+        "minLat": 59.4843535,
+        "minLon": 18.0830069,
+        "maxLat": 59.4975281,
+        "maxLon": 18.1010031
+      }
+    },
+    {
+      "id": 234738960,
+      "osmType": "way",
+      "name": "Johannesberg Golf & CC",
+      "lat": 59.727333200000004,
+      "lon": 18.19202025,
+      "bbox": {
+        "minLat": 59.7183528,
+        "minLon": 18.1777187,
+        "maxLat": 59.7363136,
+        "maxLon": 18.2063218
+      }
+    },
+    {
+      "id": 13593991,
+      "osmType": "relation",
+      "name": "Jurmala Course",
+      "lat": 56.95328705,
+      "lon": 23.88303135,
+      "bbox": {
+        "minLat": 56.9470596,
+        "minLon": 23.8761522,
+        "maxLat": 56.9595145,
+        "maxLon": 23.8899105
+      }
+    },
+    {
+      "id": 5455583,
+      "osmType": "relation",
+      "name": "Järna Golf @ Kallfors Golfklubb",
+      "lat": 59.112740450000004,
+      "lon": 17.556035700000002,
+      "bbox": {
+        "minLat": 59.1109491,
+        "minLon": 17.5510504,
+        "maxLat": 59.1145318,
+        "maxLon": 17.561021
+      }
+    },
+    {
+      "id": 14510139,
+      "osmType": "relation",
+      "name": "Järviseudun Golf",
+      "lat": 63.25029035,
+      "lon": 23.6276543,
+      "bbox": {
+        "minLat": 63.2443181,
+        "minLon": 23.6120546,
+        "maxLat": 63.2562626,
+        "maxLon": 23.643254
+      }
+    },
+    {
+      "id": 9685602,
+      "osmType": "relation",
+      "name": "Jönköpings Golf Klubb",
+      "lat": 57.7484764,
+      "lon": 14.13517985,
+      "bbox": {
+        "minLat": 57.743023,
+        "minLon": 14.1249043,
+        "maxLat": 57.7539298,
+        "maxLon": 14.1454554
+      }
+    },
+    {
+      "id": 911715303,
+      "osmType": "way",
+      "name": "Jönåkers golfklubb",
+      "lat": 58.75191035,
+      "lon": 16.711345,
+      "bbox": {
+        "minLat": 58.7456269,
+        "minLon": 16.7009675,
+        "maxLat": 58.7581938,
+        "maxLon": 16.7217225
+      }
+    },
+    {
+      "id": 101222484,
+      "osmType": "way",
+      "name": "Kalafornia Golf",
+      "lat": 61.52199095,
+      "lon": 21.7454508,
+      "bbox": {
+        "minLat": 61.5134482,
+        "minLon": 21.7338807,
+        "maxLat": 61.5305337,
+        "maxLon": 21.7570209
+      }
+    },
+    {
+      "id": 152988478,
+      "osmType": "way",
+      "name": "Kalajoki Golf",
+      "lat": 64.2243958,
+      "lon": 23.78407835,
+      "bbox": {
+        "minLat": 64.2184982,
+        "minLon": 23.7690843,
+        "maxLat": 64.2302934,
+        "maxLon": 23.7990724
+      }
+    },
+    {
+      "id": 4427658,
+      "osmType": "relation",
+      "name": "Kalix Golfklubb",
+      "lat": 65.83668700000001,
+      "lon": 23.146240849999998,
+      "bbox": {
+        "minLat": 65.828495,
+        "minLon": 23.1262292,
+        "maxLat": 65.844879,
+        "maxLon": 23.1662525
+      }
+    },
+    {
+      "id": 1987464,
+      "osmType": "relation",
+      "name": "Kallfors Golfklubb",
+      "lat": 59.108725449999994,
+      "lon": 17.5350767,
+      "bbox": {
+        "minLat": 59.1017586,
+        "minLon": 17.5249461,
+        "maxLat": 59.1156923,
+        "maxLon": 17.5452073
+      }
+    },
+    {
+      "id": 10852837,
+      "osmType": "relation",
+      "name": "Kalmar golfbana",
+      "lat": 56.716357349999996,
+      "lon": 16.341666449999998,
+      "bbox": {
+        "minLat": 56.7091932,
+        "minLon": 16.3302112,
+        "maxLat": 56.7235215,
+        "maxLon": 16.3531217
+      }
+    },
+    {
+      "id": 105398785,
+      "osmType": "way",
+      "name": "Kalundborg Golfklub",
+      "lat": 55.71815985,
+      "lon": 11.01345425,
+      "bbox": {
+        "minLat": 55.7131798,
+        "minLon": 11.0027243,
+        "maxLat": 55.7231399,
+        "maxLon": 11.0241842
+      }
+    },
+    {
+      "id": 554967967,
+      "osmType": "way",
+      "name": "Kankaanpään golfseuran golf range",
+      "lat": 61.8208552,
+      "lon": 22.372830450000002,
+      "bbox": {
+        "minLat": 61.8198237,
+        "minLon": 22.3704965,
+        "maxLat": 61.8218867,
+        "maxLon": 22.3751644
+      }
+    },
+    {
+      "id": 5443294,
+      "osmType": "relation",
+      "name": "Kankaisten Golf",
+      "lat": 60.54858605,
+      "lon": 22.10941155,
+      "bbox": {
+        "minLat": 60.5420291,
+        "minLon": 22.1014775,
+        "maxLat": 60.555143,
+        "maxLon": 22.1173456
+      }
+    },
+    {
+      "id": 260131521,
+      "osmType": "way",
+      "name": "Karlshamns Golfklubb",
+      "lat": 56.2093763,
+      "lon": 14.764583850000001,
+      "bbox": {
+        "minLat": 56.2013359,
+        "minLon": 14.755083,
+        "maxLat": 56.2174167,
+        "maxLon": 14.7740847
+      }
+    },
+    {
+      "id": 6524479,
+      "osmType": "relation",
+      "name": "Karlskoga Golfklubb",
+      "lat": 59.3031576,
+      "lon": 14.58371735,
+      "bbox": {
+        "minLat": 59.2971218,
+        "minLon": 14.5725383,
+        "maxLat": 59.3091934,
+        "maxLon": 14.5948964
+      }
+    },
+    {
+      "id": 54033465,
+      "osmType": "way",
+      "name": "Karlstad GK",
+      "lat": 59.4345894,
+      "lon": 13.51419175,
+      "bbox": {
+        "minLat": 59.4275295,
+        "minLon": 13.5009767,
+        "maxLat": 59.4416493,
+        "maxLon": 13.5274068
+      }
+    },
+    {
+      "id": 965528504,
+      "osmType": "way",
+      "name": "Kiladalens golfbana",
+      "lat": 58.73514535,
+      "lon": 16.89932135,
+      "bbox": {
+        "minLat": 58.727957,
+        "minLon": 16.8888255,
+        "maxLat": 58.7423337,
+        "maxLon": 16.9098172
+      }
+    },
+    {
+      "id": 121498937,
+      "osmType": "way",
+      "name": "Kils GK",
+      "lat": 59.55146205,
+      "lon": 13.34758385,
+      "bbox": {
+        "minLat": 59.5449279,
+        "minLon": 13.3416912,
+        "maxLat": 59.5579962,
+        "maxLon": 13.3534765
+      }
+    },
+    {
+      "id": 468446210,
+      "osmType": "way",
+      "name": "Kinds Golfklubb",
+      "lat": 57.4614192,
+      "lon": 13.1764569,
+      "bbox": {
+        "minLat": 57.4544519,
+        "minLon": 13.1686753,
+        "maxLat": 57.4683865,
+        "maxLon": 13.1842385
+      }
+    },
+    {
+      "id": 13710074,
+      "osmType": "relation",
+      "name": "Klosterfjordens GK",
+      "lat": 57.222679400000004,
+      "lon": 12.228220400000001,
+      "bbox": {
+        "minLat": 57.2191812,
+        "minLon": 12.221657,
+        "maxLat": 57.2261776,
+        "maxLon": 12.2347838
+      }
+    },
+    {
+      "id": 13248656,
+      "osmType": "relation",
+      "name": "Klövsjö-Vemdalens Golfklubb",
+      "lat": 62.4850014,
+      "lon": 14.21985455,
+      "bbox": {
+        "minLat": 62.4788014,
+        "minLon": 14.2098017,
+        "maxLat": 62.4912014,
+        "maxLon": 14.2299074
+      }
+    },
+    {
+      "id": 13937737,
+      "osmType": "relation",
+      "name": "Knistad Golf & Country Club",
+      "lat": 58.42101195,
+      "lon": 13.9488707,
+      "bbox": {
+        "minLat": 58.4157973,
+        "minLon": 13.9362427,
+        "maxLat": 58.4262266,
+        "maxLon": 13.9614987
+      }
+    },
+    {
+      "id": 13513057,
+      "osmType": "relation",
+      "name": "Koberg Golfklubb",
+      "lat": 58.1649105,
+      "lon": 12.398065800000001,
+      "bbox": {
+        "minLat": 58.1596955,
+        "minLon": 12.3845314,
+        "maxLat": 58.1701255,
+        "maxLon": 12.4116002
+      }
+    },
+    {
+      "id": 4217260,
+      "osmType": "way",
+      "name": "Kokkedal Golfklub",
+      "lat": 55.90541445,
+      "lon": 12.5173097,
+      "bbox": {
+        "minLat": 55.9017338,
+        "minLon": 12.5096488,
+        "maxLat": 55.9090951,
+        "maxLon": 12.5249706
+      }
+    },
+    {
+      "id": 1110214802,
+      "osmType": "way",
+      "name": "Kokkedal Golfklub",
+      "lat": 55.899383900000004,
+      "lon": 12.5158166,
+      "bbox": {
+        "minLat": 55.8970794,
+        "minLon": 12.5098258,
+        "maxLat": 55.9016884,
+        "maxLon": 12.5218074
+      }
+    },
+    {
+      "id": 1396063676,
+      "osmType": "way",
+      "name": "Kokkolan Golf",
+      "lat": 63.817408549999996,
+      "lon": 23.083189949999998,
+      "bbox": {
+        "minLat": 63.8141211,
+        "minLon": 23.0768035,
+        "maxLat": 63.820696,
+        "maxLon": 23.0895764
+      }
+    },
+    {
+      "id": 1396134175,
+      "osmType": "way",
+      "name": "Kokkolan Golf",
+      "lat": 63.81757465,
+      "lon": 23.096191400000002,
+      "bbox": {
+        "minLat": 63.812346,
+        "minLon": 23.0886088,
+        "maxLat": 63.8228033,
+        "maxLon": 23.103774
+      }
+    },
+    {
+      "id": 665237131,
+      "osmType": "way",
+      "name": "Kongsvinger golfklubb",
+      "lat": 60.13343225,
+      "lon": 12.051604300000001,
+      "bbox": {
+        "minLat": 60.1244918,
+        "minLon": 12.0438212,
+        "maxLat": 60.1423727,
+        "maxLon": 12.0593874
+      }
+    },
+    {
+      "id": 116398292,
+      "osmType": "way",
+      "name": "Korsør Golf Klub",
+      "lat": 55.343621,
+      "lon": 11.1552547,
+      "bbox": {
+        "minLat": 55.3371172,
+        "minLon": 11.1473009,
+        "maxLat": 55.3501248,
+        "maxLon": 11.1632085
+      }
+    },
+    {
+      "id": 591197681,
+      "osmType": "way",
+      "name": "Korthålsabanan",
+      "lat": 55.907467499999996,
+      "lon": 12.81125315,
+      "bbox": {
+        "minLat": 55.9067094,
+        "minLon": 12.8093005,
+        "maxLat": 55.9082256,
+        "maxLon": 12.8132058
+      }
+    },
+    {
+      "id": 117203090,
+      "osmType": "way",
+      "name": "Korthålsbanan",
+      "lat": 61.2986335,
+      "lon": 17.0399118,
+      "bbox": {
+        "minLat": 61.297271,
+        "minLon": 17.035455,
+        "maxLat": 61.299996,
+        "maxLon": 17.0443686
+      }
+    },
+    {
+      "id": 2270155,
+      "osmType": "relation",
+      "name": "Kristianstads Golfklubb",
+      "lat": 55.9249916,
+      "lon": 14.27019625,
+      "bbox": {
+        "minLat": 55.9195458,
+        "minLon": 14.2563307,
+        "maxLat": 55.9304374,
+        "maxLon": 14.2840618
+      }
+    },
+    {
+      "id": 1167188602,
+      "osmType": "way",
+      "name": "Kristinehamns golfklubb",
+      "lat": 59.33776245,
+      "lon": 14.1394176,
+      "bbox": {
+        "minLat": 59.332497,
+        "minLon": 14.1293404,
+        "maxLat": 59.3430279,
+        "maxLon": 14.1494948
+      }
+    },
+    {
+      "id": 2183705,
+      "osmType": "relation",
+      "name": "Krokhol Golfklubb",
+      "lat": 59.8050609,
+      "lon": 10.927467100000001,
+      "bbox": {
+        "minLat": 59.7999594,
+        "minLon": 10.918891,
+        "maxLat": 59.8101624,
+        "maxLon": 10.9360432
+      }
+    },
+    {
+      "id": 15704160,
+      "osmType": "relation",
+      "name": "Kultaranta Resort",
+      "lat": 60.45373705,
+      "lon": 21.952444200000002,
+      "bbox": {
+        "minLat": 60.4491619,
+        "minLon": 21.9417486,
+        "maxLat": 60.4583122,
+        "maxLon": 21.9631398
+      }
+    },
+    {
+      "id": 487144141,
+      "osmType": "way",
+      "name": "Kumla Golfklubb",
+      "lat": 59.11703755,
+      "lon": 15.24816395,
+      "bbox": {
+        "minLat": 59.1119147,
+        "minLon": 15.233708,
+        "maxLat": 59.1221604,
+        "maxLon": 15.2626199
+      }
+    },
+    {
+      "id": 4440731,
+      "osmType": "relation",
+      "name": "Kungl. Drottningholms Golfklubb",
+      "lat": 59.322043449999995,
+      "lon": 17.854326899999997,
+      "bbox": {
+        "minLat": 59.3141837,
+        "minLon": 17.8456019,
+        "maxLat": 59.3299032,
+        "maxLon": 17.8630519
+      }
+    },
+    {
+      "id": 8870412,
+      "osmType": "relation",
+      "name": "Kungsbacka Golfklubb",
+      "lat": 57.49133825,
+      "lon": 11.97372035,
+      "bbox": {
+        "minLat": 57.4855737,
+        "minLon": 11.9531706,
+        "maxLat": 57.4971028,
+        "maxLon": 11.9942701
+      }
+    },
+    {
+      "id": 224386312,
+      "osmType": "way",
+      "name": "Kungälv-Kode Golfklubb",
+      "lat": 57.9568266,
+      "lon": 11.803374550000001,
+      "bbox": {
+        "minLat": 57.9537347,
+        "minLon": 11.7945918,
+        "maxLat": 57.9599185,
+        "maxLon": 11.8121573
+      }
+    },
+    {
+      "id": 133745539,
+      "osmType": "way",
+      "name": "Kuortane-Golf",
+      "lat": 62.764157999999995,
+      "lon": 23.521817400000003,
+      "bbox": {
+        "minLat": 62.7591191,
+        "minLon": 23.5170175,
+        "maxLat": 62.7691969,
+        "maxLon": 23.5266173
+      }
+    },
+    {
+      "id": 27674725,
+      "osmType": "way",
+      "name": "Kurk Golf",
+      "lat": 60.1805396,
+      "lon": 24.378255199999998,
+      "bbox": {
+        "minLat": 60.1763926,
+        "minLon": 24.3677945,
+        "maxLat": 60.1846866,
+        "maxLon": 24.3887159
+      }
+    },
+    {
+      "id": 477249994,
+      "osmType": "way",
+      "name": "Kurk Golf",
+      "lat": 60.18225515,
+      "lon": 24.389531849999997,
+      "bbox": {
+        "minLat": 60.1810062,
+        "minLon": 24.3875125,
+        "maxLat": 60.1835041,
+        "maxLon": 24.3915512
+      }
+    },
+    {
+      "id": 477249995,
+      "osmType": "way",
+      "name": "Kurk Golf",
+      "lat": 60.180562300000005,
+      "lon": 24.3907621,
+      "bbox": {
+        "minLat": 60.1798951,
+        "minLon": 24.3897837,
+        "maxLat": 60.1812295,
+        "maxLon": 24.3917405
+      }
+    },
+    {
+      "id": 477249996,
+      "osmType": "way",
+      "name": "Kurk Golf",
+      "lat": 60.1869348,
+      "lon": 24.4015037,
+      "bbox": {
+        "minLat": 60.1865297,
+        "minLon": 24.3996852,
+        "maxLat": 60.1873399,
+        "maxLon": 24.4033222
+      }
+    },
+    {
+      "id": 477249997,
+      "osmType": "way",
+      "name": "Kurk Golf",
+      "lat": 60.18685105,
+      "lon": 24.40017765,
+      "bbox": {
+        "minLat": 60.1848734,
+        "minLon": 24.3952503,
+        "maxLat": 60.1888287,
+        "maxLon": 24.405105
+      }
+    },
+    {
+      "id": 477249998,
+      "osmType": "way",
+      "name": "Kurk Golf",
+      "lat": 60.183110850000006,
+      "lon": 24.39953805,
+      "bbox": {
+        "minLat": 60.1809543,
+        "minLon": 24.3919694,
+        "maxLat": 60.1852674,
+        "maxLon": 24.4071067
+      }
+    },
+    {
+      "id": 338799792,
+      "osmType": "way",
+      "name": "Kvicksunds Golfklubb",
+      "lat": 59.4435622,
+      "lon": 16.354771149999998,
+      "bbox": {
+        "minLat": 59.4404061,
+        "minLon": 16.3479174,
+        "maxLat": 59.4467183,
+        "maxLon": 16.3616249
+      }
+    },
+    {
+      "id": 2237399,
+      "osmType": "relation",
+      "name": "Källebackens golfbana",
+      "lat": 57.202071000000004,
+      "lon": 13.6097564,
+      "bbox": {
+        "minLat": 57.1952458,
+        "minLon": 13.5939111,
+        "maxLat": 57.2088962,
+        "maxLon": 13.6256017
+      }
+    },
+    {
+      "id": 60494848,
+      "osmType": "way",
+      "name": "Kävlinge GK",
+      "lat": 55.7936261,
+      "lon": 13.15325735,
+      "bbox": {
+        "minLat": 55.7901079,
+        "minLon": 13.1440111,
+        "maxLat": 55.7971443,
+        "maxLon": 13.1625036
+      }
+    },
+    {
+      "id": 232703131,
+      "osmType": "way",
+      "name": "Kårsta golfklubb",
+      "lat": 59.35073515,
+      "lon": 15.1993586,
+      "bbox": {
+        "minLat": 59.345796,
+        "minLon": 15.1901385,
+        "maxLat": 59.3556743,
+        "maxLon": 15.2085787
+      }
+    },
+    {
+      "id": 15593281,
+      "osmType": "relation",
+      "name": "Köpings golfklubb",
+      "lat": 59.5518238,
+      "lon": 15.94883055,
+      "bbox": {
+        "minLat": 59.5445622,
+        "minLon": 15.9361249,
+        "maxLat": 59.5590854,
+        "maxLon": 15.9615362
+      }
+    },
+    {
+      "id": 13254790,
+      "osmType": "relation",
+      "name": "Køge Golfklub",
+      "lat": 55.426622449999996,
+      "lon": 12.17343425,
+      "bbox": {
+        "minLat": 55.4206185,
+        "minLon": 12.166437,
+        "maxLat": 55.4326264,
+        "maxLon": 12.1804315
+      }
+    },
+    {
+      "id": 10597026,
+      "osmType": "relation",
+      "name": "Lagan Golf",
+      "lat": 56.925374000000005,
+      "lon": 13.976499149999999,
+      "bbox": {
+        "minLat": 56.9190642,
+        "minLon": 13.963897,
+        "maxLat": 56.9316838,
+        "maxLon": 13.9891013
+      }
+    },
+    {
+      "id": 355285037,
+      "osmType": "way",
+      "name": "Laholms Golfklubb",
+      "lat": 56.43593425,
+      "lon": 13.1293729,
+      "bbox": {
+        "minLat": 56.4291619,
+        "minLon": 13.1167585,
+        "maxLat": 56.4427066,
+        "maxLon": 13.1419873
+      }
+    },
+    {
+      "id": 19789400,
+      "osmType": "relation",
+      "name": "Lakeside Golf",
+      "lat": 61.42719735,
+      "lon": 22.99579465,
+      "bbox": {
+        "minLat": 61.419818,
+        "minLon": 22.9879459,
+        "maxLat": 61.4345767,
+        "maxLon": 23.0036434
+      }
+    },
+    {
+      "id": 47050742,
+      "osmType": "way",
+      "name": "Landeryds Golfklubb",
+      "lat": 58.35724315,
+      "lon": 15.71597075,
+      "bbox": {
+        "minLat": 58.3473187,
+        "minLon": 15.7016846,
+        "maxLat": 58.3671676,
+        "maxLon": 15.7302569
+      }
+    },
+    {
+      "id": 361205880,
+      "osmType": "way",
+      "name": "Landeryds Golfklubb - Vesterbybanan",
+      "lat": 58.238387849999995,
+      "lon": 15.673234,
+      "bbox": {
+        "minLat": 58.2322998,
+        "minLon": 15.6641286,
+        "maxLat": 58.2444759,
+        "maxLon": 15.6823394
+      }
+    },
+    {
+      "id": 43051024,
+      "osmType": "way",
+      "name": "Landskrona Golfklubb",
+      "lat": 55.908961399999995,
+      "lon": 12.8130323,
+      "bbox": {
+        "minLat": 55.9032543,
+        "minLon": 12.8048994,
+        "maxLat": 55.9146685,
+        "maxLon": 12.8211652
+      }
+    },
+    {
+      "id": 4427161,
+      "osmType": "relation",
+      "name": "Lanna Lodge Golf Resort",
+      "lat": 59.244618599999995,
+      "lon": 14.899647900000001,
+      "bbox": {
+        "minLat": 59.2398215,
+        "minLon": 14.8875977,
+        "maxLat": 59.2494157,
+        "maxLon": 14.9116981
+      }
+    },
+    {
+      "id": 5340268,
+      "osmType": "relation",
+      "name": "Laröds drivingrange",
+      "lat": 56.1017338,
+      "lon": 12.6724248,
+      "bbox": {
+        "minLat": 56.1006255,
+        "minLon": 12.6713748,
+        "maxLat": 56.1028421,
+        "maxLon": 12.6734748
+      }
+    },
+    {
+      "id": 3015865,
+      "osmType": "relation",
+      "name": "Ledreborg Slot Golfklub",
+      "lat": 55.611888050000005,
+      "lon": 11.93954065,
+      "bbox": {
+        "minLat": 55.60381,
+        "minLon": 11.9266759,
+        "maxLat": 55.6199661,
+        "maxLon": 11.9524054
+      }
+    },
+    {
+      "id": 43239438,
+      "osmType": "way",
+      "name": "Leksands Golfklubb",
+      "lat": 60.7486382,
+      "lon": 15.0331572,
+      "bbox": {
+        "minLat": 60.7439228,
+        "minLon": 15.0245564,
+        "maxLat": 60.7533536,
+        "maxLon": 15.041758
+      }
+    },
+    {
+      "id": 7539523,
+      "osmType": "relation",
+      "name": "Lepaa Golf",
+      "lat": 61.11252185,
+      "lon": 24.337285950000002,
+      "bbox": {
+        "minLat": 61.1091532,
+        "minLon": 24.3280467,
+        "maxLat": 61.1158905,
+        "maxLon": 24.3465252
+      }
+    },
+    {
+      "id": 10756273,
+      "osmType": "relation",
+      "name": "Lerjedalens Golfklubb",
+      "lat": 57.79433605,
+      "lon": 12.1190129,
+      "bbox": {
+        "minLat": 57.7909307,
+        "minLon": 12.1033394,
+        "maxLat": 57.7977414,
+        "maxLon": 12.1346864
+      }
+    },
+    {
+      "id": 743038920,
+      "osmType": "way",
+      "name": "Leråkra Golfkllubb",
+      "lat": 56.19374065,
+      "lon": 15.3577051,
+      "bbox": {
+        "minLat": 56.1919916,
+        "minLon": 15.3526879,
+        "maxLat": 56.1954897,
+        "maxLon": 15.3627223
+      }
+    },
+    {
+      "id": 1311961715,
+      "osmType": "way",
+      "name": "Leråkra Golfklubb",
+      "lat": 56.196795550000004,
+      "lon": 15.36592855,
+      "bbox": {
+        "minLat": 56.1947102,
+        "minLon": 15.3608915,
+        "maxLat": 56.1988809,
+        "maxLon": 15.3709656
+      }
+    },
+    {
+      "id": 3942404,
+      "osmType": "relation",
+      "name": "Lidingö Golfklubb",
+      "lat": 59.3788763,
+      "lon": 18.12710945,
+      "bbox": {
+        "minLat": 59.3732601,
+        "minLon": 18.1189002,
+        "maxLat": 59.3844925,
+        "maxLon": 18.1353187
+      }
+    },
+    {
+      "id": 9563148,
+      "osmType": "relation",
+      "name": "Lidköpings Golfklubb",
+      "lat": 58.487218150000004,
+      "lon": 13.26688145,
+      "bbox": {
+        "minLat": 58.4821391,
+        "minLon": 13.2574975,
+        "maxLat": 58.4922972,
+        "maxLon": 13.2762654
+      }
+    },
+    {
+      "id": 7423510,
+      "osmType": "relation",
+      "name": "Linde GK",
+      "lat": 59.5833625,
+      "lon": 15.2531184,
+      "bbox": {
+        "minLat": 59.578136,
+        "minLon": 15.2381643,
+        "maxLat": 59.588589,
+        "maxLon": 15.2680725
+      }
+    },
+    {
+      "id": 3725202,
+      "osmType": "relation",
+      "name": "Linköpings Golfklubb",
+      "lat": 58.3997594,
+      "lon": 15.5639663,
+      "bbox": {
+        "minLat": 58.3946732,
+        "minLon": 15.5558916,
+        "maxLat": 58.4048456,
+        "maxLon": 15.572041
+      }
+    },
+    {
+      "id": 234468593,
+      "osmType": "way",
+      "name": "Lisinge Golfklubb",
+      "lat": 59.70296475,
+      "lon": 18.33334955,
+      "bbox": {
+        "minLat": 59.6974471,
+        "minLon": 18.3221921,
+        "maxLat": 59.7084824,
+        "maxLon": 18.344507
+      }
+    },
+    {
+      "id": 74607935,
+      "osmType": "way",
+      "name": "Ljungbyheds Golfklubb",
+      "lat": 56.07447435,
+      "lon": 13.215656899999999,
+      "bbox": {
+        "minLat": 56.0705474,
+        "minLon": 13.2040027,
+        "maxLat": 56.0784013,
+        "maxLon": 13.2273111
+      }
+    },
+    {
+      "id": 71190224,
+      "osmType": "way",
+      "name": "Ljunghusens GK",
+      "lat": 55.392740599999996,
+      "lon": 12.90895655,
+      "bbox": {
+        "minLat": 55.3858587,
+        "minLon": 12.8960295,
+        "maxLat": 55.3996225,
+        "maxLon": 12.9218836
+      }
+    },
+    {
+      "id": 597496888,
+      "osmType": "way",
+      "name": "Ljusdals Golfklubb",
+      "lat": 61.814450300000004,
+      "lon": 16.12529835,
+      "bbox": {
+        "minLat": 61.8094005,
+        "minLon": 16.1140895,
+        "maxLat": 61.8195001,
+        "maxLon": 16.1365072
+      }
+    },
+    {
+      "id": 3945895,
+      "osmType": "relation",
+      "name": "Ljusterö Golf",
+      "lat": 59.508104,
+      "lon": 18.569032149999998,
+      "bbox": {
+        "minLat": 59.5027498,
+        "minLon": 18.5587567,
+        "maxLat": 59.5134582,
+        "maxLon": 18.5793076
+      }
+    },
+    {
+      "id": 5314623,
+      "osmType": "relation",
+      "name": "Lofoten Golf Links",
+      "lat": 68.3405009,
+      "lon": 14.1355629,
+      "bbox": {
+        "minLat": 68.335877,
+        "minLon": 14.1180565,
+        "maxLat": 68.3451248,
+        "maxLon": 14.1530693
+      }
+    },
+    {
+      "id": 447722890,
+      "osmType": "way",
+      "name": "Loimijoki Golf",
+      "lat": 60.8190185,
+      "lon": 23.2335674,
+      "bbox": {
+        "minLat": 60.8109078,
+        "minLon": 23.2256117,
+        "maxLat": 60.8271292,
+        "maxLon": 23.2415231
+      }
+    },
+    {
+      "id": 3594920,
+      "osmType": "relation",
+      "name": "Losby Golfklubb",
+      "lat": 59.889893650000005,
+      "lon": 10.98675385,
+      "bbox": {
+        "minLat": 59.8815357,
+        "minLon": 10.9736458,
+        "maxLat": 59.8982516,
+        "maxLon": 10.9998619
+      }
+    },
+    {
+      "id": 6846687,
+      "osmType": "relation",
+      "name": "Lugnets Golfbana",
+      "lat": 57.669459599999996,
+      "lon": 18.36236645,
+      "bbox": {
+        "minLat": 57.666277,
+        "minLon": 18.3539092,
+        "maxLat": 57.6726422,
+        "maxLon": 18.3708237
+      }
+    },
+    {
+      "id": 49169438,
+      "osmType": "way",
+      "name": "Luleå Golfklubb",
+      "lat": 65.68632015,
+      "lon": 22.0880521,
+      "bbox": {
+        "minLat": 65.6766686,
+        "minLon": 22.0753796,
+        "maxLat": 65.6959717,
+        "maxLon": 22.1007246
+      }
+    },
+    {
+      "id": 34223464,
+      "osmType": "way",
+      "name": "Lunds Akademiska Golfklubb",
+      "lat": 55.71648810000001,
+      "lon": 13.2725823,
+      "bbox": {
+        "minLat": 55.7110989,
+        "minLon": 13.2600938,
+        "maxLat": 55.7218773,
+        "maxLon": 13.2850708
+      }
+    },
+    {
+      "id": 536454750,
+      "osmType": "way",
+      "name": "Lundsbergs Golfklubb",
+      "lat": 59.48923635,
+      "lon": 14.182348000000001,
+      "bbox": {
+        "minLat": 59.4850615,
+        "minLon": 14.1733484,
+        "maxLat": 59.4934112,
+        "maxLon": 14.1913476
+      }
+    },
+    {
+      "id": 205081443,
+      "osmType": "way",
+      "name": "Lundsbrunn Golfklubb",
+      "lat": 58.47708525,
+      "lon": 13.43197035,
+      "bbox": {
+        "minLat": 58.4712322,
+        "minLon": 13.4210504,
+        "maxLat": 58.4829383,
+        "maxLon": 13.4428903
+      }
+    },
+    {
+      "id": 5448797,
+      "osmType": "relation",
+      "name": "Lycke Golf & Countryclub",
+      "lat": 57.8646035,
+      "lon": 11.708667649999999,
+      "bbox": {
+        "minLat": 57.8576359,
+        "minLon": 11.696385,
+        "maxLat": 57.8715711,
+        "maxLon": 11.7209503
+      }
+    },
+    {
+      "id": 10017189,
+      "osmType": "relation",
+      "name": "Lyckorna Golfklubb",
+      "lat": 58.1973596,
+      "lon": 11.9026835,
+      "bbox": {
+        "minLat": 58.1886743,
+        "minLon": 11.8961283,
+        "maxLat": 58.2060449,
+        "maxLon": 11.9092387
+      }
+    },
+    {
+      "id": 301961265,
+      "osmType": "way",
+      "name": "Lycksele Golfklubb",
+      "lat": 64.60511105,
+      "lon": 18.693911049999997,
+      "bbox": {
+        "minLat": 64.6024006,
+        "minLon": 18.6883004,
+        "maxLat": 64.6078215,
+        "maxLon": 18.6995217
+      }
+    },
+    {
+      "id": 221636579,
+      "osmType": "way",
+      "name": "Lysegårdens Golfklubb",
+      "lat": 57.941759149999996,
+      "lon": 12.031884949999998,
+      "bbox": {
+        "minLat": 57.9370501,
+        "minLon": 12.0219443,
+        "maxLat": 57.9464682,
+        "maxLon": 12.0418256
+      }
+    },
+    {
+      "id": 7900793,
+      "osmType": "relation",
+      "name": "Lysekils Golfklubb",
+      "lat": 58.370338849999996,
+      "lon": 11.549192349999998,
+      "bbox": {
+        "minLat": 58.3657889,
+        "minLon": 11.5402633,
+        "maxLat": 58.3748888,
+        "maxLon": 11.5581214
+      }
+    },
+    {
+      "id": 71424383,
+      "osmType": "way",
+      "name": "Lysingsbadets golfklubb",
+      "lat": 57.7349244,
+      "lon": 16.6650562,
+      "bbox": {
+        "minLat": 57.7323657,
+        "minLon": 16.6594344,
+        "maxLat": 57.7374831,
+        "maxLon": 16.670678
+      }
+    },
+    {
+      "id": 10531195,
+      "osmType": "relation",
+      "name": "Läckö Golfklubb",
+      "lat": 58.6536567,
+      "lon": 13.1117065,
+      "bbox": {
+        "minLat": 58.6433762,
+        "minLon": 13.1011426,
+        "maxLat": 58.6639372,
+        "maxLon": 13.1222704
+      }
+    },
+    {
+      "id": 500731332,
+      "osmType": "way",
+      "name": "Læsø Seaside Golfklub",
+      "lat": 57.312705949999994,
+      "lon": 11.0971776,
+      "bbox": {
+        "minLat": 57.3080206,
+        "minLon": 11.0872819,
+        "maxLat": 57.3173913,
+        "maxLon": 11.1070733
+      }
+    },
+    {
+      "id": 20379995,
+      "osmType": "relation",
+      "name": "Lübker Golf & Spa Resort",
+      "lat": 56.4215856,
+      "lon": 10.58307945,
+      "bbox": {
+        "minLat": 56.4111904,
+        "minLon": 10.5706394,
+        "maxLat": 56.4319808,
+        "maxLon": 10.5955195
+      }
+    },
+    {
+      "id": 4427308,
+      "osmType": "relation",
+      "name": "Mackmyra Golf",
+      "lat": 60.6334128,
+      "lon": 16.966244699999997,
+      "bbox": {
+        "minLat": 60.6292498,
+        "minLon": 16.9600582,
+        "maxLat": 60.6375758,
+        "maxLon": 16.9724312
+      }
+    },
+    {
+      "id": 253161773,
+      "osmType": "way",
+      "name": "Maglarps golfklubb",
+      "lat": 55.3976062,
+      "lon": 13.03093875,
+      "bbox": {
+        "minLat": 55.3945349,
+        "minLon": 13.0260467,
+        "maxLat": 55.4006775,
+        "maxLon": 13.0358308
+      }
+    },
+    {
+      "id": 73898411,
+      "osmType": "way",
+      "name": "Malmö Burlöv Golfklubb",
+      "lat": 55.618151100000006,
+      "lon": 13.070961149999999,
+      "bbox": {
+        "minLat": 55.6115075,
+        "minLon": 13.0601329,
+        "maxLat": 55.6247947,
+        "maxLon": 13.0817894
+      }
+    },
+    {
+      "id": 3049188,
+      "osmType": "relation",
+      "name": "Malmö City GK, Kvarnbybanan",
+      "lat": 55.58301935,
+      "lon": 13.1064154,
+      "bbox": {
+        "minLat": 55.5765966,
+        "minLon": 13.0964374,
+        "maxLat": 55.5894421,
+        "maxLon": 13.1163934
+      }
+    },
+    {
+      "id": 1167199089,
+      "osmType": "way",
+      "name": "Malungs Golfklubb",
+      "lat": 60.6291156,
+      "lon": 13.75310985,
+      "bbox": {
+        "minLat": 60.624057,
+        "minLon": 13.7431776,
+        "maxLat": 60.6341742,
+        "maxLon": 13.7630421
+      }
+    },
+    {
+      "id": 154560809,
+      "osmType": "way",
+      "name": "Marbækbanen",
+      "lat": 55.71365675,
+      "lon": 12.3736392,
+      "bbox": {
+        "minLat": 55.7117791,
+        "minLon": 12.3662204,
+        "maxLat": 55.7155344,
+        "maxLon": 12.381058
+      }
+    },
+    {
+      "id": 37343151,
+      "osmType": "way",
+      "name": "Mariestads Golfklubb",
+      "lat": 58.69714305,
+      "lon": 13.759024100000001,
+      "bbox": {
+        "minLat": 58.6923589,
+        "minLon": 13.7512457,
+        "maxLat": 58.7019272,
+        "maxLon": 13.7668025
+      }
+    },
+    {
+      "id": 12571097,
+      "osmType": "relation",
+      "name": "Marks Golfklubb",
+      "lat": 57.50010505,
+      "lon": 12.7137525,
+      "bbox": {
+        "minLat": 57.492352,
+        "minLon": 12.7020299,
+        "maxLat": 57.5078581,
+        "maxLon": 12.7254751
+      }
+    },
+    {
+      "id": 302952527,
+      "osmType": "way",
+      "name": "Matfors Golfklubb",
+      "lat": 62.349040450000004,
+      "lon": 17.042568250000002,
+      "bbox": {
+        "minLat": 62.3459913,
+        "minLon": 17.0389565,
+        "maxLat": 62.3520896,
+        "maxLon": 17.04618
+      }
+    },
+    {
+      "id": 297550172,
+      "osmType": "way",
+      "name": "Mauritzberg",
+      "lat": 58.601064199999996,
+      "lon": 16.6668528,
+      "bbox": {
+        "minLat": 58.5955185,
+        "minLon": 16.6512115,
+        "maxLat": 58.6066099,
+        "maxLon": 16.6824941
+      }
+    },
+    {
+      "id": 4440739,
+      "osmType": "relation",
+      "name": "Melleruds Golfklubb",
+      "lat": 58.70172425,
+      "lon": 12.4872105,
+      "bbox": {
+        "minLat": 58.6958626,
+        "minLon": 12.4759355,
+        "maxLat": 58.7075859,
+        "maxLon": 12.4984855
+      }
+    },
+    {
+      "id": 228747767,
+      "osmType": "way",
+      "name": "Mensalgård Golfklub",
+      "lat": 55.9100646,
+      "lon": 11.56748495,
+      "bbox": {
+        "minLat": 55.9074647,
+        "minLon": 11.5629121,
+        "maxLat": 55.9126645,
+        "maxLon": 11.5720578
+      }
+    },
+    {
+      "id": 5232421,
+      "osmType": "relation",
+      "name": "Midjo golfbane",
+      "lat": 64.02287665,
+      "lon": 11.5256984,
+      "bbox": {
+        "minLat": 64.019679,
+        "minLon": 11.5216025,
+        "maxLat": 64.0260743,
+        "maxLon": 11.5297943
+      }
+    },
+    {
+      "id": 195776174,
+      "osmType": "way",
+      "name": "Midtsjællands Golfcenter",
+      "lat": 55.6500202,
+      "lon": 11.65989905,
+      "bbox": {
+        "minLat": 55.6467155,
+        "minLon": 11.6518266,
+        "maxLat": 55.6533249,
+        "maxLon": 11.6679715
+      }
+    },
+    {
+      "id": 1661896,
+      "osmType": "relation",
+      "name": "Miklagard Golf",
+      "lat": 60.07340565,
+      "lon": 11.16573145,
+      "bbox": {
+        "minLat": 60.0661501,
+        "minLon": 11.1544671,
+        "maxLat": 60.0806612,
+        "maxLon": 11.1769958
+      }
+    },
+    {
+      "id": 18504788,
+      "osmType": "relation",
+      "name": "Mjölby Golfklubb",
+      "lat": 58.308092349999995,
+      "lon": 15.1039258,
+      "bbox": {
+        "minLat": 58.304123,
+        "minLon": 15.0933217,
+        "maxLat": 58.3120617,
+        "maxLon": 15.1145299
+      }
+    },
+    {
+      "id": 5974464,
+      "osmType": "relation",
+      "name": "Mjölkeröds Golfbana",
+      "lat": 58.75242345,
+      "lon": 11.24060555,
+      "bbox": {
+        "minLat": 58.7456505,
+        "minLon": 11.22987,
+        "maxLat": 58.7591964,
+        "maxLon": 11.2513411
+      }
+    },
+    {
+      "id": 11897991,
+      "osmType": "relation",
+      "name": "Mora golfklubb",
+      "lat": 61.017431650000006,
+      "lon": 14.561307450000001,
+      "bbox": {
+        "minLat": 61.0125061,
+        "minLon": 14.5474756,
+        "maxLat": 61.0223572,
+        "maxLon": 14.5751393
+      }
+    },
+    {
+      "id": 161856980,
+      "osmType": "way",
+      "name": "Motala GK",
+      "lat": 58.5128051,
+      "lon": 15.04574545,
+      "bbox": {
+        "minLat": 58.5064105,
+        "minLon": 15.0266338,
+        "maxLat": 58.5191997,
+        "maxLon": 15.0648571
+      }
+    },
+    {
+      "id": 219145064,
+      "osmType": "way",
+      "name": "Mälarbadens golfklubb",
+      "lat": 59.44902735,
+      "lon": 16.4331836,
+      "bbox": {
+        "minLat": 59.4467896,
+        "minLon": 16.4226043,
+        "maxLat": 59.4512651,
+        "maxLon": 16.4437629
+      }
+    },
+    {
+      "id": 34619153,
+      "osmType": "way",
+      "name": "Mälarö Golfklubb Skytteholm",
+      "lat": 59.3119966,
+      "lon": 17.68075365,
+      "bbox": {
+        "minLat": 59.3069262,
+        "minLon": 17.6680421,
+        "maxLat": 59.317067,
+        "maxLon": 17.6934652
+      }
+    },
+    {
+      "id": 278462021,
+      "osmType": "way",
+      "name": "Mölle Golfklubb",
+      "lat": 56.2966008,
+      "lon": 12.47027485,
+      "bbox": {
+        "minLat": 56.2924513,
+        "minLon": 12.4580911,
+        "maxLat": 56.3007503,
+        "maxLon": 12.4824586
+      }
+    },
+    {
+      "id": 3752922,
+      "osmType": "relation",
+      "name": "Mölndals Golfklubb",
+      "lat": 57.583611250000004,
+      "lon": 12.13452155,
+      "bbox": {
+        "minLat": 57.5786425,
+        "minLon": 12.1141751,
+        "maxLat": 57.58858,
+        "maxLon": 12.154868
+      }
+    },
+    {
+      "id": 3095029,
+      "osmType": "relation",
+      "name": "Mönsterås GK",
+      "lat": 57.043835900000005,
+      "lon": 16.422569250000002,
+      "bbox": {
+        "minLat": 57.0385945,
+        "minLon": 16.4145918,
+        "maxLat": 57.0490773,
+        "maxLon": 16.4305467
+      }
+    },
+    {
+      "id": 230938202,
+      "osmType": "way",
+      "name": "Möre golfklubb",
+      "lat": 56.449513249999995,
+      "lon": 16.093865100000002,
+      "bbox": {
+        "minLat": 56.4446205,
+        "minLon": 16.0810508,
+        "maxLat": 56.454406,
+        "maxLon": 16.1066794
+      }
+    },
+    {
+      "id": 26386102,
+      "osmType": "way",
+      "name": "Mølleåens Golf Klub",
+      "lat": 55.82510625,
+      "lon": 12.2647721,
+      "bbox": {
+        "minLat": 55.819447,
+        "minLon": 12.2571971,
+        "maxLat": 55.8307655,
+        "maxLon": 12.2723471
+      }
+    },
+    {
+      "id": 3590849,
+      "osmType": "relation",
+      "name": "Mørk golfbane",
+      "lat": 59.53097355,
+      "lon": 10.99975125,
+      "bbox": {
+        "minLat": 59.5246455,
+        "minLon": 10.9932536,
+        "maxLat": 59.5373016,
+        "maxLon": 11.0062489
+      }
+    },
+    {
+      "id": 3679575,
+      "osmType": "relation",
+      "name": "Nacka Golfklubb",
+      "lat": 59.335260500000004,
+      "lon": 18.360859599999998,
+      "bbox": {
+        "minLat": 59.3293378,
+        "minLon": 18.3498134,
+        "maxLat": 59.3411832,
+        "maxLon": 18.3719058
+      }
+    },
+    {
+      "id": 1178308318,
+      "osmType": "way",
+      "name": "Nakkila Golf",
+      "lat": 61.41022635,
+      "lon": 22.05641595,
+      "bbox": {
+        "minLat": 61.4067303,
+        "minLon": 22.0467155,
+        "maxLat": 61.4137224,
+        "maxLon": 22.0661164
+      }
+    },
+    {
+      "id": 6381705,
+      "osmType": "relation",
+      "name": "Namsos Golfbane",
+      "lat": 64.42736515,
+      "lon": 11.4964645,
+      "bbox": {
+        "minLat": 64.4251533,
+        "minLon": 11.4908484,
+        "maxLat": 64.429577,
+        "maxLon": 11.5020806
+      }
+    },
+    {
+      "id": 15687473,
+      "osmType": "relation",
+      "name": "National Golf Resort",
+      "lat": 55.8090574,
+      "lon": 21.17927365,
+      "bbox": {
+        "minLat": 55.8007029,
+        "minLon": 21.1724099,
+        "maxLat": 55.8174119,
+        "maxLon": 21.1861374
+      }
+    },
+    {
+      "id": 34145984,
+      "osmType": "way",
+      "name": "Naturligtvis golf & country",
+      "lat": 55.575253000000004,
+      "lon": 13.326310450000001,
+      "bbox": {
+        "minLat": 55.5706434,
+        "minLon": 13.3184269,
+        "maxLat": 55.5798626,
+        "maxLon": 13.334194
+      }
+    },
+    {
+      "id": 15589937,
+      "osmType": "relation",
+      "name": "Nes Golfklubb",
+      "lat": 60.16305065,
+      "lon": 11.43014885,
+      "bbox": {
+        "minLat": 60.1584075,
+        "minLon": 11.4209092,
+        "maxLat": 60.1676938,
+        "maxLon": 11.4393885
+      }
+    },
+    {
+      "id": 12302351,
+      "osmType": "relation",
+      "name": "Nexø Golf-Club",
+      "lat": 55.0058391,
+      "lon": 15.028023950000001,
+      "bbox": {
+        "minLat": 55.0014441,
+        "minLon": 15.0196786,
+        "maxLat": 55.0102341,
+        "maxLon": 15.0363693
+      }
+    },
+    {
+      "id": 270973512,
+      "osmType": "way",
+      "name": "Nicklastorps Golfklubb",
+      "lat": 56.224545750000004,
+      "lon": 15.5463877,
+      "bbox": {
+        "minLat": 56.2200802,
+        "minLon": 15.5367482,
+        "maxLat": 56.2290113,
+        "maxLon": 15.5560272
+      }
+    },
+    {
+      "id": 435971006,
+      "osmType": "way",
+      "name": "Nifsta GK",
+      "lat": 59.729795249999995,
+      "lon": 18.1501138,
+      "bbox": {
+        "minLat": 59.7271879,
+        "minLon": 18.1480513,
+        "maxLat": 59.7324026,
+        "maxLon": 18.1521763
+      }
+    },
+    {
+      "id": 95542836,
+      "osmType": "way",
+      "name": "Niitvälja Golf",
+      "lat": 59.3213312,
+      "lon": 24.3107318,
+      "bbox": {
+        "minLat": 59.3145881,
+        "minLon": 24.293825,
+        "maxLat": 59.3280743,
+        "maxLon": 24.3276386
+      }
+    },
+    {
+      "id": 13273466,
+      "osmType": "relation",
+      "name": "Nivå Golf",
+      "lat": 55.92124405,
+      "lon": 12.4731006,
+      "bbox": {
+        "minLat": 55.9141902,
+        "minLon": 12.464225,
+        "maxLat": 55.9282979,
+        "maxLon": 12.4819762
+      }
+    },
+    {
+      "id": 295268838,
+      "osmType": "way",
+      "name": "Nora Golfklubb",
+      "lat": 59.4977306,
+      "lon": 15.083724,
+      "bbox": {
+        "minLat": 59.4923167,
+        "minLon": 15.0747646,
+        "maxLat": 59.5031445,
+        "maxLon": 15.0926834
+      }
+    },
+    {
+      "id": 11836385,
+      "osmType": "relation",
+      "name": "Nordbornholms Golf Klub",
+      "lat": 55.213290549999996,
+      "lon": 14.87711135,
+      "bbox": {
+        "minLat": 55.2028451,
+        "minLon": 14.8611528,
+        "maxLat": 55.223736,
+        "maxLon": 14.8930699
+      }
+    },
+    {
+      "id": 108012092,
+      "osmType": "way",
+      "name": "Norderöns Golfklubb",
+      "lat": 63.1559005,
+      "lon": 14.363720449999999,
+      "bbox": {
+        "minLat": 63.1526539,
+        "minLon": 14.3540003,
+        "maxLat": 63.1591471,
+        "maxLon": 14.3734406
+      }
+    },
+    {
+      "id": 11478551,
+      "osmType": "relation",
+      "name": "Norra Backa Golfklubb",
+      "lat": 58.61798435,
+      "lon": 11.3196087,
+      "bbox": {
+        "minLat": 58.6147308,
+        "minLon": 11.3168353,
+        "maxLat": 58.6212379,
+        "maxLon": 11.3223821
+      }
+    },
+    {
+      "id": 165517,
+      "osmType": "relation",
+      "name": "Norrfällsviken GK",
+      "lat": 62.982487750000004,
+      "lon": 18.5325377,
+      "bbox": {
+        "minLat": 62.9766432,
+        "minLon": 18.5244911,
+        "maxLat": 62.9883323,
+        "maxLon": 18.5405843
+      }
+    },
+    {
+      "id": 202970413,
+      "osmType": "way",
+      "name": "Norrmjöle golfbana",
+      "lat": 63.66202735,
+      "lon": 20.1358198,
+      "bbox": {
+        "minLat": 63.6574282,
+        "minLon": 20.1259771,
+        "maxLat": 63.6666265,
+        "maxLon": 20.1456625
+      }
+    },
+    {
+      "id": 3398467,
+      "osmType": "relation",
+      "name": "Norråva Golfklubb",
+      "lat": 59.37000315,
+      "lon": 18.551781249999998,
+      "bbox": {
+        "minLat": 59.3648816,
+        "minLon": 18.5433783,
+        "maxLat": 59.3751247,
+        "maxLon": 18.5601842
+      }
+    },
+    {
+      "id": 179940539,
+      "osmType": "way",
+      "name": "Norsjö Golfklubb",
+      "lat": 64.98867815,
+      "lon": 19.4916973,
+      "bbox": {
+        "minLat": 64.9865913,
+        "minLon": 19.4815559,
+        "maxLat": 64.990765,
+        "maxLon": 19.5018387
+      }
+    },
+    {
+      "id": 5323903,
+      "osmType": "relation",
+      "name": "Nybro golfklubb",
+      "lat": 56.6956857,
+      "lon": 15.9836773,
+      "bbox": {
+        "minLat": 56.6903527,
+        "minLon": 15.9697947,
+        "maxLat": 56.7010187,
+        "maxLon": 15.9975599
+      }
+    },
+    {
+      "id": 2365291,
+      "osmType": "relation",
+      "name": "Nyköpings Golfklubb",
+      "lat": 58.725889550000005,
+      "lon": 16.97758175,
+      "bbox": {
+        "minLat": 58.7151659,
+        "minLon": 16.9656588,
+        "maxLat": 58.7366132,
+        "maxLon": 16.9895047
+      }
+    },
+    {
+      "id": 4427198,
+      "osmType": "relation",
+      "name": "Nynäshamns Golfklubb",
+      "lat": 59.0090485,
+      "lon": 17.8838744,
+      "bbox": {
+        "minLat": 58.9990135,
+        "minLon": 17.8775224,
+        "maxLat": 59.0190835,
+        "maxLon": 17.8902264
+      }
+    },
+    {
+      "id": 199052764,
+      "osmType": "way",
+      "name": "När Golfklubb",
+      "lat": 57.2440314,
+      "lon": 18.6493113,
+      "bbox": {
+        "minLat": 57.2390278,
+        "minLon": 18.6415667,
+        "maxLat": 57.249035,
+        "maxLon": 18.6570559
+      }
+    },
+    {
+      "id": 13185483,
+      "osmType": "relation",
+      "name": "Näreby Golfbana",
+      "lat": 58.2138185,
+      "lon": 11.44566235,
+      "bbox": {
+        "minLat": 58.2110246,
+        "minLon": 11.4434904,
+        "maxLat": 58.2166124,
+        "maxLon": 11.4478343
+      }
+    },
+    {
+      "id": 171365455,
+      "osmType": "way",
+      "name": "Nässjö Golfklubb",
+      "lat": 57.6743331,
+      "lon": 14.669074250000001,
+      "bbox": {
+        "minLat": 57.6679297,
+        "minLon": 14.6604606,
+        "maxLat": 57.6807365,
+        "maxLon": 14.6776879
+      }
+    },
+    {
+      "id": 14452065,
+      "osmType": "relation",
+      "name": "Næstved Golfklub",
+      "lat": 55.21327945,
+      "lon": 11.70329505,
+      "bbox": {
+        "minLat": 55.2086058,
+        "minLon": 11.6961781,
+        "maxLat": 55.2179531,
+        "maxLon": 11.710412
+      }
+    },
+    {
+      "id": 1218466990,
+      "osmType": "way",
+      "name": "Odiņi",
+      "lat": 56.9680326,
+      "lon": 23.10225815,
+      "bbox": {
+        "minLat": 56.9662731,
+        "minLon": 23.0993023,
+        "maxLat": 56.9697921,
+        "maxLon": 23.105214
+      }
+    },
+    {
+      "id": 10724845,
+      "osmType": "way",
+      "name": "Odsherred Golfklub",
+      "lat": 55.905841499999994,
+      "lon": 11.6103966,
+      "bbox": {
+        "minLat": 55.9013266,
+        "minLon": 11.6027089,
+        "maxLat": 55.9103564,
+        "maxLon": 11.6180843
+      }
+    },
+    {
+      "id": 13654676,
+      "osmType": "relation",
+      "name": "Olandsbygdens GK",
+      "lat": 60.07522195,
+      "lon": 18.117461749999997,
+      "bbox": {
+        "minLat": 60.0720095,
+        "minLon": 18.1057833,
+        "maxLat": 60.0784344,
+        "maxLon": 18.1291402
+      }
+    },
+    {
+      "id": 687779170,
+      "osmType": "way",
+      "name": "Omberg Golf Resort",
+      "lat": 58.258027,
+      "lon": 14.62089975,
+      "bbox": {
+        "minLat": 58.251809,
+        "minLon": 14.6123368,
+        "maxLat": 58.264245,
+        "maxLon": 14.6294627
+      }
+    },
+    {
+      "id": 500275632,
+      "osmType": "way",
+      "name": "Onsjö Golfklubb",
+      "lat": 58.3311652,
+      "lon": 12.326652750000001,
+      "bbox": {
+        "minLat": 58.3260559,
+        "minLon": 12.3194946,
+        "maxLat": 58.3362745,
+        "maxLon": 12.3338109
+      }
+    },
+    {
+      "id": 7335306,
+      "osmType": "relation",
+      "name": "Onsjö Golfklubb",
+      "lat": 58.3312828,
+      "lon": 12.32862685,
+      "bbox": {
+        "minLat": 58.3260559,
+        "minLon": 12.3194946,
+        "maxLat": 58.3365097,
+        "maxLon": 12.3377591
+      }
+    },
+    {
+      "id": 3589320,
+      "osmType": "relation",
+      "name": "Onsøy Golfbane",
+      "lat": 59.275321250000005,
+      "lon": 10.79553475,
+      "bbox": {
+        "minLat": 59.2689443,
+        "minLon": 10.7864317,
+        "maxLat": 59.2816982,
+        "maxLon": 10.8046378
+      }
+    },
+    {
+      "id": 48289000,
+      "osmType": "way",
+      "name": "Oppegård Golfklubb",
+      "lat": 59.776701599999996,
+      "lon": 10.815273600000001,
+      "bbox": {
+        "minLat": 59.771193,
+        "minLon": 10.8091414,
+        "maxLat": 59.7822102,
+        "maxLon": 10.8214058
+      }
+    },
+    {
+      "id": 782216270,
+      "osmType": "way",
+      "name": "Orresta Golf & Konferens",
+      "lat": 59.660452750000005,
+      "lon": 16.8398161,
+      "bbox": {
+        "minLat": 59.6577843,
+        "minLon": 16.8356513,
+        "maxLat": 59.6631212,
+        "maxLon": 16.8439809
+      }
+    },
+    {
+      "id": 96693235,
+      "osmType": "way",
+      "name": "Oskarshamns Golfklubb.",
+      "lat": 57.1938686,
+      "lon": 16.391577249999997,
+      "bbox": {
+        "minLat": 57.1898789,
+        "minLon": 16.3846654,
+        "maxLat": 57.1978583,
+        "maxLon": 16.3984891
+      }
+    },
+    {
+      "id": 30655200,
+      "osmType": "way",
+      "name": "Oslo Golfklubb Bogstad",
+      "lat": 59.96482065,
+      "lon": 10.6309398,
+      "bbox": {
+        "minLat": 59.9612408,
+        "minLon": 10.6216599,
+        "maxLat": 59.9684005,
+        "maxLon": 10.6402197
+      }
+    },
+    {
+      "id": 3590874,
+      "osmType": "relation",
+      "name": "Oustøen Country Club",
+      "lat": 59.8665977,
+      "lon": 10.5748543,
+      "bbox": {
+        "minLat": 59.862282,
+        "minLon": 10.5642744,
+        "maxLat": 59.8709134,
+        "maxLon": 10.5854342
+      }
+    },
+    {
+      "id": 154513069,
+      "osmType": "way",
+      "name": "Oxie GK",
+      "lat": 55.54965655,
+      "lon": 13.06374175,
+      "bbox": {
+        "minLat": 55.5466172,
+        "minLon": 13.0590137,
+        "maxLat": 55.5526959,
+        "maxLon": 13.0684698
+      }
+    },
+    {
+      "id": 1149073185,
+      "osmType": "way",
+      "name": "Ozo Golfa Klubs",
+      "lat": 57.0278215,
+      "lon": 24.14611425,
+      "bbox": {
+        "minLat": 57.0212987,
+        "minLon": 24.1345199,
+        "maxLat": 57.0343443,
+        "maxLon": 24.1577086
+      }
+    },
+    {
+      "id": 1456914388,
+      "osmType": "way",
+      "name": "Par 3 banen",
+      "lat": 55.63136525,
+      "lon": 12.39826755,
+      "bbox": {
+        "minLat": 55.6310126,
+        "minLon": 12.3974113,
+        "maxLat": 55.6317179,
+        "maxLon": 12.3991238
+      }
+    },
+    {
+      "id": 10523918,
+      "osmType": "relation",
+      "name": "Partille Golfklubb",
+      "lat": 57.69186805,
+      "lon": 12.10825095,
+      "bbox": {
+        "minLat": 57.6850995,
+        "minLon": 12.0996704,
+        "maxLat": 57.6986366,
+        "maxLon": 12.1168315
+      }
+    },
+    {
+      "id": 93253219,
+      "osmType": "way",
+      "name": "Passebækgård Golfbane",
+      "lat": 56.108951649999995,
+      "lon": 12.3430327,
+      "bbox": {
+        "minLat": 56.1054111,
+        "minLon": 12.3365689,
+        "maxLat": 56.1124922,
+        "maxLon": 12.3494965
+      }
+    },
+    {
+      "id": 74606091,
+      "osmType": "way",
+      "name": "Perstorps Golfklubb",
+      "lat": 56.122956,
+      "lon": 13.4137409,
+      "bbox": {
+        "minLat": 56.1182834,
+        "minLon": 13.4032819,
+        "maxLat": 56.1276286,
+        "maxLon": 13.4241999
+      }
+    },
+    {
+      "id": 327711753,
+      "osmType": "way",
+      "name": "PIBE MØLLE GOLF",
+      "lat": 55.99504815,
+      "lon": 12.22128135,
+      "bbox": {
+        "minLat": 55.9912024,
+        "minLon": 12.2080722,
+        "maxLat": 55.9988939,
+        "maxLon": 12.2344905
+      }
+    },
+    {
+      "id": 227621356,
+      "osmType": "way",
+      "name": "Pickala Golf",
+      "lat": 60.0764753,
+      "lon": 24.2767876,
+      "bbox": {
+        "minLat": 60.0675847,
+        "minLon": 24.25733,
+        "maxLat": 60.0853659,
+        "maxLon": 24.2962452
+      }
+    },
+    {
+      "id": 100882819,
+      "osmType": "way",
+      "name": "Pirilö Golf",
+      "lat": 63.6829827,
+      "lon": 22.783849449999998,
+      "bbox": {
+        "minLat": 63.6769699,
+        "minLon": 22.774891,
+        "maxLat": 63.6889955,
+        "maxLon": 22.7928079
+      }
+    },
+    {
+      "id": 314341050,
+      "osmType": "way",
+      "name": "Piteå Golfklubb",
+      "lat": 65.32161975,
+      "lon": 21.53502555,
+      "bbox": {
+        "minLat": 65.3141955,
+        "minLon": 21.5183497,
+        "maxLat": 65.329044,
+        "maxLon": 21.5517014
+      }
+    },
+    {
+      "id": 616870869,
+      "osmType": "way",
+      "name": "Plantis Äventyrsgolf",
+      "lat": 58.167077449999994,
+      "lon": 13.552536150000002,
+      "bbox": {
+        "minLat": 58.1668926,
+        "minLon": 13.5522734,
+        "maxLat": 58.1672623,
+        "maxLon": 13.5527989
+      }
+    },
+    {
+      "id": 11613606,
+      "osmType": "relation",
+      "name": "Polarsirkelen Golf",
+      "lat": 66.31147185,
+      "lon": 13.9837849,
+      "bbox": {
+        "minLat": 66.30935,
+        "minLon": 13.9768868,
+        "maxLat": 66.3135937,
+        "maxLon": 13.990683
+      }
+    },
+    {
+      "id": 308531404,
+      "osmType": "way",
+      "name": "Private Golf Course",
+      "lat": 63.664928599999996,
+      "lon": 13.484524350000001,
+      "bbox": {
+        "minLat": 63.663209,
+        "minLon": 13.4787531,
+        "maxLat": 63.6666482,
+        "maxLon": 13.4902956
+      }
+    },
+    {
+      "id": 1008633356,
+      "osmType": "way",
+      "name": "Ramkvilla GK",
+      "lat": 57.207432999999995,
+      "lon": 14.94096155,
+      "bbox": {
+        "minLat": 57.2048797,
+        "minLon": 14.9301214,
+        "maxLat": 57.2099863,
+        "maxLon": 14.9518017
+      }
+    },
+    {
+      "id": 11565250,
+      "osmType": "relation",
+      "name": "Ramundbergets golfbana",
+      "lat": 62.7007443,
+      "lon": 12.394294200000001,
+      "bbox": {
+        "minLat": 62.6975674,
+        "minLon": 12.3887707,
+        "maxLat": 62.7039212,
+        "maxLon": 12.3998177
+      }
+    },
+    {
+      "id": 61222634,
+      "osmType": "way",
+      "name": "Rauma Golf",
+      "lat": 61.1401276,
+      "lon": 21.5678503,
+      "bbox": {
+        "minLat": 61.1340724,
+        "minLon": 21.5517172,
+        "maxLat": 61.1461828,
+        "maxLon": 21.5839834
+      }
+    },
+    {
+      "id": 217367858,
+      "osmType": "way",
+      "name": "Reftele golfklubb",
+      "lat": 57.20207355,
+      "lon": 13.6097564,
+      "bbox": {
+        "minLat": 57.1952458,
+        "minLon": 13.5939111,
+        "maxLat": 57.2089013,
+        "maxLon": 13.6256017
+      }
+    },
+    {
+      "id": 69682,
+      "osmType": "relation",
+      "name": "Rikstens GK",
+      "lat": 59.1699509,
+      "lon": 17.938487600000002,
+      "bbox": {
+        "minLat": 59.1659964,
+        "minLon": 17.9261881,
+        "maxLat": 59.1739054,
+        "maxLon": 17.9507871
+      }
+    },
+    {
+      "id": 10482830,
+      "osmType": "relation",
+      "name": "Ringenäs Golfklubb",
+      "lat": 56.6872246,
+      "lon": 12.7205961,
+      "bbox": {
+        "minLat": 56.6838802,
+        "minLon": 12.704798,
+        "maxLat": 56.690569,
+        "maxLon": 12.7363942
+      }
+    },
+    {
+      "id": 15488606,
+      "osmType": "relation",
+      "name": "River Golf",
+      "lat": 61.4533981,
+      "lon": 23.39374235,
+      "bbox": {
+        "minLat": 61.4458863,
+        "minLon": 23.3743704,
+        "maxLat": 61.4609099,
+        "maxLon": 23.4131143
+      }
+    },
+    {
+      "id": 294265341,
+      "osmType": "way",
+      "name": "Robertsfors Golfklubb",
+      "lat": 64.18096704999999,
+      "lon": 20.86913835,
+      "bbox": {
+        "minLat": 64.1752265,
+        "minLon": 20.8526539,
+        "maxLat": 64.1867076,
+        "maxLon": 20.8856228
+      }
+    },
+    {
+      "id": 34148163,
+      "osmType": "way",
+      "name": "Romeleåsens golfklubb",
+      "lat": 55.592874550000005,
+      "lon": 13.52165975,
+      "bbox": {
+        "minLat": 55.588194,
+        "minLon": 13.510561,
+        "maxLat": 55.5975551,
+        "maxLon": 13.5327585
+      }
+    },
+    {
+      "id": 10271691,
+      "osmType": "relation",
+      "name": "Ronneby Golfklubb",
+      "lat": 56.1861121,
+      "lon": 15.2894832,
+      "bbox": {
+        "minLat": 56.1802326,
+        "minLon": 15.2835542,
+        "maxLat": 56.1919916,
+        "maxLon": 15.2954122
+      }
+    },
+    {
+      "id": 85695260,
+      "osmType": "way",
+      "name": "Rosenkälla GK",
+      "lat": 59.5012655,
+      "lon": 18.15662825,
+      "bbox": {
+        "minLat": 59.4984156,
+        "minLon": 18.151935,
+        "maxLat": 59.5041154,
+        "maxLon": 18.1613215
+      }
+    },
+    {
+      "id": 30788865,
+      "osmType": "way",
+      "name": "Roskilde Golf Klub",
+      "lat": 55.6487326,
+      "lon": 12.03402075,
+      "bbox": {
+        "minLat": 55.6446218,
+        "minLon": 12.021693,
+        "maxLat": 55.6528434,
+        "maxLon": 12.0463485
+      }
+    },
+    {
+      "id": 128623778,
+      "osmType": "way",
+      "name": "Roslagens Golfklubb",
+      "lat": 59.8027066,
+      "lon": 18.783243300000002,
+      "bbox": {
+        "minLat": 59.792636,
+        "minLon": 18.766544,
+        "maxLat": 59.8127772,
+        "maxLon": 18.7999426
+      }
+    },
+    {
+      "id": 320386611,
+      "osmType": "way",
+      "name": "Rotebro Golf",
+      "lat": 59.47988905,
+      "lon": 17.8871686,
+      "bbox": {
+        "minLat": 59.4752488,
+        "minLon": 17.881884,
+        "maxLat": 59.4845293,
+        "maxLon": 17.8924532
+      }
+    },
+    {
+      "id": 3942766,
+      "osmType": "relation",
+      "name": "Rotebro Golf",
+      "lat": 59.48018865,
+      "lon": 17.88160115,
+      "bbox": {
+        "minLat": 59.4752488,
+        "minLon": 17.8707491,
+        "maxLat": 59.4851285,
+        "maxLon": 17.8924532
+      }
+    },
+    {
+      "id": 42611665,
+      "osmType": "way",
+      "name": "Royal Golf Center Course",
+      "lat": 55.6355552,
+      "lon": 12.5644247,
+      "bbox": {
+        "minLat": 55.6300245,
+        "minLon": 12.5536152,
+        "maxLat": 55.6410859,
+        "maxLon": 12.5752342
+      }
+    },
+    {
+      "id": 25483257,
+      "osmType": "way",
+      "name": "Rungsted Golf Klub",
+      "lat": 55.87691505,
+      "lon": 12.533750600000001,
+      "bbox": {
+        "minLat": 55.8714953,
+        "minLon": 12.5249241,
+        "maxLat": 55.8823348,
+        "maxLon": 12.5425771
+      }
+    },
+    {
+      "id": 256558722,
+      "osmType": "way",
+      "name": "Ruuhikosken golfkenttä",
+      "lat": 62.79298615,
+      "lon": 22.9756079,
+      "bbox": {
+        "minLat": 62.7894131,
+        "minLon": 22.9659805,
+        "maxLat": 62.7965592,
+        "maxLon": 22.9852353
+      }
+    },
+    {
+      "id": 256558723,
+      "osmType": "way",
+      "name": "Ruuhikosken golfkenttä",
+      "lat": 62.7942664,
+      "lon": 22.965445799999998,
+      "bbox": {
+        "minLat": 62.7926354,
+        "minLon": 22.9596813,
+        "maxLat": 62.7958974,
+        "maxLon": 22.9712103
+      }
+    },
+    {
+      "id": 256558724,
+      "osmType": "way",
+      "name": "Ruuhikosken golfkenttä",
+      "lat": 62.7977987,
+      "lon": 22.98162975,
+      "bbox": {
+        "minLat": 62.7939099,
+        "minLon": 22.9739638,
+        "maxLat": 62.8016875,
+        "maxLon": 22.9892957
+      }
+    },
+    {
+      "id": 7534887,
+      "osmType": "relation",
+      "name": "Ruukkigolf",
+      "lat": 60.110079850000005,
+      "lon": 23.473322449999998,
+      "bbox": {
+        "minLat": 60.1060681,
+        "minLon": 23.4584263,
+        "maxLat": 60.1140916,
+        "maxLon": 23.4882186
+      }
+    },
+    {
+      "id": 614811380,
+      "osmType": "way",
+      "name": "Rya East Course",
+      "lat": 55.9762678,
+      "lon": 12.7699227,
+      "bbox": {
+        "minLat": 55.975043,
+        "minLon": 12.7664529,
+        "maxLat": 55.9774926,
+        "maxLon": 12.7733925
+      }
+    },
+    {
+      "id": 43050958,
+      "osmType": "way",
+      "name": "Rya Old Course",
+      "lat": 55.975599,
+      "lon": 12.76237095,
+      "bbox": {
+        "minLat": 55.9704572,
+        "minLon": 12.7543473,
+        "maxLat": 55.9807408,
+        "maxLon": 12.7703946
+      }
+    },
+    {
+      "id": 8129129,
+      "osmType": "relation",
+      "name": "Ryfors GK",
+      "lat": 57.8989433,
+      "lon": 13.81566665,
+      "bbox": {
+        "minLat": 57.8904766,
+        "minLon": 13.8039454,
+        "maxLat": 57.90741,
+        "maxLon": 13.8273879
+      }
+    },
+    {
+      "id": 152768270,
+      "osmType": "way",
+      "name": "Rättviks Golfklubb",
+      "lat": 60.89765315,
+      "lon": 15.114462,
+      "bbox": {
+        "minLat": 60.8932881,
+        "minLon": 15.1073595,
+        "maxLat": 60.9020182,
+        "maxLon": 15.1215645
+      }
+    },
+    {
+      "id": 5708972,
+      "osmType": "relation",
+      "name": "Rönnebäcks golfbana",
+      "lat": 55.53302635,
+      "lon": 13.10534525,
+      "bbox": {
+        "minLat": 55.5290963,
+        "minLon": 13.094658,
+        "maxLat": 55.5369564,
+        "maxLon": 13.1160325
+      }
+    },
+    {
+      "id": 12806044,
+      "osmType": "relation",
+      "name": "Rønnede Golf Klub",
+      "lat": 55.2556595,
+      "lon": 12.00555815,
+      "bbox": {
+        "minLat": 55.2493233,
+        "minLon": 11.9977677,
+        "maxLat": 55.2619957,
+        "maxLon": 12.0133486
+      }
+    },
+    {
+      "id": 9207448,
+      "osmType": "relation",
+      "name": "Røros golfpark",
+      "lat": 62.591689599999995,
+      "lon": 11.3574303,
+      "bbox": {
+        "minLat": 62.5862329,
+        "minLon": 11.3521439,
+        "maxLat": 62.5971463,
+        "maxLon": 11.3627167
+      }
+    },
+    {
+      "id": 469381325,
+      "osmType": "way",
+      "name": "Røyslimoen diskgolfbane",
+      "lat": 61.09803955,
+      "lon": 10.5091736,
+      "bbox": {
+        "minLat": 61.0971217,
+        "minLon": 10.5079777,
+        "maxLat": 61.0989574,
+        "maxLon": 10.5103695
+      }
+    },
+    {
+      "id": 1298053,
+      "osmType": "relation",
+      "name": "Saare Golf",
+      "lat": 58.2556236,
+      "lon": 22.46541945,
+      "bbox": {
+        "minLat": 58.2483339,
+        "minLon": 22.4568936,
+        "maxLat": 58.2629133,
+        "maxLon": 22.4739453
+      }
+    },
+    {
+      "id": 130729235,
+      "osmType": "way",
+      "name": "SAIK Golfklubb",
+      "lat": 60.59507965,
+      "lon": 16.7643086,
+      "bbox": {
+        "minLat": 60.5910137,
+        "minLon": 16.756719,
+        "maxLat": 60.5991456,
+        "maxLon": 16.7718982
+      }
+    },
+    {
+      "id": 64890240,
+      "osmType": "way",
+      "name": "Sala golfklubb",
+      "lat": 59.9456691,
+      "lon": 16.7127371,
+      "bbox": {
+        "minLat": 59.9388635,
+        "minLon": 16.6955066,
+        "maxLat": 59.9524747,
+        "maxLon": 16.7299676
+      }
+    },
+    {
+      "id": 79455665,
+      "osmType": "way",
+      "name": "Salajärven golf",
+      "lat": 61.087671099999994,
+      "lon": 21.9787753,
+      "bbox": {
+        "minLat": 61.0867897,
+        "minLon": 21.9775042,
+        "maxLat": 61.0885525,
+        "maxLon": 21.9800464
+      }
+    },
+    {
+      "id": 3830006,
+      "osmType": "relation",
+      "name": "Salems Golfklubb",
+      "lat": 59.2592411,
+      "lon": 17.60639265,
+      "bbox": {
+        "minLat": 59.2523136,
+        "minLon": 17.5897029,
+        "maxLat": 59.2661686,
+        "maxLon": 17.6230824
+      }
+    },
+    {
+      "id": 30816731,
+      "osmType": "way",
+      "name": "Salo Golf",
+      "lat": 60.37581815,
+      "lon": 23.15128115,
+      "bbox": {
+        "minLat": 60.3715337,
+        "minLon": 23.140794,
+        "maxLat": 60.3801026,
+        "maxLon": 23.1617683
+      }
+    },
+    {
+      "id": 237754763,
+      "osmType": "way",
+      "name": "Saltsjöbadens Golfklubb",
+      "lat": 59.284094249999995,
+      "lon": 18.2578331,
+      "bbox": {
+        "minLat": 59.2777641,
+        "minLon": 18.2354251,
+        "maxLat": 59.2904244,
+        "maxLon": 18.2802411
+      }
+    },
+    {
+      "id": 104496598,
+      "osmType": "way",
+      "name": "Samsø Golfklub",
+      "lat": 55.8525511,
+      "lon": 10.640298600000001,
+      "bbox": {
+        "minLat": 55.8485986,
+        "minLon": 10.6287289,
+        "maxLat": 55.8565036,
+        "maxLon": 10.6518683
+      }
+    },
+    {
+      "id": 48161778,
+      "osmType": "way",
+      "name": "Samuelsdals golfklubb",
+      "lat": 60.5804516,
+      "lon": 15.61865365,
+      "bbox": {
+        "minLat": 60.5781919,
+        "minLon": 15.608717,
+        "maxLat": 60.5827113,
+        "maxLon": 15.6285903
+      }
+    },
+    {
+      "id": 104932777,
+      "osmType": "way",
+      "name": "Sand Golf Club",
+      "lat": 57.8515387,
+      "lon": 14.0383603,
+      "bbox": {
+        "minLat": 57.8456299,
+        "minLon": 14.0285327,
+        "maxLat": 57.8574475,
+        "maxLon": 14.0481879
+      }
+    },
+    {
+      "id": 4440665,
+      "osmType": "relation",
+      "name": "Sandnäsets GK",
+      "lat": 63.2930834,
+      "lon": 14.49955905,
+      "bbox": {
+        "minLat": 63.2873816,
+        "minLon": 14.4835318,
+        "maxLat": 63.2987852,
+        "maxLon": 14.5155863
+      }
+    },
+    {
+      "id": 278472876,
+      "osmType": "way",
+      "name": "Sankt Arild Golfklubb",
+      "lat": 56.2549911,
+      "lon": 12.595063249999999,
+      "bbox": {
+        "minLat": 56.2507179,
+        "minLon": 12.5857399,
+        "maxLat": 56.2592643,
+        "maxLon": 12.6043866
+      }
+    },
+    {
+      "id": 23548489,
+      "osmType": "way",
+      "name": "Sankt Ibbs GK",
+      "lat": 55.9134524,
+      "lon": 12.7035519,
+      "bbox": {
+        "minLat": 55.9106658,
+        "minLon": 12.699155,
+        "maxLat": 55.916239,
+        "maxLon": 12.7079488
+      }
+    },
+    {
+      "id": 38483956,
+      "osmType": "way",
+      "name": "Saxnäs golfbana",
+      "lat": 56.6966891,
+      "lon": 16.4876879,
+      "bbox": {
+        "minLat": 56.6903801,
+        "minLon": 16.4809942,
+        "maxLat": 56.7029981,
+        "maxLon": 16.4943816
+      }
+    },
+    {
+      "id": 8518195,
+      "osmType": "relation",
+      "name": "Saxå Golfklubb",
+      "lat": 59.7966913,
+      "lon": 14.357586300000001,
+      "bbox": {
+        "minLat": 59.7901229,
+        "minLon": 14.3506627,
+        "maxLat": 59.8032597,
+        "maxLon": 14.3645099
+      }
+    },
+    {
+      "id": 25389267,
+      "osmType": "way",
+      "name": "Sct. Knuds Golfklub",
+      "lat": 55.29906785,
+      "lon": 10.82774475,
+      "bbox": {
+        "minLat": 55.2929366,
+        "minLon": 10.818319,
+        "maxLat": 55.3051991,
+        "maxLon": 10.8371705
+      }
+    },
+    {
+      "id": 181590442,
+      "osmType": "way",
+      "name": "Sejerø Golf",
+      "lat": 55.90477555,
+      "lon": 11.11789145,
+      "bbox": {
+        "minLat": 55.902424,
+        "minLon": 11.1149193,
+        "maxLat": 55.9071271,
+        "maxLon": 11.1208636
+      }
+    },
+    {
+      "id": 4806317,
+      "osmType": "relation",
+      "name": "Selbu Golfklubb",
+      "lat": 63.1937712,
+      "lon": 11.09363965,
+      "bbox": {
+        "minLat": 63.1914462,
+        "minLon": 11.088336,
+        "maxLat": 63.1960962,
+        "maxLon": 11.0989433
+      }
+    },
+    {
+      "id": 192346124,
+      "osmType": "way",
+      "name": "Sigtunabygdens Golfklubb",
+      "lat": 59.6450382,
+      "lon": 17.73428655,
+      "bbox": {
+        "minLat": 59.6374371,
+        "minLon": 17.7272732,
+        "maxLat": 59.6526393,
+        "maxLon": 17.7412999
+      }
+    },
+    {
+      "id": 26613353,
+      "osmType": "way",
+      "name": "Simons Golf Club",
+      "lat": 55.9741269,
+      "lon": 12.485696350000001,
+      "bbox": {
+        "minLat": 55.9686521,
+        "minLon": 12.4735996,
+        "maxLat": 55.9796017,
+        "maxLon": 12.4977931
+      }
+    },
+    {
+      "id": 26242992,
+      "osmType": "way",
+      "name": "Sisjö Golfklubb",
+      "lat": 57.6436616,
+      "lon": 11.967068699999999,
+      "bbox": {
+        "minLat": 57.6416886,
+        "minLon": 11.9607622,
+        "maxLat": 57.6456346,
+        "maxLon": 11.9733752
+      }
+    },
+    {
+      "id": 295792445,
+      "osmType": "way",
+      "name": "Sjöbo golfklubb",
+      "lat": 55.6454531,
+      "lon": 13.6502862,
+      "bbox": {
+        "minLat": 55.6374172,
+        "minLon": 13.6397402,
+        "maxLat": 55.653489,
+        "maxLon": 13.6608322
+      }
+    },
+    {
+      "id": 8975583,
+      "osmType": "relation",
+      "name": "Sjögärde Golfklubb",
+      "lat": 57.35228105,
+      "lon": 12.255355649999998,
+      "bbox": {
+        "minLat": 57.34787,
+        "minLon": 12.2461899,
+        "maxLat": 57.3566921,
+        "maxLon": 12.2645214
+      }
+    },
+    {
+      "id": 5448753,
+      "osmType": "relation",
+      "name": "Skaftö Golfklubb",
+      "lat": 58.23488505,
+      "lon": 11.44668435,
+      "bbox": {
+        "minLat": 58.2271332,
+        "minLon": 11.4376205,
+        "maxLat": 58.2426369,
+        "maxLon": 11.4557482
+      }
+    },
+    {
+      "id": 37103671,
+      "osmType": "way",
+      "name": "Skellefteå GK",
+      "lat": 64.70451635,
+      "lon": 20.9751852,
+      "bbox": {
+        "minLat": 64.6974143,
+        "minLon": 20.9550821,
+        "maxLat": 64.7116184,
+        "maxLon": 20.9952883
+      }
+    },
+    {
+      "id": 3905958,
+      "osmType": "relation",
+      "name": "Skepptuna Golfklubb",
+      "lat": 59.683461199999996,
+      "lon": 18.11167785,
+      "bbox": {
+        "minLat": 59.6774376,
+        "minLon": 18.1059013,
+        "maxLat": 59.6894848,
+        "maxLon": 18.1174544
+      }
+    },
+    {
+      "id": 153248017,
+      "osmType": "way",
+      "name": "Skerikes golfbana",
+      "lat": 59.6494273,
+      "lon": 16.4789602,
+      "bbox": {
+        "minLat": 59.6442685,
+        "minLon": 16.467989,
+        "maxLat": 59.6545861,
+        "maxLon": 16.4899314
+      }
+    },
+    {
+      "id": 359487104,
+      "osmType": "way",
+      "name": "Skogaby Golfklubb",
+      "lat": 56.54054925,
+      "lon": 13.173665849999999,
+      "bbox": {
+        "minLat": 56.534122,
+        "minLon": 13.1665781,
+        "maxLat": 56.5469765,
+        "maxLon": 13.1807536
+      }
+    },
+    {
+      "id": 4291742,
+      "osmType": "way",
+      "name": "Skovbo Golfklub",
+      "lat": 55.481922749999995,
+      "lon": 12.0450198,
+      "bbox": {
+        "minLat": 55.4767672,
+        "minLon": 12.0358996,
+        "maxLat": 55.4870783,
+        "maxLon": 12.05414
+      }
+    },
+    {
+      "id": 36835326,
+      "osmType": "way",
+      "name": "Skyrups golfklubb",
+      "lat": 56.132717,
+      "lon": 13.671576049999999,
+      "bbox": {
+        "minLat": 56.128407,
+        "minLon": 13.6618477,
+        "maxLat": 56.137027,
+        "maxLon": 13.6813044
+      }
+    },
+    {
+      "id": 4425253,
+      "osmType": "relation",
+      "name": "Skön Golf",
+      "lat": 62.442397650000004,
+      "lon": 17.26727925,
+      "bbox": {
+        "minLat": 62.4385514,
+        "minLon": 17.2553721,
+        "maxLat": 62.4462439,
+        "maxLon": 17.2791864
+      }
+    },
+    {
+      "id": 106155620,
+      "osmType": "way",
+      "name": "Skönsberg Bangolf",
+      "lat": 62.40009005,
+      "lon": 17.33858695,
+      "bbox": {
+        "minLat": 62.3998376,
+        "minLon": 17.3374751,
+        "maxLat": 62.4003425,
+        "maxLon": 17.3396988
+      }
+    },
+    {
+      "id": 4544346,
+      "osmType": "relation",
+      "name": "Skövde Golfklubb",
+      "lat": 58.3645757,
+      "lon": 13.8101692,
+      "bbox": {
+        "minLat": 58.3526344,
+        "minLon": 13.8005147,
+        "maxLat": 58.376517,
+        "maxLon": 13.8198237
+      }
+    },
+    {
+      "id": 13081689,
+      "osmType": "relation",
+      "name": "Slite Golfklubb",
+      "lat": 57.7176604,
+      "lon": 18.74324225,
+      "bbox": {
+        "minLat": 57.7132072,
+        "minLon": 18.7343581,
+        "maxLat": 57.7221136,
+        "maxLon": 18.7521264
+      }
+    },
+    {
+      "id": 224894693,
+      "osmType": "way",
+      "name": "Smådalarö Gård Golf",
+      "lat": 59.163362649999996,
+      "lon": 18.44555955,
+      "bbox": {
+        "minLat": 59.1603531,
+        "minLon": 18.437151,
+        "maxLat": 59.1663722,
+        "maxLon": 18.4539681
+      }
+    },
+    {
+      "id": 339319128,
+      "osmType": "way",
+      "name": "Smørum Golfclub",
+      "lat": 55.72433825,
+      "lon": 12.3101464,
+      "bbox": {
+        "minLat": 55.7186544,
+        "minLon": 12.2970217,
+        "maxLat": 55.7300221,
+        "maxLon": 12.3232711
+      }
+    },
+    {
+      "id": 77215,
+      "osmType": "relation",
+      "name": "Snöå Golfklubb",
+      "lat": 60.536610100000004,
+      "lon": 14.43927755,
+      "bbox": {
+        "minLat": 60.5281547,
+        "minLon": 14.4309777,
+        "maxLat": 60.5450655,
+        "maxLon": 14.4475774
+      }
+    },
+    {
+      "id": 5708973,
+      "osmType": "relation",
+      "name": "Sofiedals golfbana",
+      "lat": 55.538290849999996,
+      "lon": 13.06162935,
+      "bbox": {
+        "minLat": 55.5298641,
+        "minLon": 13.0523941,
+        "maxLat": 55.5467176,
+        "maxLon": 13.0708646
+      }
+    },
+    {
+      "id": 4425362,
+      "osmType": "relation",
+      "name": "Sofielund GK",
+      "lat": 59.5330984,
+      "lon": 17.5696705,
+      "bbox": {
+        "minLat": 59.5263484,
+        "minLon": 17.5599393,
+        "maxLat": 59.5398484,
+        "maxLon": 17.5794017
+      }
+    },
+    {
+      "id": 18131948,
+      "osmType": "relation",
+      "name": "Sollefteå Golfklubb",
+      "lat": 63.1660754,
+      "lon": 17.009755650000002,
+      "bbox": {
+        "minLat": 63.1596954,
+        "minLon": 17.0020227,
+        "maxLat": 63.1724554,
+        "maxLon": 17.0174886
+      }
+    },
+    {
+      "id": 4425551,
+      "osmType": "relation",
+      "name": "Sollentuna GK",
+      "lat": 59.4702506,
+      "lon": 17.89877595,
+      "bbox": {
+        "minLat": 59.4661827,
+        "minLon": 17.8889383,
+        "maxLat": 59.4743185,
+        "maxLon": 17.9086136
+      }
+    },
+    {
+      "id": 12941835,
+      "osmType": "relation",
+      "name": "Sollerö Golfklubb",
+      "lat": 60.9074824,
+      "lon": 14.58068935,
+      "bbox": {
+        "minLat": 60.901767,
+        "minLon": 14.5713204,
+        "maxLat": 60.9131978,
+        "maxLon": 14.5900583
+      }
+    },
+    {
+      "id": 12941836,
+      "osmType": "relation",
+      "name": "Solön Golfklubb",
+      "lat": 60.9073279,
+      "lon": 14.5786616,
+      "bbox": {
+        "minLat": 60.901767,
+        "minLon": 14.5713204,
+        "maxLat": 60.9128888,
+        "maxLon": 14.5860028
+      }
+    },
+    {
+      "id": 54035159,
+      "osmType": "way",
+      "name": "Sommarro GK",
+      "lat": 59.3557956,
+      "lon": 13.47008335,
+      "bbox": {
+        "minLat": 59.3516694,
+        "minLon": 13.4615885,
+        "maxLat": 59.3599218,
+        "maxLon": 13.4785782
+      }
+    },
+    {
+      "id": 3589314,
+      "osmType": "relation",
+      "name": "Soon Golfbane",
+      "lat": 59.5363484,
+      "lon": 10.6827746,
+      "bbox": {
+        "minLat": 59.5293974,
+        "minLon": 10.6775905,
+        "maxLat": 59.5432994,
+        "maxLon": 10.6879587
+      }
+    },
+    {
+      "id": 8720393,
+      "osmType": "relation",
+      "name": "Sorknes Golf",
+      "lat": 61.1783809,
+      "lon": 11.33335685,
+      "bbox": {
+        "minLat": 61.1772341,
+        "minLon": 11.331596,
+        "maxLat": 61.1795277,
+        "maxLon": 11.3351177
+      }
+    },
+    {
+      "id": 15009760,
+      "osmType": "relation",
+      "name": "Sorknes Golf",
+      "lat": 61.162776750000006,
+      "lon": 11.34587735,
+      "bbox": {
+        "minLat": 61.1622635,
+        "minLon": 11.3444158,
+        "maxLat": 61.16329,
+        "maxLon": 11.3473389
+      }
+    },
+    {
+      "id": 882490227,
+      "osmType": "way",
+      "name": "Sorknes golf, back 9",
+      "lat": 61.1661643,
+      "lon": 11.340127299999999,
+      "bbox": {
+        "minLat": 61.1618089,
+        "minLon": 11.3316742,
+        "maxLat": 61.1705197,
+        "maxLon": 11.3485804
+      }
+    },
+    {
+      "id": 882477253,
+      "osmType": "way",
+      "name": "Sorknes Golf, front 9",
+      "lat": 61.175603249999995,
+      "lon": 11.3350634,
+      "bbox": {
+        "minLat": 61.1701913,
+        "minLon": 11.3295564,
+        "maxLat": 61.1810152,
+        "maxLon": 11.3405704
+      }
+    },
+    {
+      "id": 106505529,
+      "osmType": "way",
+      "name": "Sorø Golfbane",
+      "lat": 55.3862872,
+      "lon": 11.55885335,
+      "bbox": {
+        "minLat": 55.3818649,
+        "minLon": 11.5503263,
+        "maxLat": 55.3907095,
+        "maxLon": 11.5673804
+      }
+    },
+    {
+      "id": 658177570,
+      "osmType": "way",
+      "name": "Sotenäs Golfklubb",
+      "lat": 58.435539250000005,
+      "lon": 11.378867849999999,
+      "bbox": {
+        "minLat": 58.4306111,
+        "minLon": 11.3677007,
+        "maxLat": 58.4404674,
+        "maxLon": 11.390035
+      }
+    },
+    {
+      "id": 8673265,
+      "osmType": "way",
+      "name": "St. Laurence Golf",
+      "lat": 60.21930625,
+      "lon": 24.05660765,
+      "bbox": {
+        "minLat": 60.2117397,
+        "minLon": 24.0418817,
+        "maxLat": 60.2268728,
+        "maxLon": 24.0713336
+      }
+    },
+    {
+      "id": 249165499,
+      "osmType": "way",
+      "name": "Stallarholmens Golfklubb",
+      "lat": 59.3412291,
+      "lon": 17.2459609,
+      "bbox": {
+        "minLat": 59.337008,
+        "minLon": 17.2356109,
+        "maxLat": 59.3454502,
+        "maxLon": 17.2563109
+      }
+    },
+    {
+      "id": 10751119,
+      "osmType": "relation",
+      "name": "Stenungsund Golfklubb",
+      "lat": 58.0227274,
+      "lon": 11.867809300000001,
+      "bbox": {
+        "minLat": 58.0170534,
+        "minLon": 11.857456,
+        "maxLat": 58.0284014,
+        "maxLon": 11.8781626
+      }
+    },
+    {
+      "id": 5154115,
+      "osmType": "relation",
+      "name": "Stiklestad Golfklubb",
+      "lat": 63.8172839,
+      "lon": 11.4145212,
+      "bbox": {
+        "minLat": 63.8132183,
+        "minLon": 11.3995714,
+        "maxLat": 63.8213495,
+        "maxLon": 11.429471
+      }
+    },
+    {
+      "id": 5171349,
+      "osmType": "relation",
+      "name": "Stjørdal Golfklubb",
+      "lat": 63.48735055,
+      "lon": 10.93707165,
+      "bbox": {
+        "minLat": 63.4843238,
+        "minLon": 10.9169961,
+        "maxLat": 63.4903773,
+        "maxLon": 10.9571472
+      }
+    },
+    {
+      "id": 3928713,
+      "osmType": "relation",
+      "name": "Stockholms Golfklubb",
+      "lat": 59.39658945,
+      "lon": 18.02522145,
+      "bbox": {
+        "minLat": 59.3927811,
+        "minLon": 18.0187175,
+        "maxLat": 59.4003978,
+        "maxLon": 18.0317254
+      }
+    },
+    {
+      "id": 157976683,
+      "osmType": "way",
+      "name": "Stora Lundby Golfklubb",
+      "lat": 57.83238795,
+      "lon": 12.25062355,
+      "bbox": {
+        "minLat": 57.8286862,
+        "minLon": 12.2400543,
+        "maxLat": 57.8360897,
+        "maxLon": 12.2611928
+      }
+    },
+    {
+      "id": 43556997,
+      "osmType": "way",
+      "name": "Storsjöbygdens golfklubb",
+      "lat": 63.04299625,
+      "lon": 14.802777800000001,
+      "bbox": {
+        "minLat": 63.0373404,
+        "minLon": 14.7875869,
+        "maxLat": 63.0486521,
+        "maxLon": 14.8179687
+      }
+    },
+    {
+      "id": 4381805,
+      "osmType": "relation",
+      "name": "Strands Golfklubb",
+      "lat": 59.39824625,
+      "lon": 16.7913244,
+      "bbox": {
+        "minLat": 59.3916261,
+        "minLon": 16.7811611,
+        "maxLat": 59.4048664,
+        "maxLon": 16.8014877
+      }
+    },
+    {
+      "id": 10467387,
+      "osmType": "relation",
+      "name": "Strandtorps Golfklubb",
+      "lat": 56.642271699999995,
+      "lon": 12.8995014,
+      "bbox": {
+        "minLat": 56.6391242,
+        "minLon": 12.8957537,
+        "maxLat": 56.6454192,
+        "maxLon": 12.9032491
+      }
+    },
+    {
+      "id": 4425285,
+      "osmType": "relation",
+      "name": "Strängnäs Golfklubb",
+      "lat": 59.3460231,
+      "lon": 17.0211188,
+      "bbox": {
+        "minLat": 59.3380553,
+        "minLon": 17.011953,
+        "maxLat": 59.3539909,
+        "maxLon": 17.0302846
+      }
+    },
+    {
+      "id": 48816357,
+      "osmType": "way",
+      "name": "Strömsholms Golfklubb",
+      "lat": 59.54859195,
+      "lon": 16.24365885,
+      "bbox": {
+        "minLat": 59.5436296,
+        "minLon": 16.2364401,
+        "maxLat": 59.5535543,
+        "maxLon": 16.2508776
+      }
+    },
+    {
+      "id": 10868050,
+      "osmType": "relation",
+      "name": "Strömstads Golfklubb",
+      "lat": 58.94988815,
+      "lon": 11.162506350000001,
+      "bbox": {
+        "minLat": 58.9446442,
+        "minLon": 11.1508656,
+        "maxLat": 58.9551321,
+        "maxLon": 11.1741471
+      }
+    },
+    {
+      "id": 363022418,
+      "osmType": "way",
+      "name": "Suderbys",
+      "lat": 57.579139350000005,
+      "lon": 18.216353499999997,
+      "bbox": {
+        "minLat": 57.5756492,
+        "minLon": 18.2116366,
+        "maxLat": 57.5826295,
+        "maxLon": 18.2210704
+      }
+    },
+    {
+      "id": 5183567,
+      "osmType": "relation",
+      "name": "Sundsta Säteri Golf",
+      "lat": 59.756477849999996,
+      "lon": 18.5734669,
+      "bbox": {
+        "minLat": 59.7483518,
+        "minLon": 18.5651296,
+        "maxLat": 59.7646039,
+        "maxLon": 18.5818042
+      }
+    },
+    {
+      "id": 35045772,
+      "osmType": "way",
+      "name": "Sundsvalls Golfklubb",
+      "lat": 62.283734249999995,
+      "lon": 17.387813700000002,
+      "bbox": {
+        "minLat": 62.2791959,
+        "minLon": 17.3804532,
+        "maxLat": 62.2882726,
+        "maxLon": 17.3951742
+      }
+    },
+    {
+      "id": 4442645,
+      "osmType": "relation",
+      "name": "Sunne GK",
+      "lat": 59.80974985,
+      "lon": 13.12770565,
+      "bbox": {
+        "minLat": 59.8022505,
+        "minLon": 13.1217382,
+        "maxLat": 59.8172492,
+        "maxLon": 13.1336731
+      }
+    },
+    {
+      "id": 4431166,
+      "osmType": "relation",
+      "name": "Surahammars Golfklubb",
+      "lat": 59.7237506,
+      "lon": 16.237217,
+      "bbox": {
+        "minLat": 59.7190856,
+        "minLon": 16.2195861,
+        "maxLat": 59.7284156,
+        "maxLon": 16.2548479
+      }
+    },
+    {
+      "id": 73197598,
+      "osmType": "way",
+      "name": "Svanskogen",
+      "lat": 60.092068,
+      "lon": 14.975109,
+      "bbox": {
+        "minLat": 60.0885795,
+        "minLon": 14.9698129,
+        "maxLat": 60.0955565,
+        "maxLon": 14.9804051
+      }
+    },
+    {
+      "id": 4457725,
+      "osmType": "relation",
+      "name": "Svartinge Golfklubb",
+      "lat": 59.48999755,
+      "lon": 17.875802450000002,
+      "bbox": {
+        "minLat": 59.4836207,
+        "minLon": 17.8666426,
+        "maxLat": 59.4963744,
+        "maxLon": 17.8849623
+      }
+    },
+    {
+      "id": 272283625,
+      "osmType": "way",
+      "name": "Svendborg Golfbane",
+      "lat": 55.08881285,
+      "lon": 10.554130350000001,
+      "bbox": {
+        "minLat": 55.0833356,
+        "minLon": 10.5456465,
+        "maxLat": 55.0942901,
+        "maxLon": 10.5626142
+      }
+    },
+    {
+      "id": 121300724,
+      "osmType": "way",
+      "name": "Sydsjællands Golfklub",
+      "lat": 55.183962949999994,
+      "lon": 11.8780806,
+      "bbox": {
+        "minLat": 55.1810687,
+        "minLon": 11.8663437,
+        "maxLat": 55.1868572,
+        "maxLon": 11.8898175
+      }
+    },
+    {
+      "id": 4425575,
+      "osmType": "relation",
+      "name": "Särö Golf Club",
+      "lat": 57.50584715,
+      "lon": 11.9566666,
+      "bbox": {
+        "minLat": 57.5039308,
+        "minLon": 11.9416688,
+        "maxLat": 57.5077635,
+        "maxLon": 11.9716644
+      }
+    },
+    {
+      "id": 2955734,
+      "osmType": "relation",
+      "name": "Säters golfbana",
+      "lat": 60.33714535,
+      "lon": 15.69420525,
+      "bbox": {
+        "minLat": 60.3334928,
+        "minLon": 15.680397,
+        "maxLat": 60.3407979,
+        "maxLon": 15.7080135
+      }
+    },
+    {
+      "id": 4425350,
+      "osmType": "relation",
+      "name": "Söderby Golf Uppsala",
+      "lat": 59.81322745,
+      "lon": 17.4879934,
+      "bbox": {
+        "minLat": 59.8034669,
+        "minLon": 17.4725022,
+        "maxLat": 59.822988,
+        "maxLon": 17.5034846
+      }
+    },
+    {
+      "id": 4440686,
+      "osmType": "relation",
+      "name": "Söderköpings Golfklubb",
+      "lat": 58.4937955,
+      "lon": 16.176482800000002,
+      "bbox": {
+        "minLat": 58.4895473,
+        "minLon": 16.1562966,
+        "maxLat": 58.4980437,
+        "maxLon": 16.196669
+      }
+    },
+    {
+      "id": 113309689,
+      "osmType": "way",
+      "name": "Söderslätts GK",
+      "lat": 55.4664856,
+      "lon": 13.0728249,
+      "bbox": {
+        "minLat": 55.4608953,
+        "minLon": 13.0614694,
+        "maxLat": 55.4720759,
+        "maxLon": 13.0841804
+      }
+    },
+    {
+      "id": 29250713,
+      "osmType": "way",
+      "name": "Södertörns Golfklubb",
+      "lat": 59.148485199999996,
+      "lon": 18.1303641,
+      "bbox": {
+        "minLat": 59.1468848,
+        "minLon": 18.1290765,
+        "maxLat": 59.1500856,
+        "maxLon": 18.1316517
+      }
+    },
+    {
+      "id": 6359909,
+      "osmType": "relation",
+      "name": "Söderåsens golfklubb",
+      "lat": 56.0484016,
+      "lon": 12.9463845,
+      "bbox": {
+        "minLat": 56.0447791,
+        "minLon": 12.9328313,
+        "maxLat": 56.0520241,
+        "maxLon": 12.9599377
+      }
+    },
+    {
+      "id": 4445809,
+      "osmType": "relation",
+      "name": "Sölvesborgs Golfklubb",
+      "lat": 56.042380449999996,
+      "lon": 14.604921449999999,
+      "bbox": {
+        "minLat": 56.0389236,
+        "minLon": 14.5940459,
+        "maxLat": 56.0458373,
+        "maxLon": 14.615797
+      }
+    },
+    {
+      "id": 12160346,
+      "osmType": "relation",
+      "name": "Sörfjärdens golfklubb",
+      "lat": 62.0199409,
+      "lon": 17.3991877,
+      "bbox": {
+        "minLat": 62.016565,
+        "minLon": 17.3892502,
+        "maxLat": 62.0233168,
+        "maxLon": 17.4091252
+      }
+    },
+    {
+      "id": 157547450,
+      "osmType": "way",
+      "name": "Sörfors golfbana",
+      "lat": 63.85318155,
+      "lon": 20.020450750000002,
+      "bbox": {
+        "minLat": 63.8455094,
+        "minLon": 20.0080421,
+        "maxLat": 63.8608537,
+        "maxLon": 20.0328594
+      }
+    },
+    {
+      "id": 25564049,
+      "osmType": "way",
+      "name": "Søllerød Golfklub",
+      "lat": 55.832245,
+      "lon": 12.5014606,
+      "bbox": {
+        "minLat": 55.8267767,
+        "minLon": 12.4887886,
+        "maxLat": 55.8377133,
+        "maxLon": 12.5141326
+      }
+    },
+    {
+      "id": 515628175,
+      "osmType": "way",
+      "name": "Sølykke Golf",
+      "lat": 55.343810649999995,
+      "lon": 10.594953,
+      "bbox": {
+        "minLat": 55.3414831,
+        "minLon": 10.5916046,
+        "maxLat": 55.3461382,
+        "maxLon": 10.5983014
+      }
+    },
+    {
+      "id": 26587257,
+      "osmType": "way",
+      "name": "Tammer-Golf",
+      "lat": 61.50771505,
+      "lon": 23.853137,
+      "bbox": {
+        "minLat": 61.5037233,
+        "minLon": 23.8451661,
+        "maxLat": 61.5117068,
+        "maxLon": 23.8611079
+      }
+    },
+    {
+      "id": 30123008,
+      "osmType": "way",
+      "name": "Tegelberga Golfklubb",
+      "lat": 55.4579364,
+      "lon": 13.23001335,
+      "bbox": {
+        "minLat": 55.4527535,
+        "minLon": 13.2182601,
+        "maxLat": 55.4631193,
+        "maxLon": 13.2417666
+      }
+    },
+    {
+      "id": 34563422,
+      "osmType": "way",
+      "name": "The National",
+      "lat": 55.5690861,
+      "lon": 13.1887363,
+      "bbox": {
+        "minLat": 55.5613757,
+        "minLon": 13.1748907,
+        "maxLat": 55.5767965,
+        "maxLon": 13.2025819
+      }
+    },
+    {
+      "id": 188036291,
+      "osmType": "way",
+      "name": "The Scandinavian Golf Club",
+      "lat": 55.835190499999996,
+      "lon": 12.33674015,
+      "bbox": {
+        "minLat": 55.8267151,
+        "minLon": 12.3197025,
+        "maxLat": 55.8436659,
+        "maxLon": 12.3537778
+      }
+    },
+    {
+      "id": 18052250,
+      "osmType": "relation",
+      "name": "Tikøb Golf",
+      "lat": 56.023828800000004,
+      "lon": 12.45039715,
+      "bbox": {
+        "minLat": 56.0226123,
+        "minLon": 12.4486391,
+        "maxLat": 56.0250453,
+        "maxLon": 12.4521552
+      }
+    },
+    {
+      "id": 303609475,
+      "osmType": "way",
+      "name": "Timrå Golfklubb",
+      "lat": 62.506321299999996,
+      "lon": 17.422741950000002,
+      "bbox": {
+        "minLat": 62.5019408,
+        "minLon": 17.410795,
+        "maxLat": 62.5107018,
+        "maxLon": 17.4346889
+      }
+    },
+    {
+      "id": 171945030,
+      "osmType": "way",
+      "name": "Tjulsta Golfklubb",
+      "lat": 59.599226650000006,
+      "lon": 17.9998701,
+      "bbox": {
+        "minLat": 59.5861681,
+        "minLon": 17.9867328,
+        "maxLat": 59.6122852,
+        "maxLon": 18.0130074
+      }
+    },
+    {
+      "id": 8695416,
+      "osmType": "relation",
+      "name": "Tjörns Golfklubb",
+      "lat": 58.0056288,
+      "lon": 11.64478295,
+      "bbox": {
+        "minLat": 58.0018802,
+        "minLon": 11.6316958,
+        "maxLat": 58.0093774,
+        "maxLon": 11.6578701
+      }
+    },
+    {
+      "id": 492316277,
+      "osmType": "way",
+      "name": "Tobo Golfklubb",
+      "lat": 57.5767629,
+      "lon": 15.814015,
+      "bbox": {
+        "minLat": 57.5725981,
+        "minLon": 15.7996384,
+        "maxLat": 57.5809277,
+        "maxLon": 15.8283916
+      }
+    },
+    {
+      "id": 10844707,
+      "osmType": "relation",
+      "name": "Tofta Golf",
+      "lat": 56.8615627,
+      "lon": 13.91158375,
+      "bbox": {
+        "minLat": 56.8602306,
+        "minLon": 13.9088622,
+        "maxLat": 56.8628948,
+        "maxLon": 13.9143053
+      }
+    },
+    {
+      "id": 38483100,
+      "osmType": "way",
+      "name": "Tomelilla GK",
+      "lat": 55.5321301,
+      "lon": 13.972586849999999,
+      "bbox": {
+        "minLat": 55.528428,
+        "minLon": 13.9629295,
+        "maxLat": 55.5358322,
+        "maxLon": 13.9822442
+      }
+    },
+    {
+      "id": 494506959,
+      "osmType": "way",
+      "name": "Torekov Golfklubb",
+      "lat": 56.4390098,
+      "lon": 12.64491365,
+      "bbox": {
+        "minLat": 56.434987,
+        "minLon": 12.635825,
+        "maxLat": 56.4430326,
+        "maxLon": 12.6540023
+      }
+    },
+    {
+      "id": 222628362,
+      "osmType": "way",
+      "name": "Toriseva Golf",
+      "lat": 62.21398725,
+      "lon": 23.820843699999998,
+      "bbox": {
+        "minLat": 62.2109689,
+        "minLon": 23.8153339,
+        "maxLat": 62.2170056,
+        "maxLon": 23.8263535
+      }
+    },
+    {
+      "id": 2952390,
+      "osmType": "relation",
+      "name": "Toriseva Golf",
+      "lat": 62.21398725,
+      "lon": 23.820843699999998,
+      "bbox": {
+        "minLat": 62.2109689,
+        "minLon": 23.8153339,
+        "maxLat": 62.2170056,
+        "maxLon": 23.8263535
+      }
+    },
+    {
+      "id": 11033070,
+      "osmType": "relation",
+      "name": "Torreby Golfklubb",
+      "lat": 58.4394567,
+      "lon": 11.5972549,
+      "bbox": {
+        "minLat": 58.4328845,
+        "minLon": 11.5887952,
+        "maxLat": 58.4460289,
+        "maxLon": 11.6057146
+      }
+    },
+    {
+      "id": 10480242,
+      "osmType": "relation",
+      "name": "Torrekulla golfbana",
+      "lat": 57.618677149999996,
+      "lon": 12.025874550000001,
+      "bbox": {
+        "minLat": 57.6167013,
+        "minLon": 12.0151511,
+        "maxLat": 57.620653,
+        "maxLon": 12.036598
+      }
+    },
+    {
+      "id": 340668496,
+      "osmType": "way",
+      "name": "Torsby GK",
+      "lat": 60.14052865,
+      "lon": 13.03115825,
+      "bbox": {
+        "minLat": 60.1376659,
+        "minLon": 13.0269217,
+        "maxLat": 60.1433914,
+        "maxLon": 13.0353948
+      }
+    },
+    {
+      "id": 218748533,
+      "osmType": "way",
+      "name": "Torshälla golfklubb",
+      "lat": 59.4103711,
+      "lon": 16.44932635,
+      "bbox": {
+        "minLat": 59.4061442,
+        "minLon": 16.4370191,
+        "maxLat": 59.414598,
+        "maxLon": 16.4616336
+      }
+    },
+    {
+      "id": 10429701,
+      "osmType": "relation",
+      "name": "Torslanda Golfklubb",
+      "lat": 57.7037646,
+      "lon": 11.77912105,
+      "bbox": {
+        "minLat": 57.6992363,
+        "minLon": 11.7704236,
+        "maxLat": 57.7082929,
+        "maxLon": 11.7878185
+      }
+    },
+    {
+      "id": 5448804,
+      "osmType": "relation",
+      "name": "Tortuna Golfklubb",
+      "lat": 59.660731150000004,
+      "lon": 16.729323,
+      "bbox": {
+        "minLat": 59.651477,
+        "minLon": 16.7222643,
+        "maxLat": 59.6699853,
+        "maxLon": 16.7363817
+      }
+    },
+    {
+      "id": 35284922,
+      "osmType": "way",
+      "name": "Tranås Golfklubb",
+      "lat": 58.05000115,
+      "lon": 15.000665,
+      "bbox": {
+        "minLat": 58.046204,
+        "minLon": 14.9904662,
+        "maxLat": 58.0537983,
+        "maxLon": 15.0108638
+      }
+    },
+    {
+      "id": 7372134,
+      "osmType": "relation",
+      "name": "Trelleborg Golfklub Slagelse",
+      "lat": 55.4232516,
+      "lon": 11.4016098,
+      "bbox": {
+        "minLat": 55.4174665,
+        "minLon": 11.3907945,
+        "maxLat": 55.4290367,
+        "maxLon": 11.4124251
+      }
+    },
+    {
+      "id": 23890839,
+      "osmType": "way",
+      "name": "Trelleborgs GK",
+      "lat": 55.3725677,
+      "lon": 13.086739999999999,
+      "bbox": {
+        "minLat": 55.3680968,
+        "minLon": 13.0746856,
+        "maxLat": 55.3770386,
+        "maxLon": 13.0987944
+      }
+    },
+    {
+      "id": 175344496,
+      "osmType": "way",
+      "name": "Trosa Golfklubb",
+      "lat": 58.87387355,
+      "lon": 17.54705255,
+      "bbox": {
+        "minLat": 58.867343,
+        "minLon": 17.5391728,
+        "maxLat": 58.8804041,
+        "maxLon": 17.5549323
+      }
+    },
+    {
+      "id": 823955358,
+      "osmType": "way",
+      "name": "Trosa Golfklubb",
+      "lat": 58.88676835,
+      "lon": 17.532303,
+      "bbox": {
+        "minLat": 58.8806809,
+        "minLon": 17.5217919,
+        "maxLat": 58.8928558,
+        "maxLon": 17.5428141
+      }
+    },
+    {
+      "id": 315677445,
+      "osmType": "way",
+      "name": "Troxhammar Golfklubb",
+      "lat": 59.31559865,
+      "lon": 17.7619672,
+      "bbox": {
+        "minLat": 59.3101003,
+        "minLon": 17.7514112,
+        "maxLat": 59.321097,
+        "maxLon": 17.7725232
+      }
+    },
+    {
+      "id": 533350670,
+      "osmType": "way",
+      "name": "Trummenäs Golfklubb",
+      "lat": 56.1603557,
+      "lon": 15.7374796,
+      "bbox": {
+        "minLat": 56.1555039,
+        "minLon": 15.7301689,
+        "maxLat": 56.1652075,
+        "maxLon": 15.7447903
+      }
+    },
+    {
+      "id": 3589337,
+      "osmType": "relation",
+      "name": "Trysilfjellet Golf",
+      "lat": 61.293674100000004,
+      "lon": 12.253977299999999,
+      "bbox": {
+        "minLat": 61.2869298,
+        "minLon": 12.2429091,
+        "maxLat": 61.3004184,
+        "maxLon": 12.2650455
+      }
+    },
+    {
+      "id": 308114817,
+      "osmType": "way",
+      "name": "Tyresö Golf",
+      "lat": 59.2510733,
+      "lon": 18.232787899999998,
+      "bbox": {
+        "minLat": 59.2492335,
+        "minLon": 18.2215914,
+        "maxLat": 59.2529131,
+        "maxLon": 18.2439844
+      }
+    },
+    {
+      "id": 23600637,
+      "osmType": "way",
+      "name": "Täby GK",
+      "lat": 59.50325015,
+      "lon": 18.018785049999998,
+      "bbox": {
+        "minLat": 59.4987107,
+        "minLon": 18.0086464,
+        "maxLat": 59.5077896,
+        "maxLon": 18.0289237
+      }
+    },
+    {
+      "id": 705396582,
+      "osmType": "way",
+      "name": "Tällbergsbyarnas GK",
+      "lat": 60.81442305,
+      "lon": 15.019722049999999,
+      "bbox": {
+        "minLat": 60.8117355,
+        "minLon": 15.0134628,
+        "maxLat": 60.8171106,
+        "maxLon": 15.0259813
+      }
+    },
+    {
+      "id": 32950677,
+      "osmType": "way",
+      "name": "Uddeholms GK",
+      "lat": 59.9920938,
+      "lon": 13.6076124,
+      "bbox": {
+        "minLat": 59.9851266,
+        "minLon": 13.5984761,
+        "maxLat": 59.999061,
+        "maxLon": 13.6167487
+      }
+    },
+    {
+      "id": 11649590,
+      "osmType": "relation",
+      "name": "Uddevalla Golfklubb",
+      "lat": 58.36454205,
+      "lon": 11.77835095,
+      "bbox": {
+        "minLat": 58.3589315,
+        "minLon": 11.7685676,
+        "maxLat": 58.3701526,
+        "maxLon": 11.7881343
+      }
+    },
+    {
+      "id": 16712990,
+      "osmType": "relation",
+      "name": "Ullensaker Golfklubb",
+      "lat": 60.15451375000001,
+      "lon": 11.09653565,
+      "bbox": {
+        "minLat": 60.1514116,
+        "minLon": 11.0913333,
+        "maxLat": 60.1576159,
+        "maxLon": 11.101738
+      }
+    },
+    {
+      "id": 23401492,
+      "osmType": "way",
+      "name": "Ullna Golf Club",
+      "lat": 59.492695100000006,
+      "lon": 18.153130349999998,
+      "bbox": {
+        "minLat": 59.4884009,
+        "minLon": 18.1417368,
+        "maxLat": 59.4969893,
+        "maxLon": 18.1645239
+      }
+    },
+    {
+      "id": 10256785,
+      "osmType": "relation",
+      "name": "Ulricehamns Golfklubb",
+      "lat": 57.79251715,
+      "lon": 13.4459956,
+      "bbox": {
+        "minLat": 57.7869418,
+        "minLon": 13.4377438,
+        "maxLat": 57.7980925,
+        "maxLon": 13.4542474
+      }
+    },
+    {
+      "id": 17895552,
+      "osmType": "relation",
+      "name": "Ulriksdals Golf",
+      "lat": 59.385869,
+      "lon": 17.998341500000002,
+      "bbox": {
+        "minLat": 59.3838811,
+        "minLon": 17.9924381,
+        "maxLat": 59.3878569,
+        "maxLon": 18.0042449
+      }
+    },
+    {
+      "id": 26715183,
+      "osmType": "way",
+      "name": "Umeå golfklubb",
+      "lat": 63.71467425,
+      "lon": 20.4081977,
+      "bbox": {
+        "minLat": 63.7081508,
+        "minLon": 20.3948017,
+        "maxLat": 63.7211977,
+        "maxLon": 20.4215937
+      }
+    },
+    {
+      "id": 152116,
+      "osmType": "relation",
+      "name": "Upsala golfklubb",
+      "lat": 59.8403812,
+      "lon": 17.500931950000002,
+      "bbox": {
+        "minLat": 59.8337343,
+        "minLon": 17.4854567,
+        "maxLat": 59.8470281,
+        "maxLon": 17.5164072
+      }
+    },
+    {
+      "id": 1218466989,
+      "osmType": "way",
+      "name": "Usmas golfa klubs",
+      "lat": 57.239544949999996,
+      "lon": 22.0905681,
+      "bbox": {
+        "minLat": 57.2366546,
+        "minLon": 22.0871335,
+        "maxLat": 57.2424353,
+        "maxLon": 22.0940027
+      }
+    },
+    {
+      "id": 94797139,
+      "osmType": "way",
+      "name": "Vaasan Golf",
+      "lat": 63.085841599999995,
+      "lon": 21.74576735,
+      "bbox": {
+        "minLat": 63.080054,
+        "minLon": 21.7315727,
+        "maxLat": 63.0916292,
+        "maxLon": 21.759962
+      }
+    },
+    {
+      "id": 170220627,
+      "osmType": "way",
+      "name": "Vadstena Golfklubb",
+      "lat": 58.42059785,
+      "lon": 14.89603395,
+      "bbox": {
+        "minLat": 58.4154817,
+        "minLon": 14.8862618,
+        "maxLat": 58.425714,
+        "maxLon": 14.9058061
+      }
+    },
+    {
+      "id": 11593118,
+      "osmType": "relation",
+      "name": "Vallda Golf & Country Club",
+      "lat": 57.474136900000005,
+      "lon": 12.01160865,
+      "bbox": {
+        "minLat": 57.4687132,
+        "minLon": 12.0013163,
+        "maxLat": 57.4795606,
+        "maxLon": 12.021901
+      }
+    },
+    {
+      "id": 4425300,
+      "osmType": "relation",
+      "name": "Vallentuna Golfklubb",
+      "lat": 59.562190349999995,
+      "lon": 18.112174600000003,
+      "bbox": {
+        "minLat": 59.5566173,
+        "minLon": 18.101458,
+        "maxLat": 59.5677634,
+        "maxLon": 18.1228912
+      }
+    },
+    {
+      "id": 42052245,
+      "osmType": "way",
+      "name": "Vallgårdens Golfklubb",
+      "lat": 55.649014199999996,
+      "lon": 13.12650985,
+      "bbox": {
+        "minLat": 55.6467193,
+        "minLon": 13.1224863,
+        "maxLat": 55.6513091,
+        "maxLon": 13.1305334
+      }
+    },
+    {
+      "id": 4219199,
+      "osmType": "relation",
+      "name": "Vara-Bjertorp Golfklubb",
+      "lat": 58.2598292,
+      "lon": 13.1172406,
+      "bbox": {
+        "minLat": 58.2533824,
+        "minLon": 13.1061238,
+        "maxLat": 58.266276,
+        "maxLon": 13.1283574
+      }
+    },
+    {
+      "id": 414760129,
+      "osmType": "way",
+      "name": "Varbergs Golfklubb Västra",
+      "lat": 57.05662665,
+      "lon": 12.35187365,
+      "bbox": {
+        "minLat": 57.0479158,
+        "minLon": 12.3414463,
+        "maxLat": 57.0653375,
+        "maxLon": 12.362301
+      }
+    },
+    {
+      "id": 6003428,
+      "osmType": "relation",
+      "name": "Vasatorps Golfklubb",
+      "lat": 56.05597295,
+      "lon": 12.796281,
+      "bbox": {
+        "minLat": 56.0467151,
+        "minLon": 12.7833529,
+        "maxLat": 56.0652308,
+        "maxLon": 12.8092091
+      }
+    },
+    {
+      "id": 5368823,
+      "osmType": "relation",
+      "name": "Vassunda Golfklubb",
+      "lat": 59.689159149999995,
+      "lon": 17.695856300000003,
+      "bbox": {
+        "minLat": 59.6844684,
+        "minLon": 17.6824106,
+        "maxLat": 59.6938499,
+        "maxLon": 17.709302
+      }
+    },
+    {
+      "id": 59696110,
+      "osmType": "way",
+      "name": "Veckefjärdens golfbana",
+      "lat": 63.28895505,
+      "lon": 18.66947365,
+      "bbox": {
+        "minLat": 63.2819773,
+        "minLon": 18.6594101,
+        "maxLat": 63.2959328,
+        "maxLon": 18.6795372
+      }
+    },
+    {
+      "id": 28586572,
+      "osmType": "way",
+      "name": "Vellinge GK",
+      "lat": 55.492259000000004,
+      "lon": 13.0988057,
+      "bbox": {
+        "minLat": 55.4867251,
+        "minLon": 13.0917338,
+        "maxLat": 55.4977929,
+        "maxLon": 13.1058776
+      }
+    },
+    {
+      "id": 236973081,
+      "osmType": "way",
+      "name": "Vetlanda Golfbana",
+      "lat": 57.415616650000004,
+      "lon": 15.04608245,
+      "bbox": {
+        "minLat": 57.4098325,
+        "minLon": 15.039748,
+        "maxLat": 57.4214008,
+        "maxLon": 15.0524169
+      }
+    },
+    {
+      "id": 4440720,
+      "osmType": "relation",
+      "name": "Vidbynäs",
+      "lat": 59.19947655,
+      "lon": 17.46085005,
+      "bbox": {
+        "minLat": 59.1903107,
+        "minLon": 17.4405685,
+        "maxLat": 59.2086424,
+        "maxLon": 17.4811316
+      }
+    },
+    {
+      "id": 13029417,
+      "osmType": "relation",
+      "name": "Viksbergs Golfklubb",
+      "lat": 59.2462096,
+      "lon": 17.626420850000002,
+      "bbox": {
+        "minLat": 59.2422127,
+        "minLon": 17.6152146,
+        "maxLat": 59.2502065,
+        "maxLon": 17.6376271
+      }
+    },
+    {
+      "id": 23766855,
+      "osmType": "way",
+      "name": "Viksjö GK",
+      "lat": 59.39990885,
+      "lon": 17.819905900000002,
+      "bbox": {
+        "minLat": 59.3949921,
+        "minLon": 17.8097296,
+        "maxLat": 59.4048256,
+        "maxLon": 17.8300822
+      }
+    },
+    {
+      "id": 288203274,
+      "osmType": "way",
+      "name": "Vilshärads Golfbana",
+      "lat": 56.6930572,
+      "lon": 12.6857798,
+      "bbox": {
+        "minLat": 56.6910401,
+        "minLon": 12.6826751,
+        "maxLat": 56.6950743,
+        "maxLon": 12.6888845
+      }
+    },
+    {
+      "id": 208956237,
+      "osmType": "way",
+      "name": "Vilvordes Golfbane",
+      "lat": 55.6241694,
+      "lon": 12.096452,
+      "bbox": {
+        "minLat": 55.6231504,
+        "minLon": 12.0952427,
+        "maxLat": 55.6251884,
+        "maxLon": 12.0976613
+      }
+    },
+    {
+      "id": 209361379,
+      "osmType": "way",
+      "name": "Vimmerby Golfakademi",
+      "lat": 57.675276600000004,
+      "lon": 15.892595799999999,
+      "bbox": {
+        "minLat": 57.6718385,
+        "minLon": 15.8883602,
+        "maxLat": 57.6787147,
+        "maxLon": 15.8968314
+      }
+    },
+    {
+      "id": 11334596,
+      "osmType": "relation",
+      "name": "Vinbergs Golfklubb",
+      "lat": 56.964455099999995,
+      "lon": 12.556281599999998,
+      "bbox": {
+        "minLat": 56.9590909,
+        "minLon": 12.5473416,
+        "maxLat": 56.9698193,
+        "maxLon": 12.5652216
+      }
+    },
+    {
+      "id": 199830330,
+      "osmType": "way",
+      "name": "Visby Golfklubb",
+      "lat": 57.4451378,
+      "lon": 18.12853485,
+      "bbox": {
+        "minLat": 57.4384421,
+        "minLon": 18.1172488,
+        "maxLat": 57.4518335,
+        "maxLon": 18.1398209
+      }
+    },
+    {
+      "id": 545588575,
+      "osmType": "way",
+      "name": "Vreta Kloster golfklubb",
+      "lat": 58.5286912,
+      "lon": 15.514772650000001,
+      "bbox": {
+        "minLat": 58.5199771,
+        "minLon": 15.5049705,
+        "maxLat": 58.5374053,
+        "maxLon": 15.5245748
+      }
+    },
+    {
+      "id": 122157110,
+      "osmType": "way",
+      "name": "Väddö Golfklubb",
+      "lat": 59.95961645,
+      "lon": 18.83420915,
+      "bbox": {
+        "minLat": 59.9546743,
+        "minLon": 18.8265626,
+        "maxLat": 59.9645586,
+        "maxLon": 18.8418557
+      }
+    },
+    {
+      "id": 1985060,
+      "osmType": "relation",
+      "name": "Värpinge Golfbana",
+      "lat": 55.708759799999996,
+      "lon": 13.1523802,
+      "bbox": {
+        "minLat": 55.7050395,
+        "minLon": 13.1462644,
+        "maxLat": 55.7124801,
+        "maxLon": 13.158496
+      }
+    },
+    {
+      "id": 4427132,
+      "osmType": "relation",
+      "name": "Västerviks Golfklubb",
+      "lat": 57.77189575,
+      "lon": 16.659034249999998,
+      "bbox": {
+        "minLat": 57.7671869,
+        "minLon": 16.6467769,
+        "maxLat": 57.7766046,
+        "maxLon": 16.6712916
+      }
+    },
+    {
+      "id": 98773289,
+      "osmType": "way",
+      "name": "Västerås golfklubb",
+      "lat": 59.6278051,
+      "lon": 16.50862525,
+      "bbox": {
+        "minLat": 59.6209182,
+        "minLon": 16.4975126,
+        "maxLat": 59.634692,
+        "maxLon": 16.5197379
+      }
+    },
+    {
+      "id": 53224253,
+      "osmType": "way",
+      "name": "Växjö Golfklubb",
+      "lat": 56.90210155,
+      "lon": 14.773082,
+      "bbox": {
+        "minLat": 56.8968682,
+        "minLon": 14.7655466,
+        "maxLat": 56.9073349,
+        "maxLon": 14.7806174
+      }
+    },
+    {
+      "id": 160437644,
+      "osmType": "way",
+      "name": "Vårdsbergs Golfklubb",
+      "lat": 58.412240749999995,
+      "lon": 15.748099400000001,
+      "bbox": {
+        "minLat": 58.4093289,
+        "minLon": 15.7415688,
+        "maxLat": 58.4151526,
+        "maxLon": 15.75463
+      }
+    },
+    {
+      "id": 4612112,
+      "osmType": "relation",
+      "name": "Vårgårda Golfbana",
+      "lat": 58.031020600000005,
+      "lon": 12.861721249999999,
+      "bbox": {
+        "minLat": 58.0257907,
+        "minLon": 12.8501018,
+        "maxLat": 58.0362505,
+        "maxLon": 12.8733407
+      }
+    },
+    {
+      "id": 26275265,
+      "osmType": "way",
+      "name": "Værløse Golfklub",
+      "lat": 55.788358,
+      "lon": 12.32907045,
+      "bbox": {
+        "minLat": 55.7840223,
+        "minLon": 12.3206329,
+        "maxLat": 55.7926937,
+        "maxLon": 12.337508
+      }
+    },
+    {
+      "id": 28526241,
+      "osmType": "way",
+      "name": "Wattholma Golfklubb",
+      "lat": 60.03111534999999,
+      "lon": 17.741283799999998,
+      "bbox": {
+        "minLat": 60.0239443,
+        "minLon": 17.732615,
+        "maxLat": 60.0382864,
+        "maxLon": 17.7499526
+      }
+    },
+    {
+      "id": 8551800,
+      "osmType": "relation",
+      "name": "Waxholms Golfklubb",
+      "lat": 59.3907334,
+      "lon": 18.255209100000002,
+      "bbox": {
+        "minLat": 59.3866581,
+        "minLon": 18.2340304,
+        "maxLat": 59.3948087,
+        "maxLon": 18.2763878
+      }
+    },
+    {
+      "id": 1360317780,
+      "osmType": "way",
+      "name": "Wenoxa Golf",
+      "lat": 59.975293050000005,
+      "lon": 22.61556085,
+      "bbox": {
+        "minLat": 59.9708866,
+        "minLon": 22.6125318,
+        "maxLat": 59.9796995,
+        "maxLon": 22.6185899
+      }
+    },
+    {
+      "id": 4111464,
+      "osmType": "relation",
+      "name": "Wermdö Golf and Country Club",
+      "lat": 59.30555055,
+      "lon": 18.468159200000002,
+      "bbox": {
+        "minLat": 59.3023385,
+        "minLon": 18.4508957,
+        "maxLat": 59.3087626,
+        "maxLon": 18.4854227
+      }
+    },
+    {
+      "id": 33520404,
+      "osmType": "way",
+      "name": "White Beach Golf",
+      "lat": 58.3946895,
+      "lon": 24.378463250000003,
+      "bbox": {
+        "minLat": 58.3896722,
+        "minLon": 24.3606492,
+        "maxLat": 58.3997068,
+        "maxLon": 24.3962773
+      }
+    },
+    {
+      "id": 717524022,
+      "osmType": "way",
+      "name": "Wiredaholms golfbana",
+      "lat": 57.9160702,
+      "lon": 14.646389150000001,
+      "bbox": {
+        "minLat": 57.9108427,
+        "minLon": 14.6368327,
+        "maxLat": 57.9212977,
+        "maxLon": 14.6559456
+      }
+    },
+    {
+      "id": 8632283,
+      "osmType": "relation",
+      "name": "Wittsjö Golfklubb",
+      "lat": 56.3469967,
+      "lon": 13.706437000000001,
+      "bbox": {
+        "minLat": 56.3432342,
+        "minLon": 13.6962604,
+        "maxLat": 56.3507592,
+        "maxLon": 13.7166136
+      }
+    },
+    {
+      "id": 832913151,
+      "osmType": "way",
+      "name": "Wiurila Golf",
+      "lat": 60.3777254,
+      "lon": 23.0483488,
+      "bbox": {
+        "minLat": 60.375115,
+        "minLon": 23.0435188,
+        "maxLat": 60.3803358,
+        "maxLon": 23.0531788
+      }
+    },
+    {
+      "id": 832913152,
+      "osmType": "way",
+      "name": "Wiurila Golf",
+      "lat": 60.3812529,
+      "lon": 23.05467145,
+      "bbox": {
+        "minLat": 60.3772482,
+        "minLon": 23.0423695,
+        "maxLat": 60.3852576,
+        "maxLon": 23.0669734
+      }
+    },
+    {
+      "id": 13456971,
+      "osmType": "relation",
+      "name": "Woodlands Country Club",
+      "lat": 56.234392150000005,
+      "lon": 13.1827887,
+      "bbox": {
+        "minLat": 56.2266355,
+        "minLon": 13.1689383,
+        "maxLat": 56.2421488,
+        "maxLon": 13.1966391
+      }
+    },
+    {
+      "id": 3914073,
+      "osmType": "relation",
+      "name": "World of Golf Scandinavia",
+      "lat": 57.6431561,
+      "lon": 11.92777115,
+      "bbox": {
+        "minLat": 57.640892,
+        "minLon": 11.9249028,
+        "maxLat": 57.6454202,
+        "maxLon": 11.9306395
+      }
+    },
+    {
+      "id": 28001728,
+      "osmType": "way",
+      "name": "Wäsby GK",
+      "lat": 59.5380433,
+      "lon": 17.960347,
+      "bbox": {
+        "minLat": 59.5318762,
+        "minLon": 17.9469017,
+        "maxLat": 59.5442104,
+        "maxLon": 17.9737923
+      }
+    },
+    {
+      "id": 14039900,
+      "osmType": "way",
+      "name": "Ystads golfklubb",
+      "lat": 55.44038825,
+      "lon": 13.92614045,
+      "bbox": {
+        "minLat": 55.435571,
+        "minLon": 13.9183357,
+        "maxLat": 55.4452055,
+        "maxLon": 13.9339452
+      }
+    },
+    {
+      "id": 329294472,
+      "osmType": "way",
+      "name": "Yyteri Golf",
+      "lat": 61.5806351,
+      "lon": 21.50226005,
+      "bbox": {
+        "minLat": 61.5725057,
+        "minLon": 21.495945,
+        "maxLat": 61.5887645,
+        "maxLon": 21.5085751
+      }
+    },
+    {
+      "id": 1301815228,
+      "osmType": "way",
+      "name": "Ähtäri Golf",
+      "lat": 62.53075025,
+      "lon": 24.2005854,
+      "bbox": {
+        "minLat": 62.5243983,
+        "minLon": 24.1907868,
+        "maxLat": 62.5371022,
+        "maxLon": 24.210384
+      }
+    },
+    {
+      "id": 5940542,
+      "osmType": "relation",
+      "name": "Älmhults Golfklubb",
+      "lat": 56.56512445,
+      "lon": 14.17179535,
+      "bbox": {
+        "minLat": 56.5604328,
+        "minLon": 14.1616271,
+        "maxLat": 56.5698161,
+        "maxLon": 14.1819636
+      }
+    },
+    {
+      "id": 226756908,
+      "osmType": "way",
+      "name": "Älvkarleby Golfklubb",
+      "lat": 60.5901173,
+      "lon": 17.44609705,
+      "bbox": {
+        "minLat": 60.5826469,
+        "minLon": 17.438588,
+        "maxLat": 60.5975877,
+        "maxLon": 17.4536061
+      }
+    },
+    {
+      "id": 280699641,
+      "osmType": "way",
+      "name": "Ängelholms Golfklubb",
+      "lat": 56.270613850000004,
+      "lon": 13.0213726,
+      "bbox": {
+        "minLat": 56.2650501,
+        "minLon": 13.0118872,
+        "maxLat": 56.2761776,
+        "maxLon": 13.030858
+      }
+    },
+    {
+      "id": 1070276612,
+      "osmType": "way",
+      "name": "Äppelgårdens GK",
+      "lat": 56.425140049999996,
+      "lon": 12.921342150000001,
+      "bbox": {
+        "minLat": 56.4220531,
+        "minLon": 12.9147642,
+        "maxLat": 56.428227,
+        "maxLon": 12.9279201
+      }
+    },
+    {
+      "id": 15017861,
+      "osmType": "relation",
+      "name": "Ätradalens Golfklubb",
+      "lat": 57.25142235,
+      "lon": 12.98345805,
+      "bbox": {
+        "minLat": 57.246418,
+        "minLon": 12.9780883,
+        "maxLat": 57.2564267,
+        "maxLon": 12.9888278
+      }
+    },
+    {
+      "id": 1666943,
+      "osmType": "relation",
+      "name": "Ågesta Golfklubb",
+      "lat": 59.22089915,
+      "lon": 18.08942165,
+      "bbox": {
+        "minLat": 59.214647,
+        "minLon": 18.077438,
+        "maxLat": 59.2271513,
+        "maxLon": 18.1014053
+      }
+    },
+    {
+      "id": 343921577,
+      "osmType": "way",
+      "name": "Åkagårdens Golfklubb",
+      "lat": 56.36502095,
+      "lon": 12.7915354,
+      "bbox": {
+        "minLat": 56.3604121,
+        "minLon": 12.7853175,
+        "maxLat": 56.3696298,
+        "maxLon": 12.7977533
+      }
+    },
+    {
+      "id": 4442076,
+      "osmType": "relation",
+      "name": "Åkersberga GK",
+      "lat": 59.512306699999996,
+      "lon": 18.292006649999998,
+      "bbox": {
+        "minLat": 59.5073346,
+        "minLon": 18.2820216,
+        "maxLat": 59.5172788,
+        "maxLon": 18.3019917
+      }
+    },
+    {
+      "id": 669177980,
+      "osmType": "way",
+      "name": "Årjängs GK",
+      "lat": 59.331655600000005,
+      "lon": 12.29307355,
+      "bbox": {
+        "minLat": 59.3233766,
+        "minLon": 12.282393,
+        "maxLat": 59.3399346,
+        "maxLon": 12.3037541
+      }
+    },
+    {
+      "id": 112466556,
+      "osmType": "way",
+      "name": "Årsta Golf",
+      "lat": 59.2905167,
+      "lon": 18.03964045,
+      "bbox": {
+        "minLat": 59.288917,
+        "minLon": 18.037528,
+        "maxLat": 59.2921164,
+        "maxLon": 18.0417529
+      }
+    },
+    {
+      "id": 302520347,
+      "osmType": "way",
+      "name": "Åtvidabergs Golfklubb",
+      "lat": 58.19895005,
+      "lon": 15.9728907,
+      "bbox": {
+        "minLat": 58.1933613,
+        "minLon": 15.9619531,
+        "maxLat": 58.2045388,
+        "maxLon": 15.9838283
+      }
+    },
+    {
+      "id": 253525225,
+      "osmType": "way",
+      "name": "Öjestrands Golf Club",
+      "lat": 62.2417959,
+      "lon": 17.30481525,
+      "bbox": {
+        "minLat": 62.2370036,
+        "minLon": 17.2919023,
+        "maxLat": 62.2465882,
+        "maxLon": 17.3177282
+      }
+    },
+    {
+      "id": 218211399,
+      "osmType": "way",
+      "name": "Ölands golfklubb",
+      "lat": 57.1375783,
+      "lon": 16.9663549,
+      "bbox": {
+        "minLat": 57.1355407,
+        "minLon": 16.9612394,
+        "maxLat": 57.1396159,
+        "maxLon": 16.9714704
+      }
+    },
+    {
+      "id": 254490072,
+      "osmType": "way",
+      "name": "Örbyhus golfklubb",
+      "lat": 60.1973254,
+      "lon": 17.694666650000002,
+      "bbox": {
+        "minLat": 60.1903753,
+        "minLon": 17.6823815,
+        "maxLat": 60.2042755,
+        "maxLon": 17.7069518
+      }
+    },
+    {
+      "id": 3507038,
+      "osmType": "relation",
+      "name": "Örebro City Golf & Country Club - Gustavsviks",
+      "lat": 59.24836425,
+      "lon": 15.2185789,
+      "bbox": {
+        "minLat": 59.2441668,
+        "minLon": 15.1983328,
+        "maxLat": 59.2525617,
+        "maxLon": 15.238825
+      }
+    },
+    {
+      "id": 247894241,
+      "osmType": "way",
+      "name": "Örebro City Golf & Country Club Mosjö",
+      "lat": 59.1827913,
+      "lon": 15.1425976,
+      "bbox": {
+        "minLat": 59.1768272,
+        "minLon": 15.1329446,
+        "maxLat": 59.1887554,
+        "maxLon": 15.1522506
+      }
+    },
+    {
+      "id": 4451823,
+      "osmType": "relation",
+      "name": "Öregrunds Golfklubb",
+      "lat": 60.27498675,
+      "lon": 18.41140415,
+      "bbox": {
+        "minLat": 60.2703008,
+        "minLon": 18.4012656,
+        "maxLat": 60.2796727,
+        "maxLon": 18.4215427
+      }
+    },
+    {
+      "id": 23729516,
+      "osmType": "way",
+      "name": "Örestads golfklubb",
+      "lat": 55.6959527,
+      "lon": 13.06913195,
+      "bbox": {
+        "minLat": 55.6903523,
+        "minLon": 13.0581106,
+        "maxLat": 55.7015531,
+        "maxLon": 13.0801533
+      }
+    },
+    {
+      "id": 45289926,
+      "osmType": "way",
+      "name": "Öresunds Golfklubb",
+      "lat": 55.851511650000006,
+      "lon": 12.902553699999999,
+      "bbox": {
+        "minLat": 55.8440828,
+        "minLon": 12.8930473,
+        "maxLat": 55.8589405,
+        "maxLon": 12.9120601
+      }
+    },
+    {
+      "id": 237392514,
+      "osmType": "way",
+      "name": "Örnsköldsviks Golfklubb Puttom",
+      "lat": 63.29946485,
+      "lon": 18.940903499999997,
+      "bbox": {
+        "minLat": 63.2934717,
+        "minLon": 18.9302203,
+        "maxLat": 63.305458,
+        "maxLon": 18.9515867
+      }
+    },
+    {
+      "id": 69370,
+      "osmType": "relation",
+      "name": "Österhaninge Golfklubb",
+      "lat": 59.11839675,
+      "lon": 18.16579685,
+      "bbox": {
+        "minLat": 59.1124048,
+        "minLon": 18.1579546,
+        "maxLat": 59.1243887,
+        "maxLon": 18.1736391
+      }
+    },
+    {
+      "id": 8463535,
+      "osmType": "relation",
+      "name": "Österlens golfklubb",
+      "lat": 55.61620505,
+      "lon": 14.274175549999999,
+      "bbox": {
+        "minLat": 55.6064867,
+        "minLon": 14.26342,
+        "maxLat": 55.6259234,
+        "maxLon": 14.2849311
+      }
+    },
+    {
+      "id": 41921019,
+      "osmType": "way",
+      "name": "Östersund-Frösö golfklubb",
+      "lat": 63.18173115,
+      "lon": 14.49266635,
+      "bbox": {
+        "minLat": 63.1754883,
+        "minLon": 14.4821906,
+        "maxLat": 63.187974,
+        "maxLon": 14.5031421
+      }
+    },
+    {
+      "id": 122227918,
+      "osmType": "way",
+      "name": "Österåkers Golfklubb",
+      "lat": 59.4874619,
+      "lon": 18.2537268,
+      "bbox": {
+        "minLat": 59.4815354,
+        "minLon": 18.2357631,
+        "maxLat": 59.4933884,
+        "maxLon": 18.2716905
+      }
+    },
+    {
+      "id": 4427657,
+      "osmType": "relation",
+      "name": "Östra Göinge Golfklubb",
+      "lat": 56.20321215,
+      "lon": 14.08865055,
+      "bbox": {
+        "minLat": 56.1965707,
+        "minLon": 14.0784813,
+        "maxLat": 56.2098536,
+        "maxLon": 14.0988198
+      }
+    },
+    {
+      "id": 3590845,
+      "osmType": "relation",
+      "name": "Øya Golfpark",
+      "lat": 59.30542495,
+      "lon": 11.151434250000001,
+      "bbox": {
+        "minLat": 59.3022526,
+        "minLon": 11.1464189,
+        "maxLat": 59.3085973,
+        "maxLon": 11.1564496
+      }
+    }
+  ]
 }
