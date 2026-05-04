@@ -121,7 +121,7 @@ private fun CourseListContent(
                 )
                 Spacer(Modifier.height(10.dp))
                 LazyColumn(
-                    contentPadding = PaddingValues(horizontal = 16.dp, bottom = 24.dp),
+                    contentPadding = PaddingValues(start = 16.dp, end = 16.dp, bottom = 24.dp),
                     verticalArrangement = Arrangement.spacedBy(6.dp),
                 ) {
                     items(uiState.filteredCourses, key = { it.id }) { course ->
