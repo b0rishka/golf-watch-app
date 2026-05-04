@@ -18,11 +18,10 @@ OUTPUT_PATH = Path(__file__).parent / "data" / "courses.json"
 # Fetch ways and relations tagged leisure=golf_course within Sweden.
 # `out center bb tags` gives us: synthesised centroid, bounding box, and tags.
 OVERPASS_QUERY = """
-[out:json][timeout:120];
-area["ISO3166-1"="SE"][admin_level=2]->.sweden;
+[out:json][timeout:120][bbox:55.0,10.5,69.5,24.5];
 (
-  way["leisure"="golf_course"](area.sweden);
-  relation["leisure"="golf_course"](area.sweden);
+  way["leisure"="golf_course"];
+  relation["leisure"="golf_course"];
 );
 out center bb tags;
 """.strip()
