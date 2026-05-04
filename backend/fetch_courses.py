@@ -90,11 +90,19 @@ def main() -> None:
         print(f"ERROR: Overpass query failed: {e}", file=sys.stderr)
         sys.exit(1)
 
+    elements = raw.get("elements", [])
+    print(f"Overpass returned {len(elements)} elements", flush=True)
+
     courses = [
         course
-        for el in raw.get("elements", [])
+        for el in elements
         if (course := element_to_course(el)) is not None
     ]
+
+    print(f"After filtering: {len(courses)} named courses with center", flush=True)
+    if not courses:
+        print("ERROR: 0 courses after filtering — not overwriting existing file", file=sys.stderr)
+        sys.exit(1)
 
     courses.sort(key=lambda c: c["name"].casefold())
 
