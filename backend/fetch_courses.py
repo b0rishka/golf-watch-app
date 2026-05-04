@@ -33,7 +33,10 @@ def fetch_overpass(query: str) -> dict:
     req = urllib.request.Request(
         OVERPASS_URL,
         data=payload,
-        headers={"Content-Type": "application/x-www-form-urlencoded"},
+        headers={
+            "Content-Type": "application/x-www-form-urlencoded",
+            "User-Agent": "golf-watch-app/1.0 (https://github.com/b0rishka/golf-watch-app)",
+        },
     )
     with urllib.request.urlopen(req, timeout=150) as resp:
         if resp.status != 200:
