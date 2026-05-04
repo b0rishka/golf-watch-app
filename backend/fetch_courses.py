@@ -92,6 +92,8 @@ def main() -> None:
 
     elements = raw.get("elements", [])
     print(f"Overpass returned {len(elements)} elements", flush=True)
+    if elements:
+        print(f"First element: {json.dumps(elements[0])}", flush=True)
 
     courses = [
         course
