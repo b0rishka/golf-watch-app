@@ -72,8 +72,7 @@ class CourseListViewModel
                 try {
                     repository.refreshCourses()
                 } catch (e: Exception) {
-                    // Surface the error only if there's nothing cached to show.
-                    error.value = "Couldn't load courses. Check your connection."
+                    error.value = "${e::class.simpleName}: ${e.message}"
                 } finally {
                     isLoading.value = false
                 }
