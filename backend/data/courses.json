@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-05T09:29:00.832254+00:00",
-  "count": 636,
+  "generated": "2026-05-06T10:28:09.630921+00:00",
+  "count": 635,
   "courses": [
     {
       "id": 95008055,
@@ -1381,8 +1381,8 @@
       }
     },
     {
-      "id": 8127409,
-      "osmType": "relation",
+      "id": 101624685,
+      "osmType": "way",
       "name": "Emmaboda Golfklubb",
       "lat": 56.52763455,
       "lon": 15.5894198,
@@ -3981,27 +3981,14 @@
       }
     },
     {
-      "id": 743038920,
-      "osmType": "way",
+      "id": 20631158,
+      "osmType": "relation",
       "name": "Leråkra Golfkllubb",
-      "lat": 56.19374065,
-      "lon": 15.3577051,
+      "lat": 56.19543625,
+      "lon": 15.361826749999999,
       "bbox": {
         "minLat": 56.1919916,
         "minLon": 15.3526879,
-        "maxLat": 56.1954897,
-        "maxLon": 15.3627223
-      }
-    },
-    {
-      "id": 1311961715,
-      "osmType": "way",
-      "name": "Leråkra Golfklubb",
-      "lat": 56.196795550000004,
-      "lon": 15.36592855,
-      "bbox": {
-        "minLat": 56.1947102,
-        "minLon": 15.3608915,
         "maxLat": 56.1988809,
         "maxLon": 15.3709656
       }
