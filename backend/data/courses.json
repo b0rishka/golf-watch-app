@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-06T10:28:09.630921+00:00",
+  "generated": "2026-05-07T10:37:02.964956+00:00",
   "count": 635,
   "courses": [
     {
@@ -5894,11 +5894,11 @@
     {
       "id": 38483956,
       "osmType": "way",
-      "name": "Saxnäs golfbana",
-      "lat": 56.6966891,
+      "name": "Saxnäs Golfklubb",
+      "lat": 56.6966787,
       "lon": 16.4876879,
       "bbox": {
-        "minLat": 56.6903801,
+        "minLat": 56.6903593,
         "minLon": 16.4809942,
         "maxLat": 56.7029981,
         "maxLon": 16.4943816
