@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-12T11:03:56.521457+00:00",
+  "generated": "2026-05-13T11:35:46.918673+00:00",
   "count": 635,
   "courses": [
     {
@@ -3412,10 +3412,10 @@
       "id": 13248656,
       "osmType": "relation",
       "name": "Klövsjö-Vemdalens Golfklubb",
-      "lat": 62.4850014,
+      "lat": 62.4849701,
       "lon": 14.21973245,
       "bbox": {
-        "minLat": 62.4788014,
+        "minLat": 62.4787388,
         "minLon": 14.2095575,
         "maxLat": 62.4912014,
         "maxLon": 14.2299074
