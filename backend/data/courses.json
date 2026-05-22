@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-21T12:35:32.312940+00:00",
-  "count": 635,
+  "generated": "2026-05-22T12:03:34.184274+00:00",
+  "count": 636,
   "courses": [
     {
       "id": 95008055,
@@ -2681,6 +2681,19 @@
       }
     },
     {
+      "id": 10480242,
+      "osmType": "relation",
+      "name": "Hills Valley Course",
+      "lat": 57.618760800000004,
+      "lon": 12.0249408,
+      "bbox": {
+        "minLat": 57.6167013,
+        "minLon": 12.0132836,
+        "maxLat": 57.6208203,
+        "maxLon": 12.036598
+      }
+    },
+    {
       "id": 451760668,
       "osmType": "way",
       "name": "Hirvensalon Golf",
@@ -3321,13 +3334,13 @@
       "id": 260131521,
       "osmType": "way",
       "name": "Karlshamns Golfklubb",
-      "lat": 56.2093763,
-      "lon": 14.764583850000001,
+      "lat": 56.2093435,
+      "lon": 14.76452215,
       "bbox": {
-        "minLat": 56.2013359,
-        "minLon": 14.755083,
-        "maxLat": 56.2174167,
-        "maxLon": 14.7740847
+        "minLat": 56.2013031,
+        "minLon": 14.7550213,
+        "maxLat": 56.2173839,
+        "maxLon": 14.774023
       }
     },
     {
@@ -3809,6 +3822,19 @@
         "minLon": 15.9361249,
         "maxLat": 59.5590854,
         "maxLon": 15.9615362
+      }
+    },
+    {
+      "id": 35977420,
+      "osmType": "way",
+      "name": "Københavns Golf Klub",
+      "lat": 55.799476,
+      "lon": 12.561659800000001,
+      "bbox": {
+        "minLat": 55.7962077,
+        "minLon": 12.5490673,
+        "maxLat": 55.8027443,
+        "maxLon": 12.5742523
       }
     },
     {
@@ -6180,7 +6206,7 @@
     {
       "id": 339319128,
       "osmType": "way",
-      "name": "Smørum Golfclub",
+      "name": "Smørum Golfklub",
       "lat": 55.72433825,
       "lon": 12.3101464,
       "bbox": {
@@ -7020,19 +7046,6 @@
         "minLon": 11.5887952,
         "maxLat": 58.4460289,
         "maxLon": 11.6057146
-      }
-    },
-    {
-      "id": 10480242,
-      "osmType": "relation",
-      "name": "Torrekulla golfbana",
-      "lat": 57.618677149999996,
-      "lon": 12.025874550000001,
-      "bbox": {
-        "minLat": 57.6167013,
-        "minLon": 12.0151511,
-        "maxLat": 57.620653,
-        "maxLon": 12.036598
       }
     },
     {
