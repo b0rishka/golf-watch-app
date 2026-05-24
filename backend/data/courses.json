@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-23T09:16:10.303545+00:00",
-  "count": 636,
+  "generated": "2026-05-24T09:29:04.712034+00:00",
+  "count": 637,
   "courses": [
     {
       "id": 95008055,
@@ -822,16 +822,29 @@
       }
     },
     {
+      "id": 1519717514,
+      "osmType": "way",
+      "name": "Bråvikens Golfklubb",
+      "lat": 58.60483825,
+      "lon": 16.32178645,
+      "bbox": {
+        "minLat": 58.5969015,
+        "minLon": 16.3102851,
+        "maxLat": 58.612775,
+        "maxLon": 16.3332878
+      }
+    },
+    {
       "id": 2624162,
       "osmType": "relation",
       "name": "Bråvikens Golfklubb",
-      "lat": 58.6047224,
-      "lon": 16.321871,
+      "lat": 58.60317070000001,
+      "lon": 16.31824545,
       "bbox": {
-        "minLat": 58.5969928,
-        "minLon": 16.3105805,
-        "maxLat": 58.612452,
-        "maxLon": 16.3331615
+        "minLat": 58.6007997,
+        "minLon": 16.3128534,
+        "maxLat": 58.6055417,
+        "maxLon": 16.3236375
       }
     },
     {
@@ -2684,12 +2697,12 @@
       "id": 10480242,
       "osmType": "relation",
       "name": "Hills Valley Course",
-      "lat": 57.618760800000004,
+      "lat": 57.618841450000005,
       "lon": 12.0249408,
       "bbox": {
         "minLat": 57.6167013,
         "minLon": 12.0132836,
-        "maxLat": 57.6208203,
+        "maxLat": 57.6209816,
         "maxLon": 12.036598
       }
     },
