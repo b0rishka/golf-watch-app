@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-25T13:50:57.956667+00:00",
+  "generated": "2026-05-27T14:34:49.013416+00:00",
   "count": 637,
   "courses": [
     {
@@ -3294,7 +3294,7 @@
     {
       "id": 10852837,
       "osmType": "relation",
-      "name": "Kalmar golfbana",
+      "name": "Kalmar Golfklubb",
       "lat": 56.716357349999996,
       "lon": 16.341666449999998,
       "bbox": {
