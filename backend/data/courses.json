@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-15T07:27:29.005790+00:00",
-  "count": 636,
+  "generated": "2026-06-17T07:19:23.438507+00:00",
+  "count": 635,
   "courses": [
     {
       "id": 95008055,
@@ -2607,10 +2607,10 @@
       "osmType": "way",
       "name": "Hesslegårdens GK",
       "lat": 56.14457025,
-      "lon": 13.7531858,
+      "lon": 13.75321325,
       "bbox": {
         "minLat": 56.1384811,
-        "minLon": 13.7473134,
+        "minLon": 13.7473683,
         "maxLat": 56.1506594,
         "maxLon": 13.7590582
       }
@@ -5970,19 +5970,6 @@
       }
     },
     {
-      "id": 4806317,
-      "osmType": "relation",
-      "name": "Selbu Golfklubb",
-      "lat": 63.1937712,
-      "lon": 11.09363965,
-      "bbox": {
-        "minLat": 63.1914462,
-        "minLon": 11.088336,
-        "maxLat": 63.1960962,
-        "maxLon": 11.0989433
-      }
-    },
-    {
       "id": 192346124,
       "osmType": "way",
       "name": "Sigtunabygdens Golfklubb",
@@ -7793,10 +7780,10 @@
       "id": 33520404,
       "osmType": "way",
       "name": "White Beach Golf",
-      "lat": 58.3946895,
+      "lat": 58.39471525,
       "lon": 24.378463250000003,
       "bbox": {
-        "minLat": 58.3896722,
+        "minLat": 58.3897237,
         "minLon": 24.3606492,
         "maxLat": 58.3997068,
         "maxLon": 24.3962773
