@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T06:56:34.656102+00:00",
-  "count": 635,
+  "generated": "2026-06-22T07:31:30.920682+00:00",
+  "count": 636,
   "courses": [
     {
       "id": 95008055,
@@ -4280,6 +4280,19 @@
       }
     },
     {
+      "id": 1531262690,
+      "osmType": "way",
+      "name": "Lydde",
+      "lat": 57.496973249999996,
+      "lon": 12.71417535,
+      "bbox": {
+        "minLat": 57.4923166,
+        "minLon": 12.708286,
+        "maxLat": 57.5016299,
+        "maxLon": 12.7200647
+      }
+    },
+    {
       "id": 221636579,
       "osmType": "way",
       "name": "Lysegårdens Golfklubb",
@@ -4452,10 +4465,10 @@
       "id": 12571097,
       "osmType": "relation",
       "name": "Marks Golfklubb",
-      "lat": 57.50010505,
+      "lat": 57.50008735,
       "lon": 12.7137525,
       "bbox": {
-        "minLat": 57.492352,
+        "minLat": 57.4923166,
         "minLon": 12.7020299,
         "maxLat": 57.5078581,
         "maxLon": 12.7254751
