@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-26T06:16:17.680262+00:00",
+  "generated": "2026-06-27T05:57:33.440999+00:00",
   "count": 640,
   "courses": [
     {
@@ -2438,10 +2438,10 @@
       "osmType": "relation",
       "name": "HaningeStrand Golfklubb",
       "lat": 59.09884565,
-      "lon": 18.189183,
+      "lon": 18.1869808,
       "bbox": {
         "minLat": 59.0931264,
-        "minLon": 18.1748309,
+        "minLon": 18.1704265,
         "maxLat": 59.1045649,
         "maxLon": 18.2035351
       }
