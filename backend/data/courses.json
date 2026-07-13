@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-12T05:33:37.526518+00:00",
+  "generated": "2026-07-13T05:43:07.137527+00:00",
   "count": 641,
   "courses": [
     {
@@ -3149,6 +3149,19 @@
       }
     },
     {
+      "id": 100882819,
+      "osmType": "way",
+      "name": "Jakobstads Golf",
+      "lat": 63.6829827,
+      "lon": 22.783849449999998,
+      "bbox": {
+        "minLat": 63.6769699,
+        "minLon": 22.774891,
+        "maxLat": 63.6889955,
+        "maxLon": 22.7928079
+      }
+    },
+    {
       "id": 23563499,
       "osmType": "way",
       "name": "Jarlabanke Golfklubb (Prästgården)",
@@ -4322,12 +4335,12 @@
       "id": 221636579,
       "osmType": "way",
       "name": "Lysegårdens Golfklubb",
-      "lat": 57.941759149999996,
+      "lat": 57.9417653,
       "lon": 12.031884949999998,
       "bbox": {
         "minLat": 57.9370501,
         "minLon": 12.0219443,
-        "maxLat": 57.9464682,
+        "maxLat": 57.9464805,
         "maxLon": 12.0418256
       }
     },
@@ -5343,19 +5356,6 @@
         "minLon": 24.25733,
         "maxLat": 60.0853659,
         "maxLon": 24.2962452
-      }
-    },
-    {
-      "id": 100882819,
-      "osmType": "way",
-      "name": "Pirilö Golf",
-      "lat": 63.6829827,
-      "lon": 22.783849449999998,
-      "bbox": {
-        "minLat": 63.6769699,
-        "minLon": 22.774891,
-        "maxLat": 63.6889955,
-        "maxLon": 22.7928079
       }
     },
     {
