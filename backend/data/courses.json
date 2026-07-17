@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-16T05:15:32.611866+00:00",
-  "count": 641,
+  "generated": "2026-07-17T05:18:13.607446+00:00",
+  "count": 642,
   "courses": [
     {
       "id": 95008055,
@@ -1866,10 +1866,10 @@
       "osmType": "way",
       "name": "Gilleleje Golfbane",
       "lat": 56.08092995,
-      "lon": 12.3715261,
+      "lon": 12.37152625,
       "bbox": {
         "minLat": 56.0771492,
-        "minLon": 12.3620721,
+        "minLon": 12.3620724,
         "maxLat": 56.0847107,
         "maxLon": 12.3809801
       }
@@ -4943,6 +4943,19 @@
       }
     },
     {
+      "id": 1539657466,
+      "osmType": "way",
+      "name": "Nordhaug Golfklubb",
+      "lat": 59.93800975,
+      "lon": 10.570570199999999,
+      "bbox": {
+        "minLat": 59.9358589,
+        "minLon": 10.565157,
+        "maxLat": 59.9401606,
+        "maxLon": 10.5759834
+      }
+    },
+    {
       "id": 11478551,
       "osmType": "relation",
       "name": "Norra Backa Golfklubb",
@@ -5229,15 +5242,15 @@
       }
     },
     {
-      "id": 30655200,
-      "osmType": "way",
+      "id": 21105600,
+      "osmType": "relation",
       "name": "Oslo Golfklubb Bogstad",
-      "lat": 59.96482065,
+      "lat": 59.9648545,
       "lon": 10.6309398,
       "bbox": {
         "minLat": 59.9612408,
         "minLon": 10.6216599,
-        "maxLat": 59.9684005,
+        "maxLat": 59.9684682,
         "maxLon": 10.6402197
       }
     },
