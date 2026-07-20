@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-19T05:27:36.869616+00:00",
+  "generated": "2026-07-20T05:47:18.253817+00:00",
   "count": 642,
   "courses": [
     {
@@ -2867,10 +2867,10 @@
       "osmType": "relation",
       "name": "Huvudstadens GK Lövsättra",
       "lat": 59.61314845,
-      "lon": 18.33652415,
+      "lon": 18.3364903,
       "bbox": {
         "minLat": 59.6058487,
-        "minLon": 18.326361,
+        "minLon": 18.3262933,
         "maxLat": 59.6204482,
         "maxLon": 18.3466873
       }
