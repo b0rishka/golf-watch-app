@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-20T05:47:18.253817+00:00",
+  "generated": "2026-07-21T05:25:42.423881+00:00",
   "count": 642,
   "courses": [
     {
@@ -2356,13 +2356,13 @@
       }
     },
     {
-      "id": 1257847216,
-      "osmType": "way",
-      "name": "Hallskaviks GK",
-      "lat": 60.03665685,
+      "id": 21121963,
+      "osmType": "relation",
+      "name": "Hallstaviks Golfklubb",
+      "lat": 60.0343794,
       "lon": 18.5930734,
       "bbox": {
-        "minLat": 60.0307456,
+        "minLat": 60.0261907,
         "minLon": 18.5869567,
         "maxLat": 60.0425681,
         "maxLon": 18.5991901
