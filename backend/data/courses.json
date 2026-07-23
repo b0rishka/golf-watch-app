@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-22T05:24:21.274267+00:00",
+  "generated": "2026-07-23T05:30:42.265058+00:00",
   "count": 642,
   "courses": [
     {
@@ -3073,7 +3073,7 @@
     {
       "id": 4106392,
       "osmType": "relation",
-      "name": "Ingarö GK",
+      "name": "Ingarö golfclub",
       "lat": 59.283898449999995,
       "lon": 18.4534652,
       "bbox": {
