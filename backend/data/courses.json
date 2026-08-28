@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-27T12:39:18.437430+00:00",
-  "count": 641,
+  "generated": "2026-08-28T14:12:44.302652+00:00",
+  "count": 643,
   "courses": [
     {
       "id": 95008055,
@@ -4085,6 +4085,19 @@
       }
     },
     {
+      "id": 16709133,
+      "osmType": "relation",
+      "name": "Lillestrøm Golf Klubb",
+      "lat": 59.9564726,
+      "lon": 11.075401150000001,
+      "bbox": {
+        "minLat": 59.9532538,
+        "minLon": 11.07211,
+        "maxLat": 59.9596914,
+        "maxLon": 11.0786923
+      }
+    },
+    {
       "id": 7423510,
       "osmType": "relation",
       "name": "Linde GK",
@@ -7787,6 +7800,19 @@
         "minLon": 12.3206329,
         "maxLat": 55.7926937,
         "maxLon": 12.337508
+      }
+    },
+    {
+      "id": 21291891,
+      "osmType": "relation",
+      "name": "Vörå Golf",
+      "lat": 63.1375945,
+      "lon": 22.26696755,
+      "bbox": {
+        "minLat": 63.132811,
+        "minLon": 22.259297,
+        "maxLat": 63.142378,
+        "maxLon": 22.2746381
       }
     },
     {
