@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-29T08:49:48.345779+00:00",
+  "generated": "2026-08-30T08:07:49.443703+00:00",
   "count": 643,
   "courses": [
     {
@@ -7365,12 +7365,12 @@
       "osmType": "relation",
       "name": "Ulricehamns Golfklubb",
       "lat": 57.79251715,
-      "lon": 13.4459956,
+      "lon": 13.446797499999999,
       "bbox": {
         "minLat": 57.7869418,
         "minLon": 13.4377438,
         "maxLat": 57.7980925,
-        "maxLon": 13.4542474
+        "maxLon": 13.4558512
       }
     },
     {
