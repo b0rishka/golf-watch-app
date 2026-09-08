@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-04T07:07:02.275014+00:00",
+  "generated": "2026-09-08T07:07:10.868451+00:00",
   "count": 642,
   "courses": [
     {
@@ -787,10 +787,10 @@
       "osmType": "relation",
       "name": "Bro Hof Slott Golf Club",
       "lat": 59.4982825,
-      "lon": 17.633781300000003,
+      "lon": 17.6337756,
       "bbox": {
         "minLat": 59.4902027,
-        "minLon": 17.6166926,
+        "minLon": 17.6166812,
         "maxLat": 59.5063623,
         "maxLon": 17.65087
       }
