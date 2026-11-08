@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-07T08:34:39.743132+00:00",
+  "generated": "2026-11-08T08:47:40.269820+00:00",
   "count": 644,
   "courses": [
     {
@@ -2002,6 +2002,19 @@
         "minLon": 17.7030126,
         "maxLat": 59.5338725,
         "maxLon": 17.7280931
+      }
+    },
+    {
+      "id": 3049188,
+      "osmType": "relation",
+      "name": "Golfstar Kvarnby",
+      "lat": 55.58301935,
+      "lon": 13.1064154,
+      "bbox": {
+        "minLat": 55.5765966,
+        "minLon": 13.0964374,
+        "maxLat": 55.5894421,
+        "maxLon": 13.1163934
       }
     },
     {
@@ -4459,19 +4472,6 @@
         "minLon": 13.0601329,
         "maxLat": 55.6247947,
         "maxLon": 13.0817894
-      }
-    },
-    {
-      "id": 3049188,
-      "osmType": "relation",
-      "name": "Malmö City GK, Kvarnbybanan",
-      "lat": 55.58301935,
-      "lon": 13.1064154,
-      "bbox": {
-        "minLat": 55.5765966,
-        "minLon": 13.0964374,
-        "maxLat": 55.5894421,
-        "maxLon": 13.1163934
       }
     },
     {
