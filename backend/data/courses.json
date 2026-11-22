@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-18T09:56:48.372018+00:00",
-  "count": 644,
+  "generated": "2026-11-22T09:33:30.019415+00:00",
+  "count": 643,
   "courses": [
     {
       "id": 95008055,
@@ -4267,19 +4267,6 @@
       }
     },
     {
-      "id": 536454750,
-      "osmType": "way",
-      "name": "Lundsbergs Golfklubb",
-      "lat": 59.489194499999996,
-      "lon": 14.182285700000001,
-      "bbox": {
-        "minLat": 59.4848039,
-        "minLon": 14.1733484,
-        "maxLat": 59.4935851,
-        "maxLon": 14.191223
-      }
-    },
-    {
       "id": 21745969,
       "osmType": "relation",
       "name": "Lundsbergs Golfklubb",
@@ -5102,13 +5089,13 @@
       "id": 171365455,
       "osmType": "way",
       "name": "Nässjö Golfklubb",
-      "lat": 57.6743331,
-      "lon": 14.669074250000001,
+      "lat": 57.6743193,
+      "lon": 14.669051750000001,
       "bbox": {
-        "minLat": 57.6679297,
+        "minLat": 57.6679021,
         "minLon": 14.6604606,
         "maxLat": 57.6807365,
-        "maxLon": 14.6776879
+        "maxLon": 14.6776429
       }
     },
     {
